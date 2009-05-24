@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Taken</string>
+		<key>GermanValue</key>
+		<string>Aufgaben</string>
+		<key>JapaneseValue</key>
+		<string>タスク</string>
+		<key>Key</key>
+		<string>Tasks</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>Value</key>
+		<string>Tasks</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meer Info...</string>
+		<key>JapaneseValue</key>
+		<string>詳細を表示...</string>
+		<key>Key</key>
+		<string>MoreInfo</string>
+		<key>Value</key>
+		<string>More Info...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Switch To Template</string>
+		<key>GermanValue</key>
+		<string>Zur Vorlage wechseln</string>
+		<key>JapaneseValue</key>
+		<string>テンプレートに切り替える</string>
+		<key>Key</key>
+		<string>Switch To Template</string>
+		<key>Value</key>
+		<string>Switch To Template</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieven een omschrijving op te geven van wat u deed net voor de fout optrad.\n\n%@</string>
+		<key>GermanValue</key>
+		<string>Bitte geben Sie eine detaillierte Beschreibung an, was Sie getan haben, kurz bevor der Fehler aufgetreten ist.\n\n%@</string>
+		<key>JapaneseValue</key>
+		<string>エラーの直前にしたことを記述してください。\n\n%@</string>
+		<key>Key</key>
+		<string>crashEmailBodyMessage</string>
+		<key>Value</key>
+		<string>Please provide a description of what you did right before the error.\n\n%@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit Zonder te Bewaren</string>
+		<key>GermanValue</key>
+		<string>Logout Without Saving</string>
+		<key>JapaneseValue</key>
+		<string>保存せずに閉じる</string>
+		<key>Key</key>
+		<string>logoutWithoutSaving</string>
+		<key>Value</key>
+		<string>Close Without Saving</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er zijn vensters met niet bewaarde wijzigingen.</string>
+		<key>GermanValue</key>
+		<string>There are windows with unsaved changes.</string>
+		<key>JapaneseValue</key>
+		<string>変更が保存されていないウィンドウが複数あります。</string>
+		<key>Key</key>
+		<string>unsavedChangesOnLogoutWarningTitle</string>
+		<key>Value</key>
+		<string>There are windows with unsaved changes.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw</string>
+		<key>GermanValue</key>
+		<string>Wiederholen</string>
+		<key>JapaneseValue</key>
+		<string>やり直し（リドゥ）</string>
+		<key>Key</key>
+		<string>redoMenuItemTitle</string>
+		<key>Value</key>
+		<string>Redo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gekoppelde Objecten</string>
+		<key>GermanValue</key>
+		<string>Verlinkte Objekte</string>
+		<key>JapaneseValue</key>
+		<string>リンクされたオブジェクト</string>
+		<key>Key</key>
+		<string>Linked Objects</string>
+		<key>Value</key>
+		<string>Linked Objects</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>cancelLabel</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>OK</string>
+		<key>JapaneseValue</key>
+		<string>OK</string>
+		<key>Key</key>
+		<string>OK</string>
+		<key>Value</key>
+		<string>OK</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afspraken</string>
+		<key>GermanValue</key>
+		<string>Termine</string>
+		<key>JapaneseValue</key>
+		<string>予約</string>
+		<key>Key</key>
+		<string>Timeblocks</string>
+		<key>Value</key>
+		<string>Appointments</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Slimme Lijst</string>
+		<key>GermanValue</key>
+		<string>Neue intelligente Liste </string>
+		<key>JapaneseValue</key>
+		<string>新規スマートリスト</string>
+		<key>Key</key>
+		<string>New Smart List</string>
+		<key>Value</key>
+		<string>New Smart List</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit Alles</string>
+		<key>GermanValue</key>
+		<string>Alle schließen</string>
+		<key>JapaneseValue</key>
+		<string>すべて閉じる</string>
+		<key>Key</key>
+		<string>closeAllLabel</string>
+		<key>Value</key>
+		<string>Close All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Spatie</string>
+		<key>GermanValue</key>
+		<string>Leertaste</string>
+		<key>JapaneseValue</key>
+		<string>スペース</string>
+		<key>Key</key>
+		<string>space</string>
+		<key>Value</key>
+		<string>Space</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stop Zonder te Bewaren</string>
+		<key>GermanValue</key>
+		<string>Quit Without Saving</string>
+		<key>JapaneseValue</key>
+		<string>保存せずに終了する</string>
+		<key>Key</key>
+		<string>quitWithoutSaving</string>
+		<key>Value</key>
+		<string>Quit Without Saving</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onbekend</string>
+		<key>GermanValue</key>
+		<string>Unbekannt</string>
+		<key>JapaneseValue</key>
+		<string>不明</string>
+		<key>Key</key>
+		<string>unknown</string>
+		<key>Value</key>
+		<string>UNKNOWN</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Projecten</string>
+		<key>GermanValue</key>
+		<string>Projekte</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクト</string>
+		<key>Key</key>
+		<string>Projects</string>
+		<key>Value</key>
+		<string>Projects</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Escape</string>
+		<key>GermanValue</key>
+		<string>Escapetaste</string>
+		<key>JapaneseValue</key>
+		<string>エスケイプ</string>
+		<key>Key</key>
+		<string>escape</string>
+		<key>Value</key>
+		<string>Escape</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwijder deze Kolom</string>
+		<key>GermanValue</key>
+		<string>Diese Spalte löschen</string>
+		<key>JapaneseValue</key>
+		<string>この縦列を削除</string>
+		<key>Key</key>
+		<string>removeThisColumn</string>
+		<key>Value</key>
+		<string>Remove This Column</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Contacten</string>
+		<key>GermanValue</key>
+		<string>Kontakte</string>
+		<key>JapaneseValue</key>
+		<string>連絡先</string>
+		<key>Key</key>
+		<string>Contacts</string>
+		<key>Value</key>
+		<string>Contacts</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Slimme Lijst...</string>
+		<key>GermanValue</key>
+		<string>Neue intelligente Liste...</string>
+		<key>JapaneseValue</key>
+		<string>新規スマートリスト...</string>
+		<key>Key</key>
+		<string>New Smart List...</string>
+		<key>Value</key>
+		<string>New Smart List...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolombreedtes aanpassen aan venster</string>
+		<key>GermanValue</key>
+		<string>Größe der Spalten anpassen, um in das Fenster zu passen</string>
+		<key>JapaneseValue</key>
+		<string>縦列をウィンドウにあうサイズにする</string>
+		<key>Key</key>
+		<string>sizeColumnsToFitWindow</string>
+		<key>Value</key>
+		<string>Size Columns To Fit Window</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Return</string>
+		<key>GermanValue</key>
+		<string>Zeilenschalter</string>
+		<key>JapaneseValue</key>
+		<string>リターン</string>
+		<key>Key</key>
+		<string>return</string>
+		<key>Value</key>
+		<string>Return</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niets Geselecteerd</string>
+		<key>GermanValue</key>
+		<string>Keine Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>未選択</string>
+		<key>Key</key>
+		<string>No Selection</string>
+		<key>Value</key>
+		<string>No Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Recente Zoekopdrachten Leegmaken</string>
+		<key>GermanValue</key>
+		<string>Kürzlich erfolgte Suchen löschen</string>
+		<key>JapaneseValue</key>
+		<string>検索履歴を消去</string>
+		<key>Key</key>
+		<string>clearRecentSearches</string>
+		<key>Value</key>
+		<string>Clear Recent Searches</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Contact</string>
+		<key>GermanValue</key>
+		<string>Kontakt</string>
+		<key>JapaneseValue</key>
+		<string>連絡先</string>
+		<key>Key</key>
+		<string>Contact</string>
+		<key>Value</key>
+		<string>Contact</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepen</string>
+		<key>GermanValue</key>
+		<string>Gruppen</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Groups</string>
+		<key>Value</key>
+		<string>Groups</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Recent</string>
+		<key>GermanValue</key>
+		<string>zuletzt</string>
+		<key>JapaneseValue</key>
+		<string>最近</string>
+		<key>Key</key>
+		<string>recents</string>
+		<key>Value</key>
+		<string>Recents</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Feature in ontwikkeling</string>
+		<key>GermanValue</key>
+		<string>Einrichtung wird in Kürze erscheinen</string>
+		<key>JapaneseValue</key>
+		<string>機能は近日登場予定です</string>
+		<key>Key</key>
+		<string>featureForthcomingLabel</string>
+		<key>Value</key>
+		<string>Feature Forthcoming</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Project</string>
+		<key>GermanValue</key>
+		<string>Projekt</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクト</string>
+		<key>Key</key>
+		<string>Project</string>
+		<key>Value</key>
+		<string>Project</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Resultaten</string>
+		<key>GermanValue</key>
+		<string>Ergebnisse</string>
+		<key>JapaneseValue</key>
+		<string>結果</string>
+		<key>Key</key>
+		<string>Results</string>
+		<key>Value</key>
+		<string>Results</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Lijst</string>
+		<key>GermanValue</key>
+		<string>Neue Liste</string>
+		<key>JapaneseValue</key>
+		<string>新規リスト</string>
+		<key>Key</key>
+		<string>New List</string>
+		<key>Value</key>
+		<string>New List</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Lijst...</string>
+		<key>GermanValue</key>
+		<string>Neue Liste...</string>
+		<key>JapaneseValue</key>
+		<string>新規リスト...</string>
+		<key>Key</key>
+		<string>New List...</string>
+		<key>Value</key>
+		<string>New List...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bezig met verwerken van %@ %d van %d</string>
+		<key>GermanValue</key>
+		<string>Verarbeitet %@ %d von %d</string>
+		<key>JapaneseValue</key>
+		<string>処理中 %@ %d of %d</string>
+		<key>Key</key>
+		<string>processingObjectCurrentIndexOfTotal</string>
+		<key>Value</key>
+		<string>Processing %@ %d of %d</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Deze feature werd nog niet geïmplementeerd. Kijk het even na in de volgende beta release.</string>
+		<key>GermanValue</key>
+		<string>Diese Einrichtung wurde noch nicht eingebaut. Bitte versuchen Sie es bei der nächsten beta Veröffentlichung erneut.</string>
+		<key>JapaneseValue</key>
+		<string>この機能はまだ組み込まれていません。 次のベータリリースをチェックしてください。</string>
+		<key>Key</key>
+		<string>featureHasNotBeenImplementedYetMsg</string>
+		<key>Value</key>
+		<string>This feature has not been implemented yet. Please check back again with the next beta release.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toevoegen</string>
+		<key>GermanValue</key>
+		<string>Hinzufügen</string>
+		<key>JapaneseValue</key>
+		<string>追加</string>
+		<key>Key</key>
+		<string>Add</string>
+		<key>Value</key>
+		<string>Add</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>AppleScript Fout</string>
+		<key>GermanValue</key>
+		<string>AppleSkript Fehler</string>
+		<key>JapaneseValue</key>
+		<string>AppleScriptエラー</string>
+		<key>Key</key>
+		<string>applescriptErrorLabel</string>
+		<key>Value</key>
+		<string>AppleScript Error</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Herstel</string>
+		<key>GermanValue</key>
+		<string>Widerrufen</string>
+		<key>JapaneseValue</key>
+		<string>取り消し（アンドゥ）</string>
+		<key>Key</key>
+		<string>undoMenuItemTitle</string>
+		<key>Value</key>
+		<string>Undo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er zijn vensters met niet bewaarde wijzigingen.</string>
+		<key>GermanValue</key>
+		<string>There are windows with unsaved changes.</string>
+		<key>JapaneseValue</key>
+		<string>変更が保存されていないウィンドウが複数あります。</string>
+		<key>Key</key>
+		<string>unsavedChangesOnQuitWarningTitle</string>
+		<key>Value</key>
+		<string>There are windows with unsaved changes.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meerdere Geselecteerd</string>
+		<key>GermanValue</key>
+		<string>Mehrfache Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>複数選択</string>
+		<key>Key</key>
+		<string>Multiple Selection</string>
+		<key>Value</key>
+		<string>Multiple Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuw</string>
+		<key>GermanValue</key>
+		<string>Neu</string>
+		<key>JapaneseValue</key>
+		<string>新</string>
+		<key>Key</key>
+		<string>New</string>
+		<key>Value</key>
+		<string>New</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opportuniteit</string>
+		<key>GermanValue</key>
+		<string>Chance</string>
+		<key>JapaneseValue</key>
+		<string>機会</string>
+		<key>Key</key>
+		<string>Opportunity</string>
+		<key>Value</key>
+		<string>Opportunity</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Om verder te kunnen gaan moeten alle gewijzigde kaarten worden gesloten.  Indien er niet bewaarde wijzigingen zijn, gaan deze verloren.</string>
+		<key>GermanValue</key>
+		<string>Um fortzufahren, werden alle zu bearbeitende Karten geschlossen. Falls ausstehende Änderungen vorhanden waren, wurden diese verloren.</string>
+		<key>JapaneseValue</key>
+		<string>継続すると全ての編集中のカードが閉じられます。 保留中の変更は保存されません。</string>
+		<key>Key</key>
+		<string>inOrderToContinueAllEditingCardsWillBeClosedIfThereAreAnyPendingChangesTheyWillBeLost</string>
+		<key>Value</key>
+		<string>In order to continue all editing cards will be closed. If there are any pending changes they will be lost.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Recente Zoekopdrachten</string>
+		<key>GermanValue</key>
+		<string>Zuletzt gesuchten Objekte</string>
+		<key>JapaneseValue</key>
+		<string>検索履歴</string>
+		<key>Key</key>
+		<string>recentSearches</string>
+		<key>Value</key>
+		<string>Recent Searches</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Solo</string>
+		<key>GermanValue</key>
+		<string>Allein</string>
+		<key>JapaneseValue</key>
+		<string>単独</string>
+		<key>Key</key>
+		<string>Solo</string>
+		<key>Value</key>
+		<string>Solo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afspraak</string>
+		<key>GermanValue</key>
+		<string>Termin</string>
+		<key>JapaneseValue</key>
+		<string>新規スマートリスト</string>
+		<key>Key</key>
+		<string>Timeblock</string>
+		<key>Value</key>
+		<string>Appointment</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolombreedte aanpassen aan tekst</string>
+		<key>GermanValue</key>
+		<string>Größe der Spalten anpassen, um in den Text zu hineinzupassen</string>
+		<key>JapaneseValue</key>
+		<string>縦列をテキストにあうサイズにする</string>
+		<key>Key</key>
+		<string>sizeColumnToFitText</string>
+		<key>Value</key>
+		<string>Size Column To Fit Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles</string>
+		<key>GermanValue</key>
+		<string>Alles</string>
+		<key>JapaneseValue</key>
+		<string>全部</string>
+		<key>Key</key>
+		<string>activityTypeChooserEverything</string>
+		<key>Value</key>
+		<string>Everything</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Group</string>
+		<key>GermanValue</key>
+		<string>Gruppe</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Group</string>
+		<key>Value</key>
+		<string>Group</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Waarschuwing</string>
+		<key>GermanValue</key>
+		<string>Warnung</string>
+		<key>JapaneseValue</key>
+		<string>警告</string>
+		<key>Key</key>
+		<string>warningLabel</string>
+		<key>Value</key>
+		<string>Warning</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opportuniteiten</string>
+		<key>GermanValue</key>
+		<string>Chancen</string>
+		<key>JapaneseValue</key>
+		<string>機会</string>
+		<key>Key</key>
+		<string>Opportunities</string>
+		<key>Value</key>
+		<string>Opportunities</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Taak</string>
+		<key>GermanValue</key>
+		<string>Aufgabe</string>
+		<key>JapaneseValue</key>
+		<string>タスク</string>
+		<key>Key</key>
+		<string>Task</string>
+		<key>Value</key>
+		<string>Task</string>
+	</dict>
+</array>
+</plist>

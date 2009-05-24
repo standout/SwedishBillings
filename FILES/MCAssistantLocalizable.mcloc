@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Beëindig</string>
+		<key>GermanValue</key>
+		<string>Schluss</string>
+		<key>JapaneseValue</key>
+		<string>終了</string>
+		<key>Key</key>
+		<string>Finish</string>
+		<key>LastLanguageImportTitle</key>
+		<string>Japanese</string>
+		<key>Value</key>
+		<string>Finish</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga Terug</string>
+		<key>GermanValue</key>
+		<string>Zurück</string>
+		<key>JapaneseValue</key>
+		<string>戻る</string>
+		<key>Key</key>
+		<string>Go Back</string>
+		<key>Value</key>
+		<string>Go Back</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga Verder</string>
+		<key>GermanValue</key>
+		<string>Fortfahren</string>
+		<key>JapaneseValue</key>
+		<string>続ける</string>
+		<key>Key</key>
+		<string>Continue</string>
+		<key>Value</key>
+		<string>Continue</string>
+	</dict>
+</array>
+</plist>

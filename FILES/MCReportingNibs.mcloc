@@ -1,0 +1,3712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket</string>
+		<key>GermanValue</key>
+		<string>Etikett</string>
+		<key>JapaneseValue</key>
+		<string>ラベル</string>
+		<key>Key</key>
+		<string>Label</string>
+		<key>LastLanguageImportTitle</key>
+		<string>Japanese</string>
+		<key>SwedishValue</key>
+		<string>Etikett</string>
+		<key>Value</key>
+		<string>Label</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Een</string>
+		<key>GermanValue</key>
+		<string>Ein/e</string>
+		<key>JapaneseValue</key>
+		<string>一</string>
+		<key>Key</key>
+		<string>One</string>
+		<key>SwedishValue</key>
+		<string>En</string>
+		<key>Value</key>
+		<string>One</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Specifieer welke elementen een gebruiker uit het rapport kan buitensluiten</string>
+		<key>GermanValue</key>
+		<string>Geben Sie an, welche Elemente für diese Meldung von einem Benutzer ausgeschlossen werden können</string>
+		<key>JapaneseValue</key>
+		<string>ユーザーがどのエレメントを除外できるか設定</string>
+		<key>Key</key>
+		<string>Specify which elements a user can exclude for this report</string>
+		<key>SwedishValue</key>
+		<string>Välj vilka element en användare kan undanta för denna rapport</string>
+		<key>Value</key>
+		<string>Specify which elements a user can exclude for this report</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data Rij</string>
+		<key>GermanValue</key>
+		<string>Data Reihe</string>
+		<key>JapaneseValue</key>
+		<string>データ行</string>
+		<key>Key</key>
+		<string>Data Row</string>
+		<key>SwedishValue</key>
+		<string>Datarad</string>
+		<key>Value</key>
+		<string>Data Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>US Letter</string>
+		<key>GermanValue</key>
+		<string>US Schreiben</string>
+		<key>JapaneseValue</key>
+		<string>US レター</string>
+		<key>Key</key>
+		<string>US Letter</string>
+		<key>SwedishValue</key>
+		<string>US Letter</string>
+		<key>Value</key>
+		<string>US Letter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>NSNumber</string>
+		<key>JapaneseValue</key>
+		<string>NSNumber</string>
+		<key>Key</key>
+		<string>NSNumber</string>
+		<key>SwedishValue</key>
+		<string>NSNumber</string>
+		<key>Value</key>
+		<string>NSNumber</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Andere</string>
+		<key>GermanValue</key>
+		<string>Andere</string>
+		<key>JapaneseValue</key>
+		<string>他</string>
+		<key>Key</key>
+		<string>Other</string>
+		<key>SwedishValue</key>
+		<string>Övrigt</string>
+		<key>Value</key>
+		<string>Other</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geef een naam op</string>
+		<key>GermanValue</key>
+		<string>Geben Sie einen Namen ein</string>
+		<key>JapaneseValue</key>
+		<string>名前を供給</string>
+		<key>Key</key>
+		<string>Provide a name</string>
+		<key>SwedishValue</key>
+		<string>Skriv ett namn</string>
+		<key>Value</key>
+		<string>Provide a name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Selecteer een Layout</string>
+		<key>GermanValue</key>
+		<string>Einen Layout auswählen</string>
+		<key>JapaneseValue</key>
+		<string>レイアウトの選択</string>
+		<key>Key</key>
+		<string>Select a Layout</string>
+		<key>SwedishValue</key>
+		<string>Välj en layout</string>
+		<key>Value</key>
+		<string>Select a Layout</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Drukt één template af voor alle binnenkomende objecten</string>
+		<key>GermanValue</key>
+		<string>Druckt eine Vorlage für alle eingebrachten Objekte</string>
+		<key>JapaneseValue</key>
+		<string>Prints one template for all objects passed in</string>
+		<key>Key</key>
+		<string>Prints one template for all objects passed in</string>
+		<key>SwedishValue</key>
+		<string>Skriver ut en mall för alla inkommande objekt</string>
+		<key>Value</key>
+		<string>Prints one template for all objects passed in</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Path van sleutel</string>
+		<key>GermanValue</key>
+		<string>Pfad vom Schlüssel:</string>
+		<key>JapaneseValue</key>
+		<string>キーからのパス</string>
+		<key>Key</key>
+		<string>Path from key</string>
+		<key>SwedishValue</key>
+		<string>Sökväg från nyckel</string>
+		<key>Value</key>
+		<string>Path from key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Oplopend</string>
+		<key>GermanValue</key>
+		<string>Aufsteigend</string>
+		<key>JapaneseValue</key>
+		<string>昇順</string>
+		<key>Key</key>
+		<string>Ascending</string>
+		<key>SwedishValue</key>
+		<string>Stigande</string>
+		<key>Value</key>
+		<string>Ascending</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Script:</string>
+		<key>GermanValue</key>
+		<string>Skript: </string>
+		<key>JapaneseValue</key>
+		<string>スクリプト:</string>
+		<key>Key</key>
+		<string>Script:</string>
+		<key>SwedishValue</key>
+		<string>Script:</string>
+		<key>Value</key>
+		<string>Script:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alle</string>
+		<key>GermanValue</key>
+		<string>Alle</string>
+		<key>JapaneseValue</key>
+		<string>全て</string>
+		<key>Key</key>
+		<string>All</string>
+		<key>SwedishValue</key>
+		<string>Alla</string>
+		<key>Value</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voor</string>
+		<key>GermanValue</key>
+		<string>Bevor</string>
+		<key>JapaneseValue</key>
+		<string>以前</string>
+		<key>Key</key>
+		<string>Before</string>
+		<key>SwedishValue</key>
+		<string>Före</string>
+		<key>Value</key>
+		<string>Before</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Huidige Datum</string>
+		<key>GermanValue</key>
+		<string>Current Date</string>
+		<key>JapaneseValue</key>
+		<string>現在の日付</string>
+		<key>Key</key>
+		<string>Current Date</string>
+		<key>SwedishValue</key>
+		<string>Dagens datum</string>
+		<key>Value</key>
+		<string>Current Date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dikke Opsomming</string>
+		<key>GermanValue</key>
+		<string>Massives Kreuz</string>
+		<key>JapaneseValue</key>
+		<string>太字の票</string>
+		<key>Key</key>
+		<string>Heavy Ballot</string>
+		<key>SwedishValue</key>
+		<string>Heavy Ballot</string>
+		<key>Value</key>
+		<string>Heavy Ballot</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende</string>
+		<key>GermanValue</key>
+		<string>Weiter</string>
+		<key>JapaneseValue</key>
+		<string>次</string>
+		<key>Key</key>
+		<string>Next</string>
+		<key>SwedishValue</key>
+		<string>Nästa</string>
+		<key>Value</key>
+		<string>Next</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hoogte aanpassen aan Parent</string>
+		<key>GermanValue</key>
+		<string>Höhe bis zum Hauptrahmen ausweiten</string>
+		<key>JapaneseValue</key>
+		<string>Stretch Height to Parent's</string>
+		<key>Key</key>
+		<string>Stretch Height to Parent's</string>
+		<key>SwedishValue</key>
+		<string>Sträck ut höjd till förälderns höjd</string>
+		<key>Value</key>
+		<string>Stretch Height to Parent's</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket Sheet</string>
+		<key>GermanValue</key>
+		<string>Blatt benennen</string>
+		<key>JapaneseValue</key>
+		<string>ラベルシート</string>
+		<key>Key</key>
+		<string>Label Sheet</string>
+		<key>SwedishValue</key>
+		<string>Etikettblad</string>
+		<key>Value</key>
+		<string>Label Sheet</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Wit</string>
+		<key>GermanValue</key>
+		<string>Weiß</string>
+		<key>JapaneseValue</key>
+		<string>白</string>
+		<key>Key</key>
+		<string>White</string>
+		<key>SwedishValue</key>
+		<string>Vit</string>
+		<key>Value</key>
+		<string>White</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Element Naam</string>
+		<key>GermanValue</key>
+		<string>Elementname</string>
+		<key>JapaneseValue</key>
+		<string>エレメントの名称</string>
+		<key>Key</key>
+		<string>Element Name</string>
+		<key>SwedishValue</key>
+		<string>Elementets namn</string>
+		<key>Value</key>
+		<string>Element Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina Instellingen...</string>
+		<key>GermanValue</key>
+		<string>Seitenaufbau...</string>
+		<key>JapaneseValue</key>
+		<string>ページ設定...</string>
+		<key>Key</key>
+		<string>Page Setup...</string>
+		<key>SwedishValue</key>
+		<string>Sidinställningar ...</string>
+		<key>Value</key>
+		<string>Page Setup...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Drukt één template af elke binnenkomend object (i.e Estimate)</string>
+		<key>GermanValue</key>
+		<string>Druckt eine Vorlage pro eingebrachtes Objekt ( z.B.: Kostenvonanschlag)</string>
+		<key>JapaneseValue</key>
+		<string>Prints one template per object passed in (i.e Estimate)</string>
+		<key>Key</key>
+		<string>Prints one template per object passed in (i.e Estimate)</string>
+		<key>SwedishValue</key>
+		<string>Skriver ut en mall per objekt (exempelvis Offert)</string>
+		<key>Value</key>
+		<string>Prints one template per object passed in (i.e Estimate)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tab</string>
+		<key>JapaneseValue</key>
+		<string>タブ</string>
+		<key>Key</key>
+		<string>Tab</string>
+		<key>SwedishValue</key>
+		<string>Tabb</string>
+		<key>Value</key>
+		<string>Tab</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepeer Op:</string>
+		<key>GermanValue</key>
+		<string>Gruppieren nach:</string>
+		<key>JapaneseValue</key>
+		<string>グループ:</string>
+		<key>Key</key>
+		<string>Group By:</string>
+		<key>SwedishValue</key>
+		<string>Gruppera efter:</string>
+		<key>Value</key>
+		<string>Group By:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voorvoegsel:</string>
+		<key>GermanValue</key>
+		<string>Präfix:</string>
+		<key>JapaneseValue</key>
+		<string>プレフィックス:</string>
+		<key>Key</key>
+		<string>Prefix:</string>
+		<key>SwedishValue</key>
+		<string>Prefix:</string>
+		<key>Value</key>
+		<string>Prefix:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>(bv naam)</string>
+		<key>GermanValue</key>
+		<string>(z.B.: name)</string>
+		<key>JapaneseValue</key>
+		<string>(名称)</string>
+		<key>Key</key>
+		<string>(i.e name)</string>
+		<key>SwedishValue</key>
+		<string>(ex. Namn)</string>
+		<key>Value</key>
+		<string>(i.e name)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>2de Rij</string>
+		<key>JapaneseValue</key>
+		<string>第二の横列</string>
+		<key>Key</key>
+		<string>2nd Row</string>
+		<key>SwedishValue</key>
+		<string>2:a raden</string>
+		<key>Value</key>
+		<string>2nd Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>NSString</string>
+		<key>JapaneseValue</key>
+		<string>NSString</string>
+		<key>Key</key>
+		<string>NSString</string>
+		<key>SwedishValue</key>
+		<string>NSString</string>
+		<key>Value</key>
+		<string>NSString</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vergelijkings waarde:</string>
+		<key>GermanValue</key>
+		<string>Vergleichswert:</string>
+		<key>JapaneseValue</key>
+		<string>比較値:</string>
+		<key>Key</key>
+		<string>Comparison Value:</string>
+		<key>SwedishValue</key>
+		<string>Jämförelsevärde:</string>
+		<key>Value</key>
+		<string>Comparison Value:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>(bv popupWaarde)</string>
+		<key>GermanValue</key>
+		<string>(z.B.: popupWert)</string>
+		<key>JapaneseValue</key>
+		<string>(popupValue)</string>
+		<key>Key</key>
+		<string>(i.e popupValue)</string>
+		<key>SwedishValue</key>
+		<string>(ex. popupValue)</string>
+		<key>Value</key>
+		<string>(i.e popupValue)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Exact Nummer of Tekst</string>
+		<key>GermanValue</key>
+		<string>Exakte Nummer oder Text</string>
+		<key>JapaneseValue</key>
+		<string>正確な数字化テキスト</string>
+		<key>Key</key>
+		<string>Exact Number or Text</string>
+		<key>SwedishValue</key>
+		<string>Exakt nummer eller text</string>
+		<key>Value</key>
+		<string>Exact Number or Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Onderaan:</string>
+		<key>GermanValue</key>
+		<string>Untere Zeile</string>
+		<key>JapaneseValue</key>
+		<string>下行:</string>
+		<key>Key</key>
+		<string>Bottom Line:</string>
+		<key>SwedishValue</key>
+		<string>Bottenlinje:</string>
+		<key>Value</key>
+		<string>Bottom Line:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Soort:</string>
+		<key>GermanValue</key>
+		<string>Art:</string>
+		<key>JapaneseValue</key>
+		<string>種類:</string>
+		<key>Key</key>
+		<string>Kind:</string>
+		<key>SwedishValue</key>
+		<string>Typ:</string>
+		<key>Value</key>
+		<string>Kind:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Scaling</string>
+		<key>GermanValue</key>
+		<string>Keine Skalierung</string>
+		<key>JapaneseValue</key>
+		<string>拡大縮小しない</string>
+		<key>Key</key>
+		<string>No Scaling</string>
+		<key>SwedishValue</key>
+		<string>Ingen skalning</string>
+		<key>Value</key>
+		<string>No Scaling</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afdrukvoorbeeld</string>
+		<key>GermanValue</key>
+		<string>Vorschau</string>
+		<key>JapaneseValue</key>
+		<string>プレビュー</string>
+		<key>Key</key>
+		<string>Preview</string>
+		<key>SwedishValue</key>
+		<string>Förhandsgranska</string>
+		<key>Value</key>
+		<string>Preview</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Element Keuze</string>
+		<key>GermanValue</key>
+		<string>Element Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>エレメントの選択</string>
+		<key>Key</key>
+		<string>Element Choice</string>
+		<key>SwedishValue</key>
+		<string>Elementval</string>
+		<key>Value</key>
+		<string>Element Choice</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwelijn</string>
+		<key>GermanValue</key>
+		<string>Zeilenvorschub</string>
+		<key>JapaneseValue</key>
+		<string>Newline</string>
+		<key>Key</key>
+		<string>Newline</string>
+		<key>SwedishValue</key>
+		<string>Ny rad</string>
+		<key>Value</key>
+		<string>Newline</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen</string>
+		<key>GermanValue</key>
+		<string>Keine</string>
+		<key>JapaneseValue</key>
+		<string>None</string>
+		<key>Key</key>
+		<string>None</string>
+		<key>SwedishValue</key>
+		<string>Ingen</string>
+		<key>Value</key>
+		<string>None</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaar Als...</string>
+		<key>GermanValue</key>
+		<string>Speichern unter... </string>
+		<key>JapaneseValue</key>
+		<string>名前をつけて保存...</string>
+		<key>Key</key>
+		<string>Save As...</string>
+		<key>SwedishValue</key>
+		<string>Spara som ...</string>
+		<key>Value</key>
+		<string>Save As...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Radio</string>
+		<key>JapaneseValue</key>
+		<string>ラジオ</string>
+		<key>Key</key>
+		<string>Radio</string>
+		<key>SwedishValue</key>
+		<string>Radio</string>
+		<key>Value</key>
+		<string>Radio</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Presets...</string>
+		<key>GermanValue</key>
+		<string>Voreinstellungen...</string>
+		<key>JapaneseValue</key>
+		<string>プリセット...</string>
+		<key>Key</key>
+		<string>Presets...</string>
+		<key>SwedishValue</key>
+		<string>Förinställningar ...</string>
+		<key>Value</key>
+		<string>Presets...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alignering:</string>
+		<key>GermanValue</key>
+		<string>Ausrichtung:</string>
+		<key>JapaneseValue</key>
+		<string>配置:</string>
+		<key>Key</key>
+		<string>Alignment:</string>
+		<key>SwedishValue</key>
+		<string>Justering</string>
+		<key>Value</key>
+		<string>Alignment:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Code</string>
+		<key>Key</key>
+		<string>Code</string>
+		<key>SwedishValue</key>
+		<string>Kod</string>
+		<key>Value</key>
+		<string>Code</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderaan Rechts</string>
+		<key>GermanValue</key>
+		<string>Unten rechts</string>
+		<key>JapaneseValue</key>
+		<string>右下</string>
+		<key>Key</key>
+		<string>Bottom Right</string>
+		<key>SwedishValue</key>
+		<string>Höger botten</string>
+		<key>Value</key>
+		<string>Bottom Right</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles dichtklappen</string>
+		<key>GermanValue</key>
+		<string>Alle reduzieren</string>
+		<key>JapaneseValue</key>
+		<string>全て折りたたむ</string>
+		<key>Key</key>
+		<string>Collapse All</string>
+		<key>SwedishValue</key>
+		<string>Kollapsa allt</string>
+		<key>Value</key>
+		<string>Collapse All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kleur:</string>
+		<key>GermanValue</key>
+		<string>Farbe</string>
+		<key>JapaneseValue</key>
+		<string>色:</string>
+		<key>Key</key>
+		<string>Color:</string>
+		<key>SwedishValue</key>
+		<string>Färg:</string>
+		<key>Value</key>
+		<string>Color:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Veld is waar</string>
+		<key>GermanValue</key>
+		<string>Feld ist korrekt</string>
+		<key>JapaneseValue</key>
+		<string>フィールドは正確です</string>
+		<key>Key</key>
+		<string>Field is true</string>
+		<key>SwedishValue</key>
+		<string>Fält är sant</string>
+		<key>Value</key>
+		<string>Field is true</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Uitgelijnd</string>
+		<key>GermanValue</key>
+		<string>Blocksatz</string>
+		<key>JapaneseValue</key>
+		<string>両端をそろえる</string>
+		<key>Key</key>
+		<string>Justified</string>
+		<key>SwedishValue</key>
+		<string>Spärrad</string>
+		<key>Value</key>
+		<string>Justified</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Genoemde Afbeelding:</string>
+		<key>GermanValue</key>
+		<string>Benanntes Bild:</string>
+		<key>JapaneseValue</key>
+		<string>名称済みイメージ:</string>
+		<key>Key</key>
+		<string>Named Image:</string>
+		<key>SwedishValue</key>
+		<string>Namngiven bild:</string>
+		<key>Value</key>
+		<string>Named Image:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gekozen kolommen</string>
+		<key>GermanValue</key>
+		<string>Ausgewählte Spalten</string>
+		<key>JapaneseValue</key>
+		<string>選ばれた列</string>
+		<key>Key</key>
+		<string>Chosen Columns</string>
+		<key>SwedishValue</key>
+		<string>Valda kolumner</string>
+		<key>Value</key>
+		<string>Chosen Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Relatie:</string>
+		<key>GermanValue</key>
+		<string>Beziehung:</string>
+		<key>JapaneseValue</key>
+		<string>関係:</string>
+		<key>Key</key>
+		<string>Relationship:</string>
+		<key>SwedishValue</key>
+		<string>Relation:</string>
+		<key>Value</key>
+		<string>Relationship:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Venster</string>
+		<key>GermanValue</key>
+		<string>Fenster</string>
+		<key>JapaneseValue</key>
+		<string>ウィンドウ</string>
+		<key>Key</key>
+		<string>Window</string>
+		<key>SwedishValue</key>
+		<string>Fönster</string>
+		<key>Value</key>
+		<string>Window</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Placeholder:</string>
+		<key>GermanValue</key>
+		<string>Placeholder:</string>
+		<key>JapaneseValue</key>
+		<string>Placeholder:</string>
+		<key>Key</key>
+		<string>Placeholder:</string>
+		<key>SwedishValue</key>
+		<string>Platshållare</string>
+		<key>Value</key>
+		<string>Placeholder:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alle papier-, lettertype-, en kolomformaten werden gespecifeerd in punten (1/72 of an inch).</string>
+		<key>GermanValue</key>
+		<string>Alle Papiere, Schriften, und Größen sind in Punkten angegeben (1 cm&lt;=&gt; 28.35 Punkte).</string>
+		<key>JapaneseValue</key>
+		<string>All paper, font, and column sizes are specified in points (1/72 of an inch).</string>
+		<key>Key</key>
+		<string>All paper, font, and column sizes are specified in points (1/72 of an inch).</string>
+		<key>SwedishValue</key>
+		<string>Alla storlekar väljs i punkter (1/72 av en tum)</string>
+		<key>Value</key>
+		<string>All paper, font, and column sizes are specified in points (1/72 of an inch).</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles Openklappen</string>
+		<key>GermanValue</key>
+		<string>Alle erweitern</string>
+		<key>JapaneseValue</key>
+		<string>全て展開する</string>
+		<key>Key</key>
+		<string>Expand All</string>
+		<key>SwedishValue</key>
+		<string>Expandera alla</string>
+		<key>Value</key>
+		<string>Expand All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Drukt één template af elke binnenkomend object</string>
+		<key>GermanValue</key>
+		<string>Druckt eine Vorlage pro eingebrachtes Objekt</string>
+		<key>JapaneseValue</key>
+		<string>Prints one template per object passed in　</string>
+		<key>Key</key>
+		<string>Prints one template per object passed in</string>
+		<key>SwedishValue</key>
+		<string>Skriver ut en mall per objekt</string>
+		<key>Value</key>
+		<string>Prints one template per object passed in</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Visuele Instellingen</string>
+		<key>GermanValue</key>
+		<string>Erscheinungsbild konfigurieren</string>
+		<key>JapaneseValue</key>
+		<string>外見の設定</string>
+		<key>Key</key>
+		<string>Configure Appearance</string>
+		<key>SwedishValue</key>
+		<string>Konfigurera utseende</string>
+		<key>Value</key>
+		<string>Configure Appearance</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Som</string>
+		<key>GermanValue</key>
+		<string>Summe</string>
+		<key>JapaneseValue</key>
+		<string>合計</string>
+		<key>Key</key>
+		<string>Sum</string>
+		<key>SwedishValue</key>
+		<string>Summa</string>
+		<key>Value</key>
+		<string>Sum</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Het is mogelijk om het uiterlijk manueel aan te passen aan de hand van de infovensters.</string>
+		<key>GermanValue</key>
+		<string>Sie können mit Hilfe der Informationen das Erscheinungsbild auch manuell konfigurieren.</string>
+		<key>JapaneseValue</key>
+		<string>アピアランスは inspectors からも設定できます。</string>
+		<key>Key</key>
+		<string>You can also manually configure the appearance using the inspectors.</string>
+		<key>SwedishValue</key>
+		<string>Du kan manuellt ställa in utseendet med hjälpa av Inställingspanelen.</string>
+		<key>Value</key>
+		<string>You can also manually configure the appearance using the inspectors.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Streep:</string>
+		<key>GermanValue</key>
+		<string>Querstrich</string>
+		<key>JapaneseValue</key>
+		<string>ダッシュ:</string>
+		<key>Key</key>
+		<string>Dash:</string>
+		<key>SwedishValue</key>
+		<string>Streck:</string>
+		<key>Value</key>
+		<string>Dash:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afbeelding van sleutel</string>
+		<key>GermanValue</key>
+		<string>Bild vom Schlüssel</string>
+		<key>JapaneseValue</key>
+		<string>キーからのイメージ</string>
+		<key>Key</key>
+		<string>Image from key</string>
+		<key>SwedishValue</key>
+		<string>Bild från nyckel</string>
+		<key>Value</key>
+		<string>Image from key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rijen:</string>
+		<key>GermanValue</key>
+		<string>Reihen:</string>
+		<key>JapaneseValue</key>
+		<string>Rows:</string>
+		<key>Key</key>
+		<string>Rows:</string>
+		<key>SwedishValue</key>
+		<string>Rader:</string>
+		<key>Value</key>
+		<string>Rows:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Selectie</string>
+		<key>GermanValue</key>
+		<string>Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>選択</string>
+		<key>Key</key>
+		<string>Selection</string>
+		<key>SwedishValue</key>
+		<string>Markering</string>
+		<key>Value</key>
+		<string>Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>x:</string>
+		<key>JapaneseValue</key>
+		<string>x:</string>
+		<key>Key</key>
+		<string>x:</string>
+		<key>SwedishValue</key>
+		<string>x:</string>
+		<key>Value</key>
+		<string>x:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Centrum</string>
+		<key>GermanValue</key>
+		<string>Mitte</string>
+		<key>JapaneseValue</key>
+		<string>センター</string>
+		<key>Key</key>
+		<string>Center</string>
+		<key>SwedishValue</key>
+		<string>Centrera</string>
+		<key>Value</key>
+		<string>Center</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Wijzig</string>
+		<key>GermanValue</key>
+		<string>Bearbeiten</string>
+		<key>JapaneseValue</key>
+		<string>編集</string>
+		<key>Key</key>
+		<string>Edit</string>
+		<key>SwedishValue</key>
+		<string>Redigera</string>
+		<key>Value</key>
+		<string>Edit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stijl:</string>
+		<key>GermanValue</key>
+		<string>Stil:</string>
+		<key>JapaneseValue</key>
+		<string>スタイル:</string>
+		<key>Key</key>
+		<string>Style:</string>
+		<key>SwedishValue</key>
+		<string>Stil:</string>
+		<key>Value</key>
+		<string>Style:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Titel</string>
+		<key>GermanValue</key>
+		<string>Titel</string>
+		<key>JapaneseValue</key>
+		<string>タイトル</string>
+		<key>Key</key>
+		<string>Title</string>
+		<key>SwedishValue</key>
+		<string>Rubrik</string>
+		<key>Value</key>
+		<string>Title</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naam</string>
+		<key>JapaneseValue</key>
+		<string>名前</string>
+		<key>Key</key>
+		<string>Name</string>
+		<key>SwedishValue</key>
+		<string>Namn</string>
+		<key>Value</key>
+		<string>Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket:</string>
+		<key>GermanValue</key>
+		<string>Etikett:</string>
+		<key>JapaneseValue</key>
+		<string>ラベル:</string>
+		<key>Key</key>
+		<string>Label:</string>
+		<key>SwedishValue</key>
+		<string>Etikett:</string>
+		<key>Value</key>
+		<string>Label:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Waar:</string>
+		<key>GermanValue</key>
+		<string>Wo:</string>
+		<key>JapaneseValue</key>
+		<string>何処:</string>
+		<key>Key</key>
+		<string>Where:</string>
+		<key>SwedishValue</key>
+		<string>Där:</string>
+		<key>Value</key>
+		<string>Where:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Haal objecten onmiddelljk uit de databank.  Selecteer het type van de gewenste opbjecten en specifeer filter criteria indien nodig</string>
+		<key>GermanValue</key>
+		<string>Laden Sie die Objekte direkt aus der Datenbank. Wählen Sie eine Art des Objekts aus, und bestimmen Sie die Filterungskriterien</string>
+		<key>JapaneseValue</key>
+		<string>オブジェクトをデータベースから直接読み込む。オブジェクトの種類とフィルターの基準を選択してください。</string>
+		<key>Key</key>
+		<string>Fetch objects directly from the database. Select the kind of objects you want and optional specify fitering criteria</string>
+		<key>SwedishValue</key>
+		<string>Hämta objekt direkt från databasen. Välj den typ av objekt du vill och eventuella filter.</string>
+		<key>Value</key>
+		<string>Fetch objects directly from the database. Select the kind of objects you want and optional specify fitering criteria</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Locatie:</string>
+		<key>GermanValue</key>
+		<string>Ort:</string>
+		<key>JapaneseValue</key>
+		<string>位置:</string>
+		<key>Key</key>
+		<string>Location:</string>
+		<key>SwedishValue</key>
+		<string>Plats:</string>
+		<key>Value</key>
+		<string>Location:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Key Path</string>
+		<key>GermanValue</key>
+		<string>Schlüssel</string>
+		<key>JapaneseValue</key>
+		<string>キーパス</string>
+		<key>Key</key>
+		<string>Key Path</string>
+		<key>SwedishValue</key>
+		<string>Nyckelsökväg</string>
+		<key>Value</key>
+		<string>Key Path</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Heavy Check</string>
+		<key>GermanValue</key>
+		<string>Massiver Haken</string>
+		<key>JapaneseValue</key>
+		<string>太字チェック</string>
+		<key>Key</key>
+		<string>Heavy Check</string>
+		<key>SwedishValue</key>
+		<string>Heavy Check</string>
+		<key>Value</key>
+		<string>Heavy Check</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst Samenvoegen:</string>
+		<key>GermanValue</key>
+		<string>Text verbinden:</string>
+		<key>JapaneseValue</key>
+		<string>テキスト結合:</string>
+		<key>Key</key>
+		<string>Text Merge:</string>
+		<key>SwedishValue</key>
+		<string>Textsammanslagning:</string>
+		<key>Value</key>
+		<string>Text Merge:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Item3</string>
+		<key>JapaneseValue</key>
+		<string>アイテム3</string>
+		<key>Key</key>
+		<string>Item3</string>
+		<key>SwedishValue</key>
+		<string>Item3</string>
+		<key>Value</key>
+		<string>Item3</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Omschrijving voor Gebruiker</string>
+		<key>GermanValue</key>
+		<string>Beschreibung für Benutzer</string>
+		<key>JapaneseValue</key>
+		<string>ユーザーへの説明</string>
+		<key>Key</key>
+		<string>Description for User</string>
+		<key>SwedishValue</key>
+		<string>Beskrivning för användare</string>
+		<key>Value</key>
+		<string>Description for User</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rechthoek</string>
+		<key>JapaneseValue</key>
+		<string>ボックス</string>
+		<key>Key</key>
+		<string>Box</string>
+		<key>SwedishValue</key>
+		<string>Ruta</string>
+		<key>Value</key>
+		<string>Box</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Uitvoeren</string>
+		<key>JapaneseValue</key>
+		<string>軌道</string>
+		<key>Key</key>
+		<string>Run</string>
+		<key>SwedishValue</key>
+		<string>Kör</string>
+		<key>Value</key>
+		<string>Run</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verplicht</string>
+		<key>GermanValue</key>
+		<string>Obligatorisch</string>
+		<key>JapaneseValue</key>
+		<string>必須</string>
+		<key>Key</key>
+		<string>Mandatory</string>
+		<key>SwedishValue</key>
+		<string>Obligatorisk</string>
+		<key>Value</key>
+		<string>Mandatory</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Spatie</string>
+		<key>GermanValue</key>
+		<string>Leertaste</string>
+		<key>JapaneseValue</key>
+		<string>スペース</string>
+		<key>Key</key>
+		<string>Space</string>
+		<key>SwedishValue</key>
+		<string>Luft</string>
+		<key>Value</key>
+		<string>Space</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Datum</string>
+		<key>GermanValue</key>
+		<string>Datum</string>
+		<key>JapaneseValue</key>
+		<string>日付</string>
+		<key>Key</key>
+		<string>Date</string>
+		<key>SwedishValue</key>
+		<string>Datum</string>
+		<key>Value</key>
+		<string>Date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Druk Af</string>
+		<key>GermanValue</key>
+		<string>Drucken</string>
+		<key>JapaneseValue</key>
+		<string>印刷</string>
+		<key>Key</key>
+		<string>Print</string>
+		<key>SwedishValue</key>
+		<string>Skriv ut</string>
+		<key>Value</key>
+		<string>Print</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderaan Links</string>
+		<key>GermanValue</key>
+		<string>Unten links</string>
+		<key>JapaneseValue</key>
+		<string>左下</string>
+		<key>Key</key>
+		<string>Bottom Left</string>
+		<key>SwedishValue</key>
+		<string>Vänster botten</string>
+		<key>Value</key>
+		<string>Bottom Left</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Produkt ID:</string>
+		<key>GermanValue</key>
+		<string>Produkt-ID</string>
+		<key>JapaneseValue</key>
+		<string>商品番号:</string>
+		<key>Key</key>
+		<string>Product ID:</string>
+		<key>SwedishValue</key>
+		<string>Produkt-id:</string>
+		<key>Value</key>
+		<string>Product ID:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voor het ophalen van de Data</string>
+		<key>GermanValue</key>
+		<string>Vor Data Auszug</string>
+		<key>JapaneseValue</key>
+		<string>データ解凍前</string>
+		<key>Key</key>
+		<string>Pre Data Extraction</string>
+		<key>SwedishValue</key>
+		<string>Fördataextraktion:</string>
+		<key>Value</key>
+		<string>Pre Data Extraction</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pure SQL</string>
+		<key>GermanValue</key>
+		<string>Reine SQL</string>
+		<key>JapaneseValue</key>
+		<string>Raw SQL</string>
+		<key>Key</key>
+		<string>Raw SQL</string>
+		<key>SwedishValue</key>
+		<string>Rå SQL</string>
+		<key>Value</key>
+		<string>Raw SQL</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Boven Links</string>
+		<key>GermanValue</key>
+		<string>Oben links</string>
+		<key>JapaneseValue</key>
+		<string>左上</string>
+		<key>Key</key>
+		<string>Top Left</string>
+		<key>SwedishValue</key>
+		<string>Vänster topp</string>
+		<key>Value</key>
+		<string>Top Left</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Achtergrond:</string>
+		<key>GermanValue</key>
+		<string>Hintergrund</string>
+		<key>JapaneseValue</key>
+		<string>背景:</string>
+		<key>Key</key>
+		<string>Background:</string>
+		<key>SwedishValue</key>
+		<string>Bakgrund:</string>
+		<key>Value</key>
+		<string>Background:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Start met een blanco layout of rapport</string>
+		<key>GermanValue</key>
+		<string>Mit einem unbeschriebenen Layout oder Bericht beginnen</string>
+		<key>JapaneseValue</key>
+		<string>空白のレイアウトかレポートから始める</string>
+		<key>Key</key>
+		<string>Start with a blank layout or report</string>
+		<key>SwedishValue</key>
+		<string>Börja med en blank layout eller rapport</string>
+		<key>Value</key>
+		<string>Start with a blank layout or report</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Boven:</string>
+		<key>GermanValue</key>
+		<string>Oben:</string>
+		<key>JapaneseValue</key>
+		<string>最上:</string>
+		<key>Key</key>
+		<string>Top:</string>
+		<key>SwedishValue</key>
+		<string>Topp:</string>
+		<key>Value</key>
+		<string>Top:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Check</string>
+		<key>GermanValue</key>
+		<string>Haken</string>
+		<key>JapaneseValue</key>
+		<string>チェック</string>
+		<key>Key</key>
+		<string>Check</string>
+		<key>SwedishValue</key>
+		<string>Check</string>
+		<key>Value</key>
+		<string>Check</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voorbeelden</string>
+		<key>GermanValue</key>
+		<string>Beispiele</string>
+		<key>JapaneseValue</key>
+		<string>例</string>
+		<key>Key</key>
+		<string>Examples</string>
+		<key>SwedishValue</key>
+		<string>Exempel</string>
+		<key>Value</key>
+		<string>Examples</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Parent Groepeer Op</string>
+		<key>GermanValue</key>
+		<string>Gruppieren nach - Ursprung</string>
+		<key>JapaneseValue</key>
+		<string>Parent Group By</string>
+		<key>Key</key>
+		<string>Parent Group By</string>
+		<key>SwedishValue</key>
+		<string>Föräldragruppera genom</string>
+		<key>Value</key>
+		<string>Parent Group By</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vereist misschien invoer van de gebruiker</string>
+		<key>GermanValue</key>
+		<string>Könnte Benutzer bitten ein Kriterium einzugeben</string>
+		<key>JapaneseValue</key>
+		<string>ユーザーがクライテリアを入力する必要がある場合があります</string>
+		<key>Key</key>
+		<string>May require user to enter criteria</string>
+		<key>SwedishValue</key>
+		<string>Kan tvinga användaren skriva in ett kriterie</string>
+		<key>Value</key>
+		<string>May require user to enter criteria</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Laden</string>
+		<key>GermanValue</key>
+		<string>Neu laden</string>
+		<key>JapaneseValue</key>
+		<string>リロード</string>
+		<key>Key</key>
+		<string>Reload</string>
+		<key>SwedishValue</key>
+		<string>Ladda om</string>
+		<key>Value</key>
+		<string>Reload</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vergelijk</string>
+		<key>GermanValue</key>
+		<string>Vergleichen</string>
+		<key>JapaneseValue</key>
+		<string>比べる</string>
+		<key>Key</key>
+		<string>Compare</string>
+		<key>SwedishValue</key>
+		<string>Jämför</string>
+		<key>Value</key>
+		<string>Compare</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hernieuwen</string>
+		<key>JapaneseValue</key>
+		<string>リフレッシュ</string>
+		<key>Key</key>
+		<string>Refresh</string>
+		<key>SwedishValue</key>
+		<string>Fräscha upp</string>
+		<key>Value</key>
+		<string>Refresh</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruikers Selectie</string>
+		<key>GermanValue</key>
+		<string>Benutzerauswahl</string>
+		<key>JapaneseValue</key>
+		<string>ユーザー選択</string>
+		<key>Key</key>
+		<string>User selection</string>
+		<key>SwedishValue</key>
+		<string>Användarmarkering</string>
+		<key>Value</key>
+		<string>User selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Eenvoudig</string>
+		<key>GermanValue</key>
+		<string>Einfach</string>
+		<key>JapaneseValue</key>
+		<string>簡単</string>
+		<key>Key</key>
+		<string>Easy</string>
+		<key>SwedishValue</key>
+		<string>Enkel</string>
+		<key>Value</key>
+		<string>Easy</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Horizontaal:</string>
+		<key>JapaneseValue</key>
+		<string>横向き:</string>
+		<key>Key</key>
+		<string>Horizontal:</string>
+		<key>SwedishValue</key>
+		<string>Horisontell</string>
+		<key>Value</key>
+		<string>Horizontal:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Soort</string>
+		<key>GermanValue</key>
+		<string>Art</string>
+		<key>JapaneseValue</key>
+		<string>種類</string>
+		<key>Key</key>
+		<string>Kind</string>
+		<key>SwedishValue</key>
+		<string>Typ</string>
+		<key>Value</key>
+		<string>Kind</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gemapte Naam</string>
+		<key>GermanValue</key>
+		<string>Zugeordneter Name</string>
+		<key>JapaneseValue</key>
+		<string>マップ名</string>
+		<key>Key</key>
+		<string>Mapped Name</string>
+		<key>SwedishValue</key>
+		<string>Mappat namn</string>
+		<key>Value</key>
+		<string>Mapped Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Resultaat Velden</string>
+		<key>GermanValue</key>
+		<string>Fertige Felder</string>
+		<key>JapaneseValue</key>
+		<string>結果として生じたフィールド</string>
+		<key>Key</key>
+		<string>Resulting Fields</string>
+		<key>SwedishValue</key>
+		<string>Resultatfält</string>
+		<key>Value</key>
+		<string>Resulting Fields</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sleutel Waarde:</string>
+		<key>GermanValue</key>
+		<string>Wert-Taste</string>
+		<key>JapaneseValue</key>
+		<string>Value Key:</string>
+		<key>Key</key>
+		<string>Value Key:</string>
+		<key>SwedishValue</key>
+		<string>Värdenyckel:</string>
+		<key>Value</key>
+		<string>Value Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Breedte</string>
+		<key>GermanValue</key>
+		<string>Breite</string>
+		<key>JapaneseValue</key>
+		<string>幅</string>
+		<key>Key</key>
+		<string>Width</string>
+		<key>SwedishValue</key>
+		<string>Bredd</string>
+		<key>Value</key>
+		<string>Width</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderaan</string>
+		<key>GermanValue</key>
+		<string>Unten</string>
+		<key>JapaneseValue</key>
+		<string>最下</string>
+		<key>Key</key>
+		<string>Bottom</string>
+		<key>SwedishValue</key>
+		<string>Botten</string>
+		<key>Value</key>
+		<string>Bottom</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Criteria</string>
+		<key>GermanValue</key>
+		<string>Kriterien</string>
+		<key>JapaneseValue</key>
+		<string>クライテリア</string>
+		<key>Key</key>
+		<string>Criteria</string>
+		<key>SwedishValue</key>
+		<string>Kriterie</string>
+		<key>Value</key>
+		<string>Criteria</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina Kantlijnen</string>
+		<key>GermanValue</key>
+		<string>Seitenränder</string>
+		<key>JapaneseValue</key>
+		<string>ページマージン</string>
+		<key>Key</key>
+		<string>Page Margins</string>
+		<key>SwedishValue</key>
+		<string>Sidmarginaler</string>
+		<key>Value</key>
+		<string>Page Margins</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Parent "Data Rij" of "Pagina"</string>
+		<key>GermanValue</key>
+		<string>Ursprung der "Data Reihe" oder "Seite"</string>
+		<key>JapaneseValue</key>
+		<string>Parent "Data Row" or "Page"</string>
+		<key>Key</key>
+		<string>Parent "Data Row" or "Page"</string>
+		<key>SwedishValue</key>
+		<string>Förälderns "Datarad" eller "Sida"</string>
+		<key>Value</key>
+		<string>Parent "Data Row" or "Page"</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst</string>
+		<key>JapaneseValue</key>
+		<string>テキスト</string>
+		<key>Key</key>
+		<string>Text</string>
+		<key>SwedishValue</key>
+		<string>Text</string>
+		<key>Value</key>
+		<string>Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijst van Kolommen</string>
+		<key>GermanValue</key>
+		<string>Liste aus Spalten</string>
+		<key>JapaneseValue</key>
+		<string>縦行からリスト</string>
+		<key>Key</key>
+		<string>List from Columns</string>
+		<key>SwedishValue</key>
+		<string>Lista från kolumner</string>
+		<key>Value</key>
+		<string>List from Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Van:</string>
+		<key>GermanValue</key>
+		<string>Von:</string>
+		<key>JapaneseValue</key>
+		<string>ここから:</string>
+		<key>Key</key>
+		<string>From:</string>
+		<key>SwedishValue</key>
+		<string>Från:</string>
+		<key>Value</key>
+		<string>From:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Objecteb</string>
+		<key>GermanValue</key>
+		<string>Objekte</string>
+		<key>JapaneseValue</key>
+		<string>オブジェクト</string>
+		<key>Key</key>
+		<string>Objects</string>
+		<key>SwedishValue</key>
+		<string>Objekt</string>
+		<key>Value</key>
+		<string>Objects</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak een rapport in plaats van een afdruk layout</string>
+		<key>GermanValue</key>
+		<string>Einen Bericht erstellen statt ein Layout zu drucken</string>
+		<key>JapaneseValue</key>
+		<string>プリントレイアウトではなくレポートを作成</string>
+		<key>Key</key>
+		<string>Make report instead of print layout</string>
+		<key>SwedishValue</key>
+		<string>Gör rapport istället för utskriftslayout</string>
+		<key>Value</key>
+		<string>Make report instead of print layout</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Standaard  Afbeeldingsnaam:</string>
+		<key>GermanValue</key>
+		<string>Standard Bildname:</string>
+		<key>JapaneseValue</key>
+		<string>デフォルトのイメージ名称:</string>
+		<key>Key</key>
+		<string>Default  Image Name:</string>
+		<key>SwedishValue</key>
+		<string>Standardbildnamn</string>
+		<key>Value</key>
+		<string>Default  Image Name:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Filter Criteria</string>
+		<key>GermanValue</key>
+		<string>Filterungskriterium</string>
+		<key>JapaneseValue</key>
+		<string>フィルターのクライテリア</string>
+		<key>Key</key>
+		<string>Filtering Criteria</string>
+		<key>SwedishValue</key>
+		<string>Filtreringskriterie</string>
+		<key>Value</key>
+		<string>Filtering Criteria</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Selectie</string>
+		<key>GermanValue</key>
+		<string>Keine Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>選択されていません</string>
+		<key>Key</key>
+		<string>No Selection</string>
+		<key>Value</key>
+		<string>No Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Preset Labels</string>
+		<key>GermanValue</key>
+		<string>Etiketten voreinstellen</string>
+		<key>JapaneseValue</key>
+		<string>プリセットラベル</string>
+		<key>Key</key>
+		<string>Preset Labels</string>
+		<key>Value</key>
+		<string>Preset Labels</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Start</string>
+		<key>GermanValue</key>
+		<string>Start</string>
+		<key>JapaneseValue</key>
+		<string>スタート</string>
+		<key>Key</key>
+		<string>Start</string>
+		<key>Value</key>
+		<string>Start</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alternerende Rij Kleur</string>
+		<key>GermanValue</key>
+		<string>Alternativ Reihenfarbe</string>
+		<key>JapaneseValue</key>
+		<string>違う横列の色</string>
+		<key>Key</key>
+		<string>Alternate Row Color</string>
+		<key>Value</key>
+		<string>Alternate Row Color</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Layouts</string>
+		<key>JapaneseValue</key>
+		<string>レイアウト</string>
+		<key>Key</key>
+		<string>Layouts</string>
+		<key>Value</key>
+		<string>Layouts</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Na het ophalen van de Data</string>
+		<key>GermanValue</key>
+		<string>Nach Data Auszug</string>
+		<key>JapaneseValue</key>
+		<string>データ解凍後</string>
+		<key>Key</key>
+		<string>Post Data Extraction</string>
+		<key>Value</key>
+		<string>Post Data Extraction</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Natuurlijk</string>
+		<key>GermanValue</key>
+		<string>Ursprünglicher</string>
+		<key>JapaneseValue</key>
+		<string>ナチュラル</string>
+		<key>Key</key>
+		<string>Natural</string>
+		<key>Value</key>
+		<string>Natural</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Samenvattingsrij</string>
+		<key>GermanValue</key>
+		<string>Zusammenfassungsreihe</string>
+		<key>JapaneseValue</key>
+		<string>要約行</string>
+		<key>Key</key>
+		<string>Summary Row</string>
+		<key>Value</key>
+		<string>Summary Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Eind Datum:</string>
+		<key>GermanValue</key>
+		<string>Enddatum Taste:</string>
+		<key>JapaneseValue</key>
+		<string>終了日付キー:</string>
+		<key>Key</key>
+		<string>End Date Key:</string>
+		<key>Value</key>
+		<string>End Date Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hoek:</string>
+		<key>GermanValue</key>
+		<string>Ecke:</string>
+		<key>JapaneseValue</key>
+		<string>角:</string>
+		<key>Key</key>
+		<string>Corner:</string>
+		<key>Value</key>
+		<string>Corner:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;NSCalendarDate</string>
+		<key>JapaneseValue</key>
+		<string>NSCalendarDate</string>
+		<key>Key</key>
+		<string>NSCalendarDate</string>
+		<key>Value</key>
+		<string>NSCalendarDate</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gemiddeld</string>
+		<key>GermanValue</key>
+		<string>Durchschnitt</string>
+		<key>JapaneseValue</key>
+		<string>平均</string>
+		<key>Key</key>
+		<string>Average</string>
+		<key>Value</key>
+		<string>Average</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Genaamd</string>
+		<key>GermanValue</key>
+		<string>Benannt</string>
+		<key>JapaneseValue</key>
+		<string>名称済</string>
+		<key>Key</key>
+		<string>Named</string>
+		<key>Value</key>
+		<string>Named</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Token Selectie</string>
+		<key>GermanValue</key>
+		<string>Keine Token Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>No Token Selection</string>
+		<key>Key</key>
+		<string>No Token Selection</string>
+		<key>Value</key>
+		<string>No Token Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>F-Script:</string>
+		<key>GermanValue</key>
+		<string>F-Skript:</string>
+		<key>JapaneseValue</key>
+		<string>F-スクリプト:</string>
+		<key>Key</key>
+		<string>F-Script:</string>
+		<key>Value</key>
+		<string>F-Script:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gedrag:</string>
+		<key>GermanValue</key>
+		<string>Verhalten:</string>
+		<key>JapaneseValue</key>
+		<string>動作:</string>
+		<key>Key</key>
+		<string>Behavior:</string>
+		<key>Value</key>
+		<string>Behavior:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Keypath</string>
+		<key>GermanValue</key>
+		<string>Schlüssel</string>
+		<key>JapaneseValue</key>
+		<string>キーパス</string>
+		<key>Key</key>
+		<string>Keypath</string>
+		<key>Value</key>
+		<string>Keypath</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Inspector</string>
+		<key>GermanValue</key>
+		<string>Keine Information</string>
+		<key>JapaneseValue</key>
+		<string>Inspectorがありません</string>
+		<key>Key</key>
+		<string>No Inspector</string>
+		<key>Value</key>
+		<string>No Inspector</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Open na bewaren</string>
+		<key>GermanValue</key>
+		<string>Nach dem Speichern öffnen</string>
+		<key>JapaneseValue</key>
+		<string>保存してから開く</string>
+		<key>Key</key>
+		<string>Open after save</string>
+		<key>Value</key>
+		<string>Open after save</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kopiën:</string>
+		<key>GermanValue</key>
+		<string>Kopien:</string>
+		<key>JapaneseValue</key>
+		<string>コピー:</string>
+		<key>Key</key>
+		<string>Copies:</string>
+		<key>Value</key>
+		<string>Copies:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vult de Achtergrond</string>
+		<key>GermanValue</key>
+		<string>Füllt den Hintergrund</string>
+		<key>JapaneseValue</key>
+		<string>背景を塗りつぶす</string>
+		<key>Key</key>
+		<string>Fills Background</string>
+		<key>Value</key>
+		<string>Fills Background</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>y:</string>
+		<key>JapaneseValue</key>
+		<string>y:</string>
+		<key>Key</key>
+		<string>y:</string>
+		<key>Value</key>
+		<string>y:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst Cel</string>
+		<key>JapaneseValue</key>
+		<string>テキストセル</string>
+		<key>Key</key>
+		<string>Text Cell</string>
+		<key>Value</key>
+		<string>Text Cell</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Veld Data</string>
+		<key>GermanValue</key>
+		<string>Kein Feld Data</string>
+		<key>JapaneseValue</key>
+		<string>フィールドデータがありません</string>
+		<key>Key</key>
+		<string>No Field Data</string>
+		<key>Value</key>
+		<string>No Field Data</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Formaat</string>
+		<key>GermanValue</key>
+		<string>Größe</string>
+		<key>JapaneseValue</key>
+		<string>サイズ</string>
+		<key>Key</key>
+		<string>Size</string>
+		<key>Value</key>
+		<string>Size</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Objecten ophalen van:</string>
+		<key>GermanValue</key>
+		<string>Objekte herüberholen aus:</string>
+		<key>JapaneseValue</key>
+		<string>オブジェクトをここから読み込む:</string>
+		<key>Key</key>
+		<string>Get objects from:</string>
+		<key>Value</key>
+		<string>Get objects from:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Na</string>
+		<key>GermanValue</key>
+		<string>Nach</string>
+		<key>JapaneseValue</key>
+		<string>後</string>
+		<key>Key</key>
+		<string>After</string>
+		<key>Value</key>
+		<string>After</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rapporten</string>
+		<key>GermanValue</key>
+		<string>Berichte</string>
+		<key>JapaneseValue</key>
+		<string>レポート</string>
+		<key>Key</key>
+		<string>Reports</string>
+		<key>Value</key>
+		<string>Reports</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak onderaan vast</string>
+		<key>GermanValue</key>
+		<string>Unten anhängen</string>
+		<key>JapaneseValue</key>
+		<string>Pin to bottom</string>
+		<key>Key</key>
+		<string>Pin to bottom</string>
+		<key>Value</key>
+		<string>Pin to bottom</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rij Hoofding</string>
+		<key>GermanValue</key>
+		<string>Header Reihe</string>
+		<key>JapaneseValue</key>
+		<string>ヘッダー行</string>
+		<key>Key</key>
+		<string>Header Row</string>
+		<key>Value</key>
+		<string>Header Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aligneer.:</string>
+		<key>GermanValue</key>
+		<string>Ausrichtung:</string>
+		<key>JapaneseValue</key>
+		<string>配置。:</string>
+		<key>Key</key>
+		<string>Align.:</string>
+		<key>Value</key>
+		<string>Align.:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Welk uitvoer gedrag wenst u?</string>
+		<key>GermanValue</key>
+		<string>Welches Output-Verhalten möchten Sie auswählen?</string>
+		<key>JapaneseValue</key>
+		<string>どの出力動作を希望しますか？</string>
+		<key>Key</key>
+		<string>What output behavior would you like?</string>
+		<key>Value</key>
+		<string>What output behavior would you like?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Links</string>
+		<key>GermanValue</key>
+		<string>Links</string>
+		<key>JapaneseValue</key>
+		<string>左</string>
+		<key>Key</key>
+		<string>Left</string>
+		<key>Value</key>
+		<string>Left</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>OtherViews</string>
+		<key>GermanValue</key>
+		<string>OtherViews</string>
+		<key>JapaneseValue</key>
+		<string>OtherViews</string>
+		<key>Key</key>
+		<string>OtherViews</string>
+		<key>Value</key>
+		<string>OtherViews</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst Veld</string>
+		<key>GermanValue</key>
+		<string>Textfeld</string>
+		<key>JapaneseValue</key>
+		<string>テキストフィールド</string>
+		<key>Key</key>
+		<string>Text Field</string>
+		<key>Value</key>
+		<string>Text Field</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Waar</string>
+		<key>GermanValue</key>
+		<string>Wo</string>
+		<key>JapaneseValue</key>
+		<string>何処</string>
+		<key>Key</key>
+		<string>Where</string>
+		<key>Value</key>
+		<string>Where</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sorteren:</string>
+		<key>GermanValue</key>
+		<string>Sortieren:</string>
+		<key>JapaneseValue</key>
+		<string>ソート:</string>
+		<key>Key</key>
+		<string>Sort:</string>
+		<key>Value</key>
+		<string>Sort:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>OK</string>
+		<key>GermanValue</key>
+		<string>OK</string>
+		<key>JapaneseValue</key>
+		<string>OK</string>
+		<key>Key</key>
+		<string>OK</string>
+		<key>Value</key>
+		<string>OK</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aanmaken</string>
+		<key>GermanValue</key>
+		<string>Erstellen</string>
+		<key>JapaneseValue</key>
+		<string>作成</string>
+		<key>Key</key>
+		<string>Create</string>
+		<key>Value</key>
+		<string>Create</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit</string>
+		<key>GermanValue</key>
+		<string>Schließen</string>
+		<key>JapaneseValue</key>
+		<string>閉じる</string>
+		<key>Key</key>
+		<string>Close</string>
+		<key>Value</key>
+		<string>Close</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>A4 - A5</string>
+		<key>JapaneseValue</key>
+		<string>A4 - A5</string>
+		<key>Key</key>
+		<string>A4 - A5</string>
+		<key>Value</key>
+		<string>A4 - A5</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Midden</string>
+		<key>GermanValue</key>
+		<string>Mitte</string>
+		<key>JapaneseValue</key>
+		<string>真中</string>
+		<key>Key</key>
+		<string>Middle</string>
+		<key>Value</key>
+		<string>Middle</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Boven Rechts</string>
+		<key>GermanValue</key>
+		<string>Oben rechts</string>
+		<key>JapaneseValue</key>
+		<string>右上</string>
+		<key>Key</key>
+		<string>Top Right</string>
+		<key>Value</key>
+		<string>Top Right</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Zichtbare Kolomnaam</string>
+		<key>GermanValue</key>
+		<string>Sichtbarer Spaltenname</string>
+		<key>JapaneseValue</key>
+		<string>Visible Column Name</string>
+		<key>Key</key>
+		<string>Visible Column Name</string>
+		<key>Value</key>
+		<string>Visible Column Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruik een bestaande layout of rapport als vertrekpunt</string>
+		<key>GermanValue</key>
+		<string>Ein vorhandenes Layout oder einen vorhandenen Bericht als Anlaufspunkt verwenden</string>
+		<key>JapaneseValue</key>
+		<string>既存するレイアウトかレポートからスタート</string>
+		<key>Key</key>
+		<string>Use an existing layout or report as a starting point</string>
+		<key>Value</key>
+		<string>Use an existing layout or report as a starting point</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Embedded</string>
+		<key>GermanValue</key>
+		<string>Verschachtelt</string>
+		<key>JapaneseValue</key>
+		<string>内蔵</string>
+		<key>Key</key>
+		<string>Embedded</string>
+		<key>Value</key>
+		<string>Embedded</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Orientatie</string>
+		<key>GermanValue</key>
+		<string>Ausrichtung</string>
+		<key>JapaneseValue</key>
+		<string>位置付け</string>
+		<key>Key</key>
+		<string>Orientation</string>
+		<key>Value</key>
+		<string>Orientation</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data Ophalen...</string>
+		<key>GermanValue</key>
+		<string>Data sammeln....</string>
+		<key>JapaneseValue</key>
+		<string>データ収集中...</string>
+		<key>Key</key>
+		<string>Gathering Data...</string>
+		<key>Value</key>
+		<string>Gathering Data...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Layout</string>
+		<key>JapaneseValue</key>
+		<string>レイアウト</string>
+		<key>Key</key>
+		<string>Layout</string>
+		<key>Value</key>
+		<string>Layout</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Uitlijnen op Raster</string>
+		<key>GermanValue</key>
+		<string>Schaltet zum Gitter um</string>
+		<key>JapaneseValue</key>
+		<string>グリッドにスナップする</string>
+		<key>Key</key>
+		<string>Snaps to Grid</string>
+		<key>Value</key>
+		<string>Snaps to Grid</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Boven</string>
+		<key>GermanValue</key>
+		<string>Oben</string>
+		<key>JapaneseValue</key>
+		<string>最上</string>
+		<key>Key</key>
+		<string>Top</string>
+		<key>Value</key>
+		<string>Top</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alternerend:</string>
+		<key>GermanValue</key>
+		<string>Alternativ:</string>
+		<key>JapaneseValue</key>
+		<string>代わり:</string>
+		<key>Key</key>
+		<string>Alternate:</string>
+		<key>Value</key>
+		<string>Alternate:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina drukken</string>
+		<key>GermanValue</key>
+		<string>Seite wird gedruckt</string>
+		<key>JapaneseValue</key>
+		<string>ページ印刷</string>
+		<key>Key</key>
+		<string>Page printing</string>
+		<key>Value</key>
+		<string>Page printing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geautomatiseerde Layout</string>
+		<key>GermanValue</key>
+		<string>Automatisches Layout</string>
+		<key>JapaneseValue</key>
+		<string>自動レイアウト</string>
+		<key>Key</key>
+		<string>Automated Layout</string>
+		<key>Value</key>
+		<string>Automated Layout</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Start Datum Sleutel:</string>
+		<key>GermanValue</key>
+		<string>Startdatum Taste:</string>
+		<key>JapaneseValue</key>
+		<string>開始日キー:</string>
+		<key>Key</key>
+		<string>Start Date Key:</string>
+		<key>Value</key>
+		<string>Start Date Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepeer Op</string>
+		<key>GermanValue</key>
+		<string>Gruppieren nach</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Group By</string>
+		<key>Value</key>
+		<string>Group By</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>Cancel</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Schaal:</string>
+		<key>GermanValue</key>
+		<string>Skalieren:</string>
+		<key>JapaneseValue</key>
+		<string>拡大縮小:</string>
+		<key>Key</key>
+		<string>Scaling:</string>
+		<key>Value</key>
+		<string>Scaling:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Ballot</string>
+		<key>GermanValue</key>
+		<string>Kreuz</string>
+		<key>JapaneseValue</key>
+		<string>票</string>
+		<key>Key</key>
+		<string>Ballot</string>
+		<key>Value</key>
+		<string>Ballot</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Veld</string>
+		<key>GermanValue</key>
+		<string>Feld</string>
+		<key>JapaneseValue</key>
+		<string>フィールド</string>
+		<key>Key</key>
+		<string>Field</string>
+		<key>Value</key>
+		<string>Field</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Parent "Groepeer Op"</string>
+		<key>GermanValue</key>
+		<string>"Gruppieren nach" Ursprung</string>
+		<key>JapaneseValue</key>
+		<string>Parent "Group By"</string>
+		<key>Key</key>
+		<string>Parent "Group By"</string>
+		<key>Value</key>
+		<string>Parent "Group By"</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Formaat:</string>
+		<key>GermanValue</key>
+		<string>Größe:</string>
+		<key>JapaneseValue</key>
+		<string>サイズ:</string>
+		<key>Key</key>
+		<string>Size:</string>
+		<key>Value</key>
+		<string>Size:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Databank</string>
+		<key>GermanValue</key>
+		<string>Datenbank</string>
+		<key>JapaneseValue</key>
+		<string>データベース</string>
+		<key>Key</key>
+		<string>Database</string>
+		<key>Value</key>
+		<string>Database</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Selecteer een Rapport</string>
+		<key>GermanValue</key>
+		<string>Einen Bericht auswählen</string>
+		<key>JapaneseValue</key>
+		<string>レポートの選択</string>
+		<key>Key</key>
+		<string>Select a Report</string>
+		<key>Value</key>
+		<string>Select a Report</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verberg indien maar 1 pagina</string>
+		<key>GermanValue</key>
+		<string>Ausblenden, wenn nur eine Seite</string>
+		<key>JapaneseValue</key>
+		<string>１ページしかない場合は隠す</string>
+		<key>Key</key>
+		<string>Hide if only 1 page</string>
+		<key>Value</key>
+		<string>Hide if only 1 page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Max</string>
+		<key>JapaneseValue</key>
+		<string>最大</string>
+		<key>Key</key>
+		<string>Max</string>
+		<key>Value</key>
+		<string>Max</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>712 pt. B x 592 pt. H</string>
+		<key>GermanValue</key>
+		<string>25,11 cm x 20.90 cm</string>
+		<key>JapaneseValue</key>
+		<string>縦712 pt.  x 横592 pt. </string>
+		<key>Key</key>
+		<string>712 pt. W x 592 pt. H</string>
+		<key>Value</key>
+		<string>712 pt. W x 592 pt. H</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Haal objecten op die gerelateerd zijn aan het object in de parent rij of pagina. Specifieer ook het verband.</string>
+		<key>GermanValue</key>
+		<string>Alle Objekte anzeigen, die in Bezug zur Ursprungsreihe oder in einem einzelnen Seitenlayout stehen. Bestimmen Sie die Beziehung.</string>
+		<key>JapaneseValue</key>
+		<string>ペアレント列か、ページに関連しているオブジェクトを読み込む。関連を指定してください。</string>
+		<key>Key</key>
+		<string>Get objects that are related to the object in the parent row or page in a single page layout. Specify the relationship.</string>
+		<key>Value</key>
+		<string>Get objects that are related to the object in the parent row or page in a single page layout. Specify the relationship.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Min Render Hoogte:</string>
+		<key>GermanValue</key>
+		<string>Mindesthöhe</string>
+		<key>JapaneseValue</key>
+		<string>最小レンダリング高:</string>
+		<key>Key</key>
+		<string>Min Render Height:</string>
+		<key>Value</key>
+		<string>Min Render Height:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Tekst Data:</string>
+		<key>GermanValue</key>
+		<string>Kein Data Text:</string>
+		<key>JapaneseValue</key>
+		<string>データテキストがありません:</string>
+		<key>Key</key>
+		<string>No Data Text:</string>
+		<key>Value</key>
+		<string>No Data Text:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hoogte:</string>
+		<key>GermanValue</key>
+		<string>Höhe:</string>
+		<key>JapaneseValue</key>
+		<string>高さ:</string>
+		<key>Key</key>
+		<string>Height:</string>
+		<key>Value</key>
+		<string>Height:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Versie:</string>
+		<key>JapaneseValue</key>
+		<string>バージョン:</string>
+		<key>Key</key>
+		<string>Version:</string>
+		<key>Value</key>
+		<string>Version:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>DB</string>
+		<key>JapaneseValue</key>
+		<string>DB</string>
+		<key>Key</key>
+		<string>DB</string>
+		<key>Value</key>
+		<string>DB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pas aan...</string>
+		<key>GermanValue</key>
+		<string>Ändern...</string>
+		<key>JapaneseValue</key>
+		<string>変更...</string>
+		<key>Key</key>
+		<string>Change...</string>
+		<key>Value</key>
+		<string>Change...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meerdere Selecties</string>
+		<key>GermanValue</key>
+		<string>Mehrfache Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>複数選択</string>
+		<key>Key</key>
+		<string>Multiple Selection</string>
+		<key>Value</key>
+		<string>Multiple Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rechts:</string>
+		<key>GermanValue</key>
+		<string>Rechts:</string>
+		<key>JapaneseValue</key>
+		<string>右:</string>
+		<key>Key</key>
+		<string>Right:</string>
+		<key>Value</key>
+		<string>Right:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Boven:</string>
+		<key>GermanValue</key>
+		<string>Obere Zeile</string>
+		<key>JapaneseValue</key>
+		<string>最上行:</string>
+		<key>Key</key>
+		<string>Top Line:</string>
+		<key>Value</key>
+		<string>Top Line:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data Set</string>
+		<key>GermanValue</key>
+		<string>Datensatz</string>
+		<key>JapaneseValue</key>
+		<string>データセット</string>
+		<key>Key</key>
+		<string>Data Set</string>
+		<key>Value</key>
+		<string>Data Set</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Script</string>
+		<key>GermanValue</key>
+		<string>Skript</string>
+		<key>JapaneseValue</key>
+		<string>スクリプト</string>
+		<key>Key</key>
+		<string>Script</string>
+		<key>Value</key>
+		<string>Script</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sta Dynamische Tekst toe</string>
+		<key>GermanValue</key>
+		<string>Dynamischen Text zulassen</string>
+		<key>JapaneseValue</key>
+		<string>動的テキストを許可する</string>
+		<key>Key</key>
+		<string>Allow Dynamic Text</string>
+		<key>Value</key>
+		<string>Allow Dynamic Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vertikaal:</string>
+		<key>JapaneseValue</key>
+		<string>縦:</string>
+		<key>Key</key>
+		<string>Vertical:</string>
+		<key>Value</key>
+		<string>Vertical:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Letter</string>
+		<key>GermanValue</key>
+		<string>Schreiben</string>
+		<key>JapaneseValue</key>
+		<string>レターサイズ</string>
+		<key>Key</key>
+		<string>Letter</string>
+		<key>Value</key>
+		<string>Letter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Veel</string>
+		<key>GermanValue</key>
+		<string>Viele</string>
+		<key>JapaneseValue</key>
+		<string>沢山</string>
+		<key>Key</key>
+		<string>Many</string>
+		<key>Value</key>
+		<string>Many</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lettertype:</string>
+		<key>GermanValue</key>
+		<string>Schrift:</string>
+		<key>JapaneseValue</key>
+		<string>フォント:</string>
+		<key>Key</key>
+		<string>Font:</string>
+		<key>Value</key>
+		<string>Font:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Statisch</string>
+		<key>GermanValue</key>
+		<string>Statisch</string>
+		<key>JapaneseValue</key>
+		<string>Static</string>
+		<key>Key</key>
+		<string>Static</string>
+		<key>Value</key>
+		<string>Static</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruik de objecten die gegroepeerd zijn in de parent 'Groepeer Op' </string>
+		<key>GermanValue</key>
+		<string>Die Objekte verwenden, die nach dem "Gruppiert nach"- Ursprung sortiert worden sind</string>
+		<key>JapaneseValue</key>
+		<string>Use the objects that are grouped by the 'Group By' parent</string>
+		<key>Key</key>
+		<string>Use the objects that are grouped by the 'Group By' parent</string>
+		<key>Value</key>
+		<string>Use the objects that are grouped by the 'Group By' parent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Menu Titel Sleutel:</string>
+		<key>GermanValue</key>
+		<string>Menü-Taste:</string>
+		<key>JapaneseValue</key>
+		<string>タイトルキーメニュー:</string>
+		<key>Key</key>
+		<string>Menu Title Key:</string>
+		<key>Value</key>
+		<string>Menu Title Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naam Resultaat:</string>
+		<key>GermanValue</key>
+		<string>Ergebnisname:</string>
+		<key>JapaneseValue</key>
+		<string>結果名称:</string>
+		<key>Key</key>
+		<string>Result Name:</string>
+		<key>Value</key>
+		<string>Result Name:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rapport</string>
+		<key>GermanValue</key>
+		<string>Bericht</string>
+		<key>JapaneseValue</key>
+		<string>レポート</string>
+		<key>Key</key>
+		<string>Report</string>
+		<key>Value</key>
+		<string>Report</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>3de Rij</string>
+		<key>JapaneseValue</key>
+		<string>第サンの横列</string>
+		<key>Key</key>
+		<string>3rd Row</string>
+		<key>Value</key>
+		<string>3rd Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Achtergrond</string>
+		<key>GermanValue</key>
+		<string>Hintergrund</string>
+		<key>JapaneseValue</key>
+		<string>背景</string>
+		<key>Key</key>
+		<string>Background</string>
+		<key>Value</key>
+		<string>Background</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lettertype…</string>
+		<key>GermanValue</key>
+		<string>Schrift…</string>
+		<key>JapaneseValue</key>
+		<string>フォント…</string>
+		<key>Key</key>
+		<string>Font…</string>
+		<key>Value</key>
+		<string>Font…</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Unieke naam om de gebruikers waarde te benaderen van in het rapport gebruikmakend van &lt;$userInput.theKeyName$&gt; of userInput valueForKey:'theKeyName'.</string>
+		<key>GermanValue</key>
+		<string>Einen spezifischen Namen eingeben, um Zugang zum Benutzerwert innerhalb des verwendeten Berichts zu haben &lt;$userInput.theKeyName$&gt; oder userInputvalueForKey&gt;'theKeyName'.</string>
+		<key>JapaneseValue</key>
+		<string>Unique name to access the user value from within the report using &lt;$userInput.theKeyName$&gt; or userInput valueForKey:'theKeyName'.</string>
+		<key>Key</key>
+		<string>Unique name to access the user value from within the report using &lt;$userInput.theKeyName$&gt; or userInput valueForKey:'theKeyName'.</string>
+		<key>Value</key>
+		<string>Unique name to access the user value from within the report using &lt;$userInput.theKeyName$&gt; or userInput valueForKey:'theKeyName'.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Absoluut pad</string>
+		<key>GermanValue</key>
+		<string>Absolutpfad</string>
+		<key>JapaneseValue</key>
+		<string>アブソルートパス</string>
+		<key>Key</key>
+		<string>Absolute path</string>
+		<key>Value</key>
+		<string>Absolute path</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>(bv categorieID)</string>
+		<key>GermanValue</key>
+		<string>(z.B. KategorieID)</string>
+		<key>JapaneseValue</key>
+		<string>(カテゴリーID)</string>
+		<key>Key</key>
+		<string>(i.e. categoryID)</string>
+		<key>Value</key>
+		<string>(i.e. categoryID)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen:</string>
+		<key>GermanValue</key>
+		<string>Spalten:</string>
+		<key>JapaneseValue</key>
+		<string>縦列:</string>
+		<key>Key</key>
+		<string>Columns:</string>
+		<key>Value</key>
+		<string>Columns:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Item1</string>
+		<key>JapaneseValue</key>
+		<string>アイテム1</string>
+		<key>Key</key>
+		<string>Item1</string>
+		<key>Value</key>
+		<string>Item1</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn</string>
+		<key>GermanValue</key>
+		<string>Linie</string>
+		<key>JapaneseValue</key>
+		<string>線</string>
+		<key>Key</key>
+		<string>Line</string>
+		<key>Value</key>
+		<string>Line</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Links:</string>
+		<key>GermanValue</key>
+		<string>Links:</string>
+		<key>JapaneseValue</key>
+		<string>左:</string>
+		<key>Key</key>
+		<string>Left:</string>
+		<key>Value</key>
+		<string>Left:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Menu</string>
+		<key>GermanValue</key>
+		<string>Menü</string>
+		<key>JapaneseValue</key>
+		<string>メニュー</string>
+		<key>Key</key>
+		<string>Menu</string>
+		<key>Value</key>
+		<string>Menu</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Proportioneel</string>
+		<key>GermanValue</key>
+		<string>Proportional</string>
+		<key>JapaneseValue</key>
+		<string>比例</string>
+		<key>Key</key>
+		<string>Proportional</string>
+		<key>Value</key>
+		<string>Proportional</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toggle Lijnen</string>
+		<key>GermanValue</key>
+		<string>Zeilen ein-und ausblenden</string>
+		<key>JapaneseValue</key>
+		<string>行をトグルする</string>
+		<key>Key</key>
+		<string>Toggle Lines</string>
+		<key>Value</key>
+		<string>Toggle Lines</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Evalueer volledige tekst als wiskundige expressie </string>
+		<key>GermanValue</key>
+		<string>Den ganzen Text als mathematischen Ausdruck bestimmen</string>
+		<key>JapaneseValue</key>
+		<string>全てのテキストを数式として数学的に評価する。 </string>
+		<key>Key</key>
+		<string>Evaluate entire text as mathematical expression </string>
+		<key>Value</key>
+		<string>Evaluate entire text as mathematical expression </string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Velden</string>
+		<key>GermanValue</key>
+		<string>Felder</string>
+		<key>JapaneseValue</key>
+		<string>フィールド</string>
+		<key>Key</key>
+		<string>Fields</string>
+		<key>Value</key>
+		<string>Fields</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rastergrootte:</string>
+		<key>GermanValue</key>
+		<string>Gitter-Größe:</string>
+		<key>JapaneseValue</key>
+		<string>格子寸法:</string>
+		<key>Key</key>
+		<string>Grid Size:</string>
+		<key>Value</key>
+		<string>Grid Size:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen Aanmaken</string>
+		<key>GermanValue</key>
+		<string>Tabellenspalten erstellen</string>
+		<key>JapaneseValue</key>
+		<string>表の縦列を作成</string>
+		<key>Key</key>
+		<string>Create Table Columns</string>
+		<key>Value</key>
+		<string>Create Table Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rechts</string>
+		<key>GermanValue</key>
+		<string>Rechts</string>
+		<key>JapaneseValue</key>
+		<string>右</string>
+		<key>Key</key>
+		<string>Right</string>
+		<key>Value</key>
+		<string>Right</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Times New Roman 96 pt.</string>
+		<key>GermanValue</key>
+		<string>Times New Roman 3,39 cm</string>
+		<key>JapaneseValue</key>
+		<string>Times New Roman 96 pt.</string>
+		<key>Key</key>
+		<string>Times New Roman 96 pt.</string>
+		<key>Value</key>
+		<string>Times New Roman 96 pt.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Omschrijving</string>
+		<key>GermanValue</key>
+		<string>Beschreibung</string>
+		<key>JapaneseValue</key>
+		<string>説明</string>
+		<key>Key</key>
+		<string>Description</string>
+		<key>Value</key>
+		<string>Description</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Schaal</string>
+		<key>GermanValue</key>
+		<string>Skalieren</string>
+		<key>JapaneseValue</key>
+		<string>拡大縮小</string>
+		<key>Key</key>
+		<string>Scalling</string>
+		<key>Value</key>
+		<string>Scalling</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aflopend</string>
+		<key>GermanValue</key>
+		<string>Absteigend</string>
+		<key>JapaneseValue</key>
+		<string>降順</string>
+		<key>Key</key>
+		<string>Descending</string>
+		<key>Value</key>
+		<string>Descending</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Wijzig Dynamisch Tekst</string>
+		<key>GermanValue</key>
+		<string>Dynamischen Text bearbeiten</string>
+		<key>JapaneseValue</key>
+		<string>動的テキストを編集</string>
+		<key>Key</key>
+		<string>Edit Dynamic Text</string>
+		<key>Value</key>
+		<string>Edit Dynamic Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verberg indien:</string>
+		<key>GermanValue</key>
+		<string>Ausblenden wenn: </string>
+		<key>JapaneseValue</key>
+		<string>もしこうなら隠す:</string>
+		<key>Key</key>
+		<string>Hide if:</string>
+		<key>Value</key>
+		<string>Hide if:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Randen:</string>
+		<key>GermanValue</key>
+		<string>Padding:</string>
+		<key>JapaneseValue</key>
+		<string>パディング:</string>
+		<key>Key</key>
+		<string>Padding:</string>
+		<key>Value</key>
+		<string>Padding:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tweede Samenvattingsrij</string>
+		<key>JapaneseValue</key>
+		<string>Second Summary Row</string>
+		<key>Key</key>
+		<string>Second Summary Row</string>
+		<key>Value</key>
+		<string>Second Summary Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Speciaal</string>
+		<key>GermanValue</key>
+		<string>Speziell</string>
+		<key>JapaneseValue</key>
+		<string>特別</string>
+		<key>Key</key>
+		<string>Special</string>
+		<key>Value</key>
+		<string>Special</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Beide</string>
+		<key>GermanValue</key>
+		<string>Beide</string>
+		<key>JapaneseValue</key>
+		<string>両方</string>
+		<key>Key</key>
+		<string>Both</string>
+		<key>Value</key>
+		<string>Both</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruik een naam bij het selecteren van een template om alles wat meer betekenisvol te maken</string>
+		<key>GermanValue</key>
+		<string>Verwenden Sie einen Namen, um Klarheit zu schaffen, wenn Sie die Vorlage auswählen</string>
+		<key>JapaneseValue</key>
+		<string>テンプレートを選択するときは、名称を使ってください。</string>
+		<key>Key</key>
+		<string>Use a name to provide more meaning when selecting the template</string>
+		<key>Value</key>
+		<string>Use a name to provide more meaning when selecting the template</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Spatiëring</string>
+		<key>GermanValue</key>
+		<string>Zeilenabstand</string>
+		<key>JapaneseValue</key>
+		<string>スペーシング</string>
+		<key>Key</key>
+		<string>Spacing</string>
+		<key>Value</key>
+		<string>Spacing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Element Namen Gevonden</string>
+		<key>GermanValue</key>
+		<string>Gefundene Elementnamen</string>
+		<key>JapaneseValue</key>
+		<string>エレメントの名称が見つかりました</string>
+		<key>Key</key>
+		<string>Found Element Names</string>
+		<key>Value</key>
+		<string>Found Element Names</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Wijzig...</string>
+		<key>GermanValue</key>
+		<string>Bearbeiten...</string>
+		<key>JapaneseValue</key>
+		<string>編集...</string>
+		<key>Key</key>
+		<string>Edit...</string>
+		<key>Value</key>
+		<string>Edit...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kantlijnen:</string>
+		<key>GermanValue</key>
+		<string>Ränder:</string>
+		<key>JapaneseValue</key>
+		<string>マージン:</string>
+		<key>Key</key>
+		<string>Margins:</string>
+		<key>Value</key>
+		<string>Margins:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Terug</string>
+		<key>GermanValue</key>
+		<string>Zurück</string>
+		<key>JapaneseValue</key>
+		<string>後ろ</string>
+		<key>Key</key>
+		<string>Back</string>
+		<key>Value</key>
+		<string>Back</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Item2</string>
+		<key>JapaneseValue</key>
+		<string>アイテム2</string>
+		<key>Key</key>
+		<string>Item2</string>
+		<key>Value</key>
+		<string>Item2</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Veld:</string>
+		<key>GermanValue</key>
+		<string>Feld:</string>
+		<key>JapaneseValue</key>
+		<string>フィールド:</string>
+		<key>Key</key>
+		<string>Field:</string>
+		<key>Value</key>
+		<string>Field:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Strings</string>
+		<key>GermanValue</key>
+		<string>Zeichenketten</string>
+		<key>JapaneseValue</key>
+		<string>Strings</string>
+		<key>Key</key>
+		<string>Strings</string>
+		<key>Value</key>
+		<string>Strings</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Visueel</string>
+		<key>GermanValue</key>
+		<string>Erscheinungsbild</string>
+		<key>JapaneseValue</key>
+		<string>外見</string>
+		<key>Key</key>
+		<string>Appearance</string>
+		<key>Value</key>
+		<string>Appearance</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Derde Samenvattingsrij</string>
+		<key>JapaneseValue</key>
+		<string>三行目の要約行</string>
+		<key>Key</key>
+		<string>Third Summary Row</string>
+		<key>Value</key>
+		<string>Third Summary Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Welk papier formaat wenst u?</string>
+		<key>GermanValue</key>
+		<string>Welche Papiergröße möchten Sie verwenden?</string>
+		<key>JapaneseValue</key>
+		<string>どのサイズの用紙を使用しますか？</string>
+		<key>Key</key>
+		<string>What paper size would you like?</string>
+		<key>Value</key>
+		<string>What paper size would you like?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naam:</string>
+		<key>JapaneseValue</key>
+		<string>名前:</string>
+		<key>Key</key>
+		<string>Name:</string>
+		<key>Value</key>
+		<string>Name:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Indien geldige text, voeg in</string>
+		<key>JapaneseValue</key>
+		<string>有効なテキストならインサートする</string>
+		<key>Key</key>
+		<string>If valid text, insert</string>
+		<key>Value</key>
+		<string>If valid text, insert</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolom Omschrijving</string>
+		<key>GermanValue</key>
+		<string>Spalten Beschreibung</string>
+		<key>JapaneseValue</key>
+		<string>縦列の説明</string>
+		<key>Key</key>
+		<string>Column Description</string>
+		<key>Value</key>
+		<string>Column Description</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Laaste Rij uitrekken</string>
+		<key>GermanValue</key>
+		<string>Streckt letzte Reihe</string>
+		<key>JapaneseValue</key>
+		<string>Stretches Last Row</string>
+		<key>Key</key>
+		<string>Stretches Last Row</string>
+		<key>Value</key>
+		<string>Stretches Last Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gedraag als Live Tabel</string>
+		<key>JapaneseValue</key>
+		<string>Live Table　として機能する</string>
+		<key>Key</key>
+		<string>Act as Live Table</string>
+		<key>Value</key>
+		<string>Act as Live Table</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geselecteerd</string>
+		<key>GermanValue</key>
+		<string>Ausgewählt</string>
+		<key>JapaneseValue</key>
+		<string>選択されました</string>
+		<key>Key</key>
+		<string>Selected</string>
+		<key>Value</key>
+		<string>Selected</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Popup Menu</string>
+		<key>GermanValue</key>
+		<string>Popup Menü</string>
+		<key>JapaneseValue</key>
+		<string>ポップアップメニュー</string>
+		<key>Key</key>
+		<string>Popup Menu</string>
+		<key>Value</key>
+		<string>Popup Menu</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderaan:</string>
+		<key>GermanValue</key>
+		<string>Unten:</string>
+		<key>JapaneseValue</key>
+		<string>下部:</string>
+		<key>Key</key>
+		<string>Bottom:</string>
+		<key>Value</key>
+		<string>Bottom:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket Grootte</string>
+		<key>GermanValue</key>
+		<string>Etikettengröße</string>
+		<key>JapaneseValue</key>
+		<string>ラベルサイズ</string>
+		<key>Key</key>
+		<string>Label Size</string>
+		<key>Value</key>
+		<string>Label Size</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Choukei 3 Omslag (Liggend)</string>
+		<key>GermanValue</key>
+		<string>Choukei 3 Umschlag (Landschaft)</string>
+		<key>JapaneseValue</key>
+		<string>長径３の封筒 ランドスケープ（横向き）</string>
+		<key>Key</key>
+		<string>Choukei 3 Envelope (Landscape)</string>
+		<key>Value</key>
+		<string>Choukei 3 Envelope (Landscape)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Keypath:</string>
+		<key>GermanValue</key>
+		<string>Schlüssel:</string>
+		<key>JapaneseValue</key>
+		<string>キーパス:</string>
+		<key>Key</key>
+		<string>Keypath:</string>
+		<key>Value</key>
+		<string>Keypath:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>NSData</string>
+		<key>JapaneseValue</key>
+		<string>NSData</string>
+		<key>Key</key>
+		<string>NSData</string>
+		<key>Value</key>
+		<string>NSData</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Datum Reeks</string>
+		<key>GermanValue</key>
+		<string>Zeitspanne</string>
+		<key>JapaneseValue</key>
+		<string>日付範囲</string>
+		<key>Key</key>
+		<string>Date Range</string>
+		<key>Value</key>
+		<string>Date Range</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Formatter:</string>
+		<key>GermanValue</key>
+		<string>Formatierer:</string>
+		<key>JapaneseValue</key>
+		<string>Formatter:</string>
+		<key>Key</key>
+		<string>Formatter:</string>
+		<key>Value</key>
+		<string>Formatter:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Min</string>
+		<key>JapaneseValue</key>
+		<string>最小</string>
+		<key>Key</key>
+		<string>Min</string>
+		<key>Value</key>
+		<string>Min</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dikte:</string>
+		<key>GermanValue</key>
+		<string>Stärke:</string>
+		<key>JapaneseValue</key>
+		<string>太さ:</string>
+		<key>Key</key>
+		<string>Thickness:</string>
+		<key>Value</key>
+		<string>Thickness:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Waar in de toepassing zal deze layout/dit rapport beschikbaar zijn?</string>
+		<key>GermanValue</key>
+		<string>Wo wird sich dieses Layout/dieser Bericht im Programm befinden?</string>
+		<key>JapaneseValue</key>
+		<string>このレポート／レイアウトはアプリケーションのどこで利用可能？</string>
+		<key>Key</key>
+		<string>Where will this layout/report be available in the application?</string>
+		<key>Value</key>
+		<string>Where will this layout/report be available in the application?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pad:</string>
+		<key>GermanValue</key>
+		<string>Pfad:</string>
+		<key>JapaneseValue</key>
+		<string>パス:</string>
+		<key>Key</key>
+		<string>Path:</string>
+		<key>Value</key>
+		<string>Path:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Veld is onwaar</string>
+		<key>GermanValue</key>
+		<string>Feld ist nicht korrekt</string>
+		<key>JapaneseValue</key>
+		<string>フィールドは正しくありません</string>
+		<key>Key</key>
+		<string>Field is false</string>
+		<key>Value</key>
+		<string>Field is false</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Parent Rij</string>
+		<key>GermanValue</key>
+		<string>Ursprungsreihe</string>
+		<key>JapaneseValue</key>
+		<string>親列</string>
+		<key>Key</key>
+		<string>Parent Row</string>
+		<key>Value</key>
+		<string>Parent Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Samenvattingsrij:</string>
+		<key>GermanValue</key>
+		<string>Zusammenfassungsreihe:</string>
+		<key>JapaneseValue</key>
+		<string>要約行:</string>
+		<key>Key</key>
+		<string>Summary Row:</string>
+		<key>Value</key>
+		<string>Summary Row:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vooruitgang</string>
+		<key>GermanValue</key>
+		<string>Fortschritt</string>
+		<key>JapaneseValue</key>
+		<string>進展</string>
+		<key>Key</key>
+		<string>Progress</string>
+		<key>Value</key>
+		<string>Progress</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Web</string>
+		<key>JapaneseValue</key>
+		<string>Web</string>
+		<key>Key</key>
+		<string>Web</string>
+		<key>Value</key>
+		<string>Web</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Knop</string>
+		<key>JapaneseValue</key>
+		<string>ボタン</string>
+		<key>Key</key>
+		<string>Button</string>
+		<key>Value</key>
+		<string>Button</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruik de objecten die de gebruiker selecteerde</string>
+		<key>GermanValue</key>
+		<string>Verwenden Sie Objekte, die vom Benutzer ausgewählt worden sind</string>
+		<key>JapaneseValue</key>
+		<string>ユーザーが選択したObjectsを使用。</string>
+		<key>Key</key>
+		<string>Use the objects that the user selected</string>
+		<key>Value</key>
+		<string>Use the objects that the user selected</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Komma Spatie</string>
+		<key>GermanValue</key>
+		<string>Komma Leertaste</string>
+		<key>JapaneseValue</key>
+		<string>カンマスペース</string>
+		<key>Key</key>
+		<string>Comma Space</string>
+		<key>Value</key>
+		<string>Comma Space</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen</string>
+		<key>GermanValue</key>
+		<string>Spalten</string>
+		<key>JapaneseValue</key>
+		<string>縦列</string>
+		<key>Key</key>
+		<string>Columns</string>
+		<key>Value</key>
+		<string>Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiketprinter Etiket</string>
+		<key>GermanValue</key>
+		<string>Etikettendrucker benennen</string>
+		<key>JapaneseValue</key>
+		<string>プリンターラベルをラベルする</string>
+		<key>Key</key>
+		<string>Label printer label</string>
+		<key>Value</key>
+		<string>Label printer label</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gemapte Namen</string>
+		<key>GermanValue</key>
+		<string>Zugeordnete Namen</string>
+		<key>JapaneseValue</key>
+		<string>マップ名</string>
+		<key>Key</key>
+		<string>Mapped Names</string>
+		<key>Value</key>
+		<string>Mapped Names</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen Aanpassen</string>
+		<key>GermanValue</key>
+		<string>Spalten konfigurieren</string>
+		<key>JapaneseValue</key>
+		<string>縦列の設定</string>
+		<key>Key</key>
+		<string>Configure Columns</string>
+		<key>Value</key>
+		<string>Configure Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Omslag</string>
+		<key>GermanValue</key>
+		<string>Umschlag</string>
+		<key>JapaneseValue</key>
+		<string>封筒</string>
+		<key>Key</key>
+		<string>Envelope</string>
+		<key>Value</key>
+		<string>Envelope</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaar</string>
+		<key>GermanValue</key>
+		<string>Speichern</string>
+		<key>JapaneseValue</key>
+		<string>保存</string>
+		<key>Key</key>
+		<string>Save</string>
+		<key>Value</key>
+		<string>Save</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Passend Maken</string>
+		<key>GermanValue</key>
+		<string>Größenanpassung</string>
+		<key>JapaneseValue</key>
+		<string>拡大縮小して合わせる</string>
+		<key>Key</key>
+		<string>Scale Fit</string>
+		<key>Value</key>
+		<string>Scale Fit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bron:</string>
+		<key>GermanValue</key>
+		<string>Quelle:</string>
+		<key>JapaneseValue</key>
+		<string>ソース:</string>
+		<key>Key</key>
+		<string>Source:</string>
+		<key>Value</key>
+		<string>Source:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Switch</string>
+		<key>GermanValue</key>
+		<string>Wechseln</string>
+		<key>JapaneseValue</key>
+		<string>Switch</string>
+		<key>Key</key>
+		<string>Switch</string>
+		<key>Value</key>
+		<string>Switch</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Formaat:</string>
+		<key>JapaneseValue</key>
+		<string>フォーマット:</string>
+		<key>Key</key>
+		<string>Format:</string>
+		<key>Value</key>
+		<string>Format:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Breedte:</string>
+		<key>GermanValue</key>
+		<string>Breite:</string>
+		<key>JapaneseValue</key>
+		<string>幅:</string>
+		<key>Key</key>
+		<string>Width:</string>
+		<key>Value</key>
+		<string>Width:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Papier:</string>
+		<key>GermanValue</key>
+		<string>Papier:</string>
+		<key>JapaneseValue</key>
+		<string>用紙:</string>
+		<key>Key</key>
+		<string>Paper:</string>
+		<key>Value</key>
+		<string>Paper:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijst afdruk</string>
+		<key>GermanValue</key>
+		<string>Liste wird gedruckt</string>
+		<key>JapaneseValue</key>
+		<string>印刷予定物をリストアップ</string>
+		<key>Key</key>
+		<string>List printing</string>
+		<key>Value</key>
+		<string>List printing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Selecteer:</string>
+		<key>GermanValue</key>
+		<string>Auswählen:</string>
+		<key>JapaneseValue</key>
+		<string>選択:</string>
+		<key>Key</key>
+		<string>Select:</string>
+		<key>Value</key>
+		<string>Select:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>F-Script</string>
+		<key>GermanValue</key>
+		<string>F-Skript</string>
+		<key>JapaneseValue</key>
+		<string>F-スクリプト</string>
+		<key>Key</key>
+		<string>F-Script</string>
+		<key>Value</key>
+		<string>F-Script</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Key:</string>
+		<key>GermanValue</key>
+		<string>Taste:</string>
+		<key>JapaneseValue</key>
+		<string>キー:</string>
+		<key>Key</key>
+		<string>Key:</string>
+		<key>Value</key>
+		<string>Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Start Positie Etiket:</string>
+		<key>GermanValue</key>
+		<string>Startposition benennen:</string>
+		<key>JapaneseValue</key>
+		<string>ラベルのスタート位置:</string>
+		<key>Key</key>
+		<string>Label Starting Position:</string>
+		<key>Value</key>
+		<string>Label Starting Position:</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Hat Header Reihe</string>
+		<key>Key</key>
+		<string>Has Header Row</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusammenfassungsreihe anzeigen</string>
+		<key>Key</key>
+		<string>Show Header Row</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Beliebige</string>
+		<key>Key</key>
+		<string>Any</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Hat eine Zusammenfassungsreihe</string>
+		<key>Key</key>
+		<string>Has Summary Row</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusammenfassungsreihe anzeigen</string>
+		<key>Key</key>
+		<string>Show Summary Row</string>
+	</dict>
+	<dict>
+		<key>JapaneseValue</key>
+		<string>コード</string>
+		<key>Key</key>
+		<string>Code:</string>
+	</dict>
+</array>
+</plist>

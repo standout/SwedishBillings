@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>komt na</string>
+		<key>GermanValue</key>
+		<string>ist nach</string>
+		<key>JapaneseValue</key>
+		<string>以後</string>
+		<key>Key</key>
+		<string>DateIsAfter</string>
+		<key>LastLanguageImportTitle</key>
+		<string>Dutch</string>
+		<key>Value</key>
+		<string>is after</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>DelegatedByIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>DateIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>PipelineStageIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>NumberIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>BooleanIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is in de vorige</string>
+		<key>GermanValue</key>
+		<string>ist in der letzte(n)
+</string>
+		<key>JapaneseValue</key>
+		<string>後ろの方の</string>
+		<key>Key</key>
+		<string>DateInTheLast</string>
+		<key>Value</key>
+		<string>is in the last</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>begint met</string>
+		<key>GermanValue</key>
+		<string>beginnt mit</string>
+		<key>JapaneseValue</key>
+		<string>で始まる</string>
+		<key>Key</key>
+		<string>StringBeginsWith</string>
+		<key>Value</key>
+		<string>begins with</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>ApplicableToUserIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>に一致する</string>
+		<key>Key</key>
+		<string>StringIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>bevat</string>
+		<key>GermanValue</key>
+		<string>beinhaltet</string>
+		<key>JapaneseValue</key>
+		<string>を含む</string>
+		<key>Key</key>
+		<string>StringContains</string>
+		<key>Value</key>
+		<string>contains</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>komt voor</string>
+		<key>GermanValue</key>
+		<string>ist vor</string>
+		<key>JapaneseValue</key>
+		<string>以前</string>
+		<key>Key</key>
+		<string>DateIsBefore</string>
+		<key>Value</key>
+		<string>is before</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is kleiner dan</string>
+		<key>GermanValue</key>
+		<string>ist weniger als</string>
+		<key>JapaneseValue</key>
+		<string>以下</string>
+		<key>Key</key>
+		<string>NumberLessThan</string>
+		<key>Value</key>
+		<string>is less than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is tussen</string>
+		<key>GermanValue</key>
+		<string>ist zwischen</string>
+		<key>JapaneseValue</key>
+		<string>間</string>
+		<key>Key</key>
+		<string>DateIsBetween</string>
+		<key>Value</key>
+		<string>is between</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>DelegatedToIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is in de komende</string>
+		<key>GermanValue</key>
+		<string>ist in der nächste(n)</string>
+		<key>JapaneseValue</key>
+		<string>次の</string>
+		<key>Key</key>
+		<string>DateInTheNext</string>
+		<key>Value</key>
+		<string>is in the next</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>eindigt met</string>
+		<key>GermanValue</key>
+		<string>endet mit</string>
+		<key>JapaneseValue</key>
+		<string>で終わる</string>
+		<key>Key</key>
+		<string>StringEndsWith</string>
+		<key>Value</key>
+		<string>ends with</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>に一致しない</string>
+		<key>Key</key>
+		<string>StringIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is groter dan</string>
+		<key>GermanValue</key>
+		<string>ist größer als</string>
+		<key>JapaneseValue</key>
+		<string>以上</string>
+		<key>Key</key>
+		<string>NumberGreaterThan</string>
+		<key>Value</key>
+		<string>is greater than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>bevat niet</string>
+		<key>GermanValue</key>
+		<string>beinhaltet nicht</string>
+		<key>JapaneseValue</key>
+		<string>を含まない</string>
+		<key>Key</key>
+		<string>StringNotContains</string>
+		<key>Value</key>
+		<string>does not contain</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>begint niet met</string>
+		<key>GermanValue</key>
+		<string>beginnt nicht mit</string>
+		<key>JapaneseValue</key>
+		<string>で始まらない</string>
+		<key>Key</key>
+		<string>StringNotBeginsWith</string>
+		<key>Value</key>
+		<string>does not begin with</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is één van</string>
+		<key>GermanValue</key>
+		<string>ist eines der</string>
+		<key>JapaneseValue</key>
+		<string>うちの</string>
+		<key>Key</key>
+		<string>NumberAnyOf</string>
+		<key>Value</key>
+		<string>is any of</string>
+	</dict>
+	<dict>
+		<key>Key</key>
+		<string>ApplicableToUserIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>eindigt niet met</string>
+		<key>GermanValue</key>
+		<string>endet nicht mit</string>
+		<key>JapaneseValue</key>
+		<string>で終わらない</string>
+		<key>Key</key>
+		<string>StringNotEndsWith</string>
+		<key>Value</key>
+		<string>does not end with</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is tussen</string>
+		<key>GermanValue</key>
+		<string>ist zwischen</string>
+		<key>JapaneseValue</key>
+		<string>のあいだ</string>
+		<key>Key</key>
+		<string>NumberIsBetween</string>
+		<key>Value</key>
+		<string>is between</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>DateIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>DelegatedByIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>PipelineStageIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is geen van</string>
+		<key>GermanValue</key>
+		<string>ist keines von</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>NumberNoneOf</string>
+		<key>Value</key>
+		<string>is none of</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>NumberIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is meer dan</string>
+		<key>GermanValue</key>
+		<string>ist mehr als</string>
+		<key>JapaneseValue</key>
+		<string>越える</string>
+		<key>Key</key>
+		<string>DateMoreThan</string>
+		<key>Value</key>
+		<string>is more than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>は</string>
+		<key>Key</key>
+		<string>BooleanIs</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>DelegatedToIsNot</string>
+		<key>Value</key>
+		<string>is not</string>
+	</dict>
+</array>
+</plist>

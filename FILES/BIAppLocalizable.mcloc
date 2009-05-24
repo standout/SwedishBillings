@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meeting</string>
+		<key>FinnishValue</key>
+		<string>Tapaaminen</string>
+		<key>GermanValue</key>
+		<string>Meeting</string>
+		<key>JapaneseValue</key>
+		<string>会議</string>
+		<key>Key</key>
+		<string>meetingCategory</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>SwedishValue</key>
+		<string>Möte</string>
+		<key>Value</key>
+		<string>Meeting</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er trad een foute op terwijl Billings bezig was met zijn Application Support map in te stellen.  Controller de bevoegdheden van de Application Support map de Biliotheek mav van uw Home mat om er zeker van te zijn dat u lees en schrijf rechten heeft. Kies Help &gt; Mac Help in Finder voor meer informatie.</string>
+		<key>FinnishValue</key>
+		<string>Ongelma Application Support kansion luonnissa. Tarkista että sinulla on luku- ja kirjoitusoikeudet kotihakemistosi Kirjasto -&gt; Application Support -hakemistoon. Valitse Finderistä Ohjeet -&gt; Mac-ohjeet saadaksesi lisäohjeita. </string>
+		<key>GermanValue</key>
+		<string>Es wurde ein Fehler gefunden, während Billings einen Ordner für den Programm Support einrichten wollte. Überprüfen Sie die Zulassungen der Programm Support Ordner im Bibliotheken Ordner im Home-Verzeichnis um sicher zu gehen, dass Sie in dem Ordner Lesen &amp; Schreiben können. Um weitere Informationen zu erhalten, klicken Sie im Finder auf Hilfe &gt; Mac Hilfe.</string>
+		<key>JapaneseValue</key>
+		<string>アプリケーションサポーLibrary/Application Support/Billings/トフォルダの作成中にエラーが発生しました。フォルダのアクセス権が「読み／書き」と設定されているか確認してください。詳細はFinderのHelp &gt; Mac Helpにて。</string>
+		<key>Key</key>
+		<string>setupBillingsDirectoryErrorText</string>
+		<key>SwedishValue</key>
+		<string>Ett fel uppstod medan Billings skapade Application Support-mappen. Kontrollera rättighterna på mappen Application Support i Biblioteksmappen som finns i ditt hembibliotek. </string>
+		<key>Value</key>
+		<string>An error occurred while Billings was setting up its Application Support folder. Check the permissions of the Application Support folder in the Library folder in your home directory to make sure that you can Read &amp; Write to the folder. Choose Help &gt; Mac Help in Finder for more information.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderzoek</string>
+		<key>FinnishValue</key>
+		<string>Taustatyö</string>
+		<key>GermanValue</key>
+		<string>Recherche</string>
+		<key>JapaneseValue</key>
+		<string>調査</string>
+		<key>Key</key>
+		<string>researchCategory</string>
+		<key>SwedishValue</key>
+		<string>Forskning</string>
+		<key>Value</key>
+		<string>Research</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kontant</string>
+		<key>FinnishValue</key>
+		<string>Käteinen</string>
+		<key>GermanValue</key>
+		<string>Bar</string>
+		<key>JapaneseValue</key>
+		<string>現金</string>
+		<key>Key</key>
+		<string>CashPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Kontanter</string>
+		<key>Value</key>
+		<string>Cash</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tijdsregistraties</string>
+		<key>FinnishValue</key>
+		<string>Ajastimet</string>
+		<key>GermanValue</key>
+		<string>Timer</string>
+		<key>JapaneseValue</key>
+		<string>タイマー</string>
+		<key>Key</key>
+		<string>timersDockMenuLabel</string>
+		<key>SwedishValue</key>
+		<string>Tidtagare</string>
+		<key>Value</key>
+		<string>Timers</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 8</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 8</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 8</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 8</string>
+		<key>Key</key>
+		<string>extraField8DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 8</string>
+		<key>Value</key>
+		<string>Extra Field 8</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Provisie</string>
+		<key>FinnishValue</key>
+		<string>Ennakkomaksu</string>
+		<key>GermanValue</key>
+		<string>Anzahlung</string>
+		<key>JapaneseValue</key>
+		<string>仮受金</string>
+		<key>Key</key>
+		<string>RetainerPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Arvode</string>
+		<key>Value</key>
+		<string>Retainer</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Financieel</string>
+		<key>FinnishValue</key>
+		<string>Rahoitus</string>
+		<key>GermanValue</key>
+		<string>Finanzielles</string>
+		<key>JapaneseValue</key>
+		<string>財務</string>
+		<key>Key</key>
+		<string>financialCategory</string>
+		<key>SwedishValue</key>
+		<string>Ekonomi</string>
+		<key>Value</key>
+		<string>Financial</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Betaling</string>
+		<key>FinnishValue</key>
+		<string>Maksu</string>
+		<key>JapaneseValue</key>
+		<string>支払</string>
+		<key>Key</key>
+		<string>Payment</string>
+		<key>SwedishValue</key>
+		<string>Betalning</string>
+		<key>Value</key>
+		<string>Payment</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tijdsregistratie</string>
+		<key>FinnishValue</key>
+		<string>Aikalipuke</string>
+		<key>JapaneseValue</key>
+		<string>時間伝票</string>
+		<key>Key</key>
+		<string>TimeSlip</string>
+		<key>SwedishValue</key>
+		<string>Tidsblankett</string>
+		<key>Value</key>
+		<string>TimeSlip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Op Locatie</string>
+		<key>FinnishValue</key>
+		<string>Asiakaskäynti</string>
+		<key>GermanValue</key>
+		<string>Vor Ort</string>
+		<key>JapaneseValue</key>
+		<string>オンサイト</string>
+		<key>Key</key>
+		<string>onsiteCategory</string>
+		<key>SwedishValue</key>
+		<string>På platsen</string>
+		<key>Value</key>
+		<string>On-site</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Speciaal</string>
+		<key>FinnishValue</key>
+		<string>Erikoistyö</string>
+		<key>GermanValue</key>
+		<string>Besonderes</string>
+		<key>JapaneseValue</key>
+		<string>特別</string>
+		<key>Key</key>
+		<string>specialCategory</string>
+		<key>SwedishValue</key>
+		<string>Special</string>
+		<key>Value</key>
+		<string>Special</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niet Geregistreerd</string>
+		<key>FinnishValue</key>
+		<string>Not Registered</string>
+		<key>JapaneseValue</key>
+		<string>未登録</string>
+		<key>Key</key>
+		<string>NOT_REGISTERED</string>
+		<key>SwedishValue</key>
+		<string>Oregistrerad</string>
+		<key>Value</key>
+		<string>Not Registered</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Factuur</string>
+		<key>FinnishValue</key>
+		<string>Lasku</string>
+		<key>JapaneseValue</key>
+		<string>請求書</string>
+		<key>Key</key>
+		<string>Invoice</string>
+		<key>SwedishValue</key>
+		<string>Faktura</string>
+		<key>Value</key>
+		<string>Invoice</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Algemeen</string>
+		<key>FinnishValue</key>
+		<string>Yleinen</string>
+		<key>JapaneseValue</key>
+		<string>一般</string>
+		<key>Key</key>
+		<string>General</string>
+		<key>SwedishValue</key>
+		<string>Generell</string>
+		<key>Value</key>
+		<string>General</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ontwikkeling</string>
+		<key>FinnishValue</key>
+		<string>Kehitys</string>
+		<key>GermanValue</key>
+		<string>Entwicklung</string>
+		<key>JapaneseValue</key>
+		<string>開発</string>
+		<key>Key</key>
+		<string>developmentCategory</string>
+		<key>SwedishValue</key>
+		<string>Utveckling</string>
+		<key>Value</key>
+		<string>Development</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Klant</string>
+		<key>FinnishValue</key>
+		<string>Asiakas</string>
+		<key>JapaneseValue</key>
+		<string>顧客</string>
+		<key>Key</key>
+		<string>Client</string>
+		<key>SwedishValue</key>
+		<string>Kund</string>
+		<key>Value</key>
+		<string>Client</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Electronisch</string>
+		<key>FinnishValue</key>
+		<string>Verkkopankki</string>
+		<key>GermanValue</key>
+		<string>Elektronisch</string>
+		<key>JapaneseValue</key>
+		<string>電子マネー</string>
+		<key>Key</key>
+		<string>ElectronicPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Elektronisk</string>
+		<key>Value</key>
+		<string>Electronic</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 5</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 5</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 5</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 5</string>
+		<key>Key</key>
+		<string>extraField5DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 5</string>
+		<key>Value</key>
+		<string>Extra Field 5</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Aktieve Tijdsregistraties</string>
+		<key>FinnishValue</key>
+		<string>Ei käytössä olevia ajastimia</string>
+		<key>GermanValue</key>
+		<string>Es sind keine aktiven Timer vorhanden.</string>
+		<key>JapaneseValue</key>
+		<string>停止中のタイマー</string>
+		<key>Key</key>
+		<string>noActiveSlipsDockMenuLabel</string>
+		<key>SwedishValue</key>
+		<string>Inga aktiva tidtagare</string>
+		<key>Value</key>
+		<string>No Active Timers</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 6</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 6</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 6</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 6</string>
+		<key>Key</key>
+		<string>extraField6DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 6</string>
+		<key>Value</key>
+		<string>Extra Field 6</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Het is onmogelijk om een Billings databank te openen vanuit de Finder. De Billings databank bevind zich in uw home directory onder Library/Application Support/Billings/. Als u een specifieke databank wenst te openen, dient u deze naar die locatie te verplaatsen en Billings te starten.</string>
+		<key>FinnishValue</key>
+		<string>Et voi avata Billingsin tietokantaa Finderista. Billingsin tietokanta on kotihakemistosi sisällä, Kirjasto/Application Support/Billings/ hakemistossa. Jos haluat avata jonkin tietyn tietokannan, täytyy se siirtää tuohon edellä mainittuun paikkaan ja sitten käynnistää Billings ohjelma.</string>
+		<key>GermanValue</key>
+		<string>Die Billings Datenbank kann nicht aus dem Finder geöffnet werden. Ihre Billings Datenbank ist in Ihrem Home-Verzeichnis in Bibliothek/Programm Support/Billings/ vorhanden. Falls Sie eine spezielle Datenbank öffnen möchten, müssen Sie diese dorthin verschieben und dann Billings öffnen.</string>
+		<key>JapaneseValue</key>
+		<string>FinderからBillingsのデータベースは開けません。 BillingsのデータベースはLibrary/Application Support/Billings/のホームダイレクトリーに含まれています。特定のデータベースを開きたい場合、前期のダイレクトリに移動させてから開いてください。</string>
+		<key>Key</key>
+		<string>YouCannotOpenABillingsDatabaseFromTheFinderPeriodTheBillingsDatabaseIsContainedInYourHomeDirectoryInLibraryBackslashApplicationSupportBackslashBillingsBackslashPeriodIfYouWouldLikeToOpenASpecificDatabaseYouMustMoveItThereAndThenOpenBillingsPeriod</string>
+		<key>SwedishValue</key>
+		<string>Du kaninte öppna en Billings-databas från Finder. Databasen finns i din hembibliotek ~/Bibliotek/Application Support/Billings/. Om du skulle vilja öppna en specifik databas måste du placera den där och sedan starta om Billings.</string>
+		<key>Value</key>
+		<string>You cannot open a billings database from the finder. The Billings database is contained in your home directory in Library/Application Support/Billings/. If you would like to open a specific database you must move it there and then open billings.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 7</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 7</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 7</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 7</string>
+		<key>Key</key>
+		<string>extraField7DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extafält 7</string>
+		<key>Value</key>
+		<string>Extra Field 7</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dit is een legacy template. Gelieve het te converteren aan de hand van het Design -&gt; Conversion menu.</string>
+		<key>FinnishValue</key>
+		<string>Tämä on vanha dokumenttipohja. Ole hyvä ja muunna se valikosta Suunnittelu -&gt; Muuntovalikko.</string>
+		<key>JapaneseValue</key>
+		<string>これはレガシーテンプレートです。Design -&gt; Conversionメニューを使って変換してください。</string>
+		<key>Key</key>
+		<string>LEGACY_REPORT_FORMAT_CONVERT_FIRST</string>
+		<key>SwedishValue</key>
+		<string>Det här är en gammal mall. Vänligen konvertera den genom att välja Design -&gt; Konvertering i menyn.</string>
+		<key>Value</key>
+		<string>This is a legacy template. Please convert it using the Design -&gt; Conversion menu.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er was een probleem bij het automatisch backupen van uw databank. Gelieven uw bestands bevoegdheden te controlleren op het ~/Application Support/Billings/Backup pad.</string>
+		<key>FinnishValue</key>
+		<string>Havaittiin ongelma automaattisessa tietokannan varmuuskopioinnissa. Ole hyvä ja tarkista kirjoitusoikeudet hakemistopolulla ~/Application Support/Billings/Backup .</string>
+		<key>Key</key>
+		<string>backupErrorAlertMsg</string>
+		<key>SwedishValue</key>
+		<string>Det uppstod ett problem när databasen skulle säkerhetskopieras. Kontrollera rättigheterna på ~/Application Support/Billings/Backup</string>
+		<key>Value</key>
+		<string>There was a problem automatically backing up your database. Please check file permissions at the ~/Application Support/Billings/Backup path.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 1</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 1</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 1</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 1</string>
+		<key>Key</key>
+		<string>extraField1DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 1</string>
+		<key>Value</key>
+		<string>Extra Field 1</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 3</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 3</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 3</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 3</string>
+		<key>Key</key>
+		<string>extraField3DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 3</string>
+		<key>Value</key>
+		<string>Extra Field 3</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Schrijven</string>
+		<key>FinnishValue</key>
+		<string>Kirjallinen</string>
+		<key>GermanValue</key>
+		<string>Schriftstück</string>
+		<key>JapaneseValue</key>
+		<string>執筆</string>
+		<key>Key</key>
+		<string>writingCategory</string>
+		<key>SwedishValue</key>
+		<string>Textproduktion</string>
+		<key>Value</key>
+		<string>Writing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niet Gekoppeld</string>
+		<key>FinnishValue</key>
+		<string>Ei yhdistetty</string>
+		<key>GermanValue</key>
+		<string>Nicht verlinkt</string>
+		<key>JapaneseValue</key>
+		<string>リンク未設定</string>
+		<key>Key</key>
+		<string>notLinkedLabel</string>
+		<key>SwedishValue</key>
+		<string>Olänkad</string>
+		<key>Value</key>
+		<string>Not Linked</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Billings vereist Mac OS X 10.3 of hoger. Ga naar www.apple.com of bel Apple om de meest recente versie van Mac OS X te verkrijgen.</string>
+		<key>FinnishValue</key>
+		<string>Billings vaatii Mac OS X 10.3 tai uudemman version. Mene www.apple.fi tai soita Applelle tiedustellaksesi viimeisintä Mac OS X versiota.</string>
+		<key>GermanValue</key>
+		<string>Billings erfordert Mac OS X 10.3 oder eine aktuellere Version. Besuchen Sie die Website: www.apple.com oder nehmen Sie telefonischen Kontakt zu Apple auf, um die neueste Version von Mac OS zu erhalten.</string>
+		<key>JapaneseValue</key>
+		<string> Mac OS X 10.3 以降で動作します。www.apple.com かAppleに電話連絡して、最新の　Mac OS X.　を入手してください。</string>
+		<key>Key</key>
+		<string>Billings requires Mac OS X 10.3 or higher</string>
+		<key>SwedishValue</key>
+		<string>Billings kräver Mac OS X 10.3 eller senare. Du hittar den senaste versionen på www.apple.se</string>
+		<key>Value</key>
+		<string>Billings requires Mac OS X 10.3 or later. Go to www.apple.com or call Apple to find the latest version of Mac OS X.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kan de Databank niet openen</string>
+		<key>FinnishValue</key>
+		<string>Tietokannan avaus ei onnistu</string>
+		<key>GermanValue</key>
+		<string>Kann die Datenbank nicht öffnen</string>
+		<key>JapaneseValue</key>
+		<string>データベースが開けません</string>
+		<key>Key</key>
+		<string>CannotOpenDatabase</string>
+		<key>SwedishValue</key>
+		<string>Kunde inte öppna databasen</string>
+		<key>Value</key>
+		<string>Cannot Open Database</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Amex</string>
+		<key>FinnishValue</key>
+		<string>Amex</string>
+		<key>GermanValue</key>
+		<string>Amex</string>
+		<key>JapaneseValue</key>
+		<string>Amex</string>
+		<key>Key</key>
+		<string>AmexPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Amex</string>
+		<key>Value</key>
+		<string>Amex</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Project</string>
+		<key>FinnishValue</key>
+		<string>Projekti</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクト</string>
+		<key>Key</key>
+		<string>Project</string>
+		<key>SwedishValue</key>
+		<string>Projekt</string>
+		<key>Value</key>
+		<string>Project</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geregistreerd</string>
+		<key>FinnishValue</key>
+		<string>Registered</string>
+		<key>JapaneseValue</key>
+		<string>登録済み</string>
+		<key>Key</key>
+		<string>REGISTERED</string>
+		<key>SwedishValue</key>
+		<string>Registrerad</string>
+		<key>Value</key>
+		<string>Registered</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aktieve Tijdsregistraties</string>
+		<key>FinnishValue</key>
+		<string>Käytössä olevat ajastimet</string>
+		<key>GermanValue</key>
+		<string>Aktive Timer</string>
+		<key>JapaneseValue</key>
+		<string>稼働中のタイマー</string>
+		<key>Key</key>
+		<string>activeTimersDockMenuLabel</string>
+		<key>SwedishValue</key>
+		<string>Aktiva tidtagare</string>
+		<key>Value</key>
+		<string>Active Timers</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Automatisch een backup nemen van uw databank…</string>
+		<key>FinnishValue</key>
+		<string>Automaattinen tietokannan varmuuskopiointi käynnissä...</string>
+		<key>Key</key>
+		<string>autoBackupStatus</string>
+		<key>SwedishValue</key>
+		<string>Kör automatisk backup av databasen ...</string>
+		<key>Value</key>
+		<string>Automatically backing up the database…</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Billings</string>
+		<key>FinnishValue</key>
+		<string>Billings</string>
+		<key>GermanValue</key>
+		<string>Billings</string>
+		<key>JapaneseValue</key>
+		<string>Billings</string>
+		<key>Key</key>
+		<string>billingsDockMenuLabel</string>
+		<key>SwedishValue</key>
+		<string>Billings</string>
+		<key>Value</key>
+		<string>Billings</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stop</string>
+		<key>FinnishValue</key>
+		<string>Lopeta</string>
+		<key>GermanValue</key>
+		<string>Beenden</string>
+		<key>JapaneseValue</key>
+		<string>終了</string>
+		<key>Key</key>
+		<string>QuitLabel</string>
+		<key>SwedishValue</key>
+		<string>Avsluta</string>
+		<key>Value</key>
+		<string>Quit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mastercard</string>
+		<key>FinnishValue</key>
+		<string>Mastercard</string>
+		<key>GermanValue</key>
+		<string>Mastercaard</string>
+		<key>JapaneseValue</key>
+		<string>Mastercard</string>
+		<key>Key</key>
+		<string>MastercardPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Mastercard</string>
+		<key>Value</key>
+		<string>Mastercard</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Visa</string>
+		<key>FinnishValue</key>
+		<string>Visa</string>
+		<key>GermanValue</key>
+		<string>Visa</string>
+		<key>JapaneseValue</key>
+		<string>Visa</string>
+		<key>Key</key>
+		<string>VisaPaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Visa</string>
+		<key>Value</key>
+		<string>Visa</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Cheque</string>
+		<key>FinnishValue</key>
+		<string>Shekki</string>
+		<key>GermanValue</key>
+		<string>Scheck</string>
+		<key>JapaneseValue</key>
+		<string>小切手</string>
+		<key>Key</key>
+		<string>ChequePaymentLabel</string>
+		<key>SwedishValue</key>
+		<string>Check</string>
+		<key>Value</key>
+		<string>Cheque</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Creatief</string>
+		<key>FinnishValue</key>
+		<string>Luova työ</string>
+		<key>GermanValue</key>
+		<string>Kreatives</string>
+		<key>JapaneseValue</key>
+		<string>制作</string>
+		<key>Key</key>
+		<string>creativeCategory</string>
+		<key>SwedishValue</key>
+		<string>Kreativt</string>
+		<key>Value</key>
+		<string>Creative</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Billings kan niet gestart worden op deze versie van Mac OS X.</string>
+		<key>FinnishValue</key>
+		<string>Billings cannot be opened on this version of Mac OS X.</string>
+		<key>GermanValue</key>
+		<string>Billings kann nicht in dieser Mac OS X Version geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>使いのバージョンの Mac OS X では動作しません。</string>
+		<key>Key</key>
+		<string>Invalid Operating System</string>
+		<key>SwedishValue</key>
+		<string>Billings kan inte öppnas med den här versionen av Mac OS X.</string>
+		<key>Value</key>
+		<string>Billings cannot be opened on this version of Mac OS X.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 4</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 4</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 4</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 4</string>
+		<key>Key</key>
+		<string>extraField4DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 4</string>
+		<key>Value</key>
+		<string>Extra Field 4</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ontwerp</string>
+		<key>FinnishValue</key>
+		<string>Suunnittelu</string>
+		<key>GermanValue</key>
+		<string>Design</string>
+		<key>JapaneseValue</key>
+		<string>デザイン</string>
+		<key>Key</key>
+		<string>designCategory</string>
+		<key>SwedishValue</key>
+		<string>Design</string>
+		<key>Value</key>
+		<string>Design</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Billings kon zijn Application Support map niet instellen.</string>
+		<key>FinnishValue</key>
+		<string>Ongelma Application Support kansion luonnissa</string>
+		<key>GermanValue</key>
+		<string>Billings konnte nicht seinen Ordner für Programm Support  finden.</string>
+		<key>JapaneseValue</key>
+		<string>アプリケーションサポートフォルダの作成に失敗しました。</string>
+		<key>Key</key>
+		<string>setupBillingsDirectoryErrorTitle</string>
+		<key>SwedishValue</key>
+		<string>Billings kunde inte skapa sin mapp i Application Support.</string>
+		<key>Value</key>
+		<string>Billings could not set up its Application Support folder.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Editeren</string>
+		<key>FinnishValue</key>
+		<string>Muokkaus</string>
+		<key>GermanValue</key>
+		<string>Bearbeitung</string>
+		<key>JapaneseValue</key>
+		<string>編集</string>
+		<key>Key</key>
+		<string>editingCategory</string>
+		<key>SwedishValue</key>
+		<string>Redigering</string>
+		<key>Value</key>
+		<string>Editing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij Automatische Backup</string>
+		<key>FinnishValue</key>
+		<string>Virhe automaattisessa varmuuskopioinnissa.</string>
+		<key>Key</key>
+		<string>backupErrorAlertTitle</string>
+		<key>SwedishValue</key>
+		<string>Fel vid automatisk backup</string>
+		<key>Value</key>
+		<string>Automatic Backup Error</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 2</string>
+		<key>FinnishValue</key>
+		<string>Lisäkenttä 2</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 2</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド 2</string>
+		<key>Key</key>
+		<string>extraField2DefaultLabel</string>
+		<key>SwedishValue</key>
+		<string>Extrafält 2</string>
+		<key>Value</key>
+		<string>Extra Field 2</string>
+	</dict>
+	<dict>
+		<key>FinnishValue</key>
+		<string>Rekisteröimätön</string>
+		<key>Key</key>
+		<string>Rekisteröimätön</string>
+	</dict>
+	<dict>
+		<key>FinnishValue</key>
+		<string>Rekisteröity</string>
+		<key>Key</key>
+		<string>Rekisteröity</string>
+	</dict>
+	<dict>
+		<key>FinnishValue</key>
+		<string>Billings ei toimi tämän Mac OS X käyttöjärjestelmäversion kanssa</string>
+		<key>Key</key>
+		<string>Billings ei toimi tämän Mac OS X käyttöjärjestelmäversion kanssa</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 2</string>
+		<key>Key</key>
+		<string>Extra Field 2</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 2:</string>
+		<key>Key</key>
+		<string>Extra Field 2:</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 1</string>
+		<key>Key</key>
+		<string>Extra Field 1</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 1:</string>
+		<key>Key</key>
+		<string>Extra Field 1:</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 4</string>
+		<key>Key</key>
+		<string>Extra Field 4</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfelder</string>
+		<key>Key</key>
+		<string>Extra Fields</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 3:</string>
+		<key>Key</key>
+		<string>Extra Field 3:</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 3</string>
+		<key>Key</key>
+		<string>Extra Field 3</string>
+	</dict>
+	<dict>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 4:</string>
+		<key>Key</key>
+		<string>Extra Field 4:</string>
+	</dict>
+</array>
+</plist>

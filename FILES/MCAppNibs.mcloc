@@ -1,0 +1,2798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO CHECK&gt;Label</string>
+		<key>GermanValue</key>
+		<string>Etikett</string>
+		<key>JapaneseValue</key>
+		<string>ラベル</string>
+		<key>Key</key>
+		<string>Label</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>Value</key>
+		<string>Label</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Transformeer:</string>
+		<key>GermanValue</key>
+		<string>Transformation</string>
+		<key>JapaneseValue</key>
+		<string>変換:</string>
+		<key>Key</key>
+		<string>Transform:</string>
+		<key>Value</key>
+		<string>Transform:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Werkomgeving</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペース</string>
+		<key>Key</key>
+		<string>Workspace</string>
+		<key>Value</key>
+		<string>Workspace</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is tussen</string>
+		<key>GermanValue</key>
+		<string>ist zwischen</string>
+		<key>JapaneseValue</key>
+		<string>この間</string>
+		<key>Key</key>
+		<string>is between</string>
+		<key>Value</key>
+		<string>is between</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>van %d</string>
+		<key>GermanValue</key>
+		<string>%d von</string>
+		<key>JapaneseValue</key>
+		<string>%d　の</string>
+		<key>Key</key>
+		<string>of %d</string>
+		<key>Value</key>
+		<string>of %d</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Van</string>
+		<key>GermanValue</key>
+		<string>Von</string>
+		<key>JapaneseValue</key>
+		<string>から</string>
+		<key>Key</key>
+		<string>From</string>
+		<key>Value</key>
+		<string>From</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alle</string>
+		<key>GermanValue</key>
+		<string>Alle</string>
+		<key>JapaneseValue</key>
+		<string>全て</string>
+		<key>Key</key>
+		<string>All</string>
+		<key>Value</key>
+		<string>All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In het Verleden</string>
+		<key>GermanValue</key>
+		<string>In der Vergangenheit</string>
+		<key>JapaneseValue</key>
+		<string>過去に</string>
+		<key>Key</key>
+		<string>In the Past</string>
+		<key>Value</key>
+		<string>In the Past</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>App Name</string>
+		<key>GermanValue</key>
+		<string>Programmname</string>
+		<key>JapaneseValue</key>
+		<string>App 名称</string>
+		<key>Key</key>
+		<string>App Name</string>
+		<key>Value</key>
+		<string>App Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>EN</string>
+		<key>GermanValue</key>
+		<string>UND</string>
+		<key>JapaneseValue</key>
+		<string>全て</string>
+		<key>Key</key>
+		<string>AND</string>
+		<key>Value</key>
+		<string>AND</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Kleiner Dan</string>
+		<key>GermanValue</key>
+		<string>Ist kleiner als</string>
+		<key>JapaneseValue</key>
+		<string>以下</string>
+		<key>Key</key>
+		<string>Is Less Than</string>
+		<key>Value</key>
+		<string>Is Less Than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende</string>
+		<key>GermanValue</key>
+		<string>Weiter</string>
+		<key>JapaneseValue</key>
+		<string>次</string>
+		<key>Key</key>
+		<string>Next</string>
+		<key>Value</key>
+		<string>Next</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>CSV (Comma Gescheiden)</string>
+		<key>GermanValue</key>
+		<string>CSV (Kommabegrenzt)</string>
+		<key>JapaneseValue</key>
+		<string>CSV (カンマ区切り)</string>
+		<key>Key</key>
+		<string>CSV (Comma Delimited)</string>
+		<key>Value</key>
+		<string>CSV (Comma Delimited)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Snel Zoeken</string>
+		<key>GermanValue</key>
+		<string>Schnellsuche</string>
+		<key>JapaneseValue</key>
+		<string>クイックファインド</string>
+		<key>Key</key>
+		<string>Quick Find</string>
+		<key>Value</key>
+		<string>Quick Find</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Reden</string>
+		<key>GermanValue</key>
+		<string>Grund</string>
+		<key>JapaneseValue</key>
+		<string>理由</string>
+		<key>Key</key>
+		<string>Reason</string>
+		<key>Value</key>
+		<string>Reason</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bevat</string>
+		<key>GermanValue</key>
+		<string>Beinhaltet</string>
+		<key>JapaneseValue</key>
+		<string>含む</string>
+		<key>Key</key>
+		<string>Contains</string>
+		<key>Value</key>
+		<string>Contains</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In de Komende Maand</string>
+		<key>GermanValue</key>
+		<string>Im nächsten Monat</string>
+		<key>JapaneseValue</key>
+		<string>来月</string>
+		<key>Key</key>
+		<string>In the Next Month</string>
+		<key>Value</key>
+		<string>In the Next Month</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tab</string>
+		<key>GermanValue</key>
+		<string>Tab</string>
+		<key>JapaneseValue</key>
+		<string>タブ</string>
+		<key>Key</key>
+		<string>Tab</string>
+		<key>Value</key>
+		<string>Tab</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Done</string>
+		<key>GermanValue</key>
+		<string>Fertig</string>
+		<key>JapaneseValue</key>
+		<string>終わり</string>
+		<key>Key</key>
+		<string>Done</string>
+		<key>Value</key>
+		<string>Done</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is</string>
+		<key>GermanValue</key>
+		<string>ist</string>
+		<key>JapaneseValue</key>
+		<string>は</string>
+		<key>Key</key>
+		<string>is</string>
+		<key>Value</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tussen</string>
+		<key>GermanValue</key>
+		<string>Zwischen</string>
+		<key>JapaneseValue</key>
+		<string>合間</string>
+		<key>Key</key>
+		<string>Between</string>
+		<key>Value</key>
+		<string>Between</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In de Laaste Maand</string>
+		<key>GermanValue</key>
+		<string>Im letzten Monat</string>
+		<key>JapaneseValue</key>
+		<string>先月</string>
+		<key>Key</key>
+		<string>In the Last Month</string>
+		<key>Value</key>
+		<string>In the Last Month</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Notificaties</string>
+		<key>GermanValue</key>
+		<string>Benachrichtigungen</string>
+		<key>JapaneseValue</key>
+		<string>お知らせ</string>
+		<key>Key</key>
+		<string>Notifications</string>
+		<key>Value</key>
+		<string>Notifications</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In de Laaste twee Weken</string>
+		<key>GermanValue</key>
+		<string>In den letzten zwei Wochen</string>
+		<key>JapaneseValue</key>
+		<string>前、二週間で</string>
+		<key>Key</key>
+		<string>In the Last Two Weeks</string>
+		<key>Value</key>
+		<string>In the Last Two Weeks</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen</string>
+		<key>GermanValue</key>
+		<string>Keine</string>
+		<key>JapaneseValue</key>
+		<string>None</string>
+		<key>Key</key>
+		<string>None</string>
+		<key>Value</key>
+		<string>None</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Begint Met</string>
+		<key>GermanValue</key>
+		<string>Beginnt mit</string>
+		<key>JapaneseValue</key>
+		<string>で始まる</string>
+		<key>Key</key>
+		<string>Starts With</string>
+		<key>Value</key>
+		<string>Starts With</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In de Toekomst</string>
+		<key>GermanValue</key>
+		<string>In Zukunft</string>
+		<key>JapaneseValue</key>
+		<string>未来は</string>
+		<key>Key</key>
+		<string>In the Future</string>
+		<key>Value</key>
+		<string>In the Future</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Subexpression #%d</string>
+		<key>GermanValue</key>
+		<string>Hilfswort #%d</string>
+		<key>JapaneseValue</key>
+		<string>サブエクスプレッション #%d</string>
+		<key>Key</key>
+		<string>Subexpression #%d</string>
+		<key>Value</key>
+		<string>Subexpression #%d</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>en</string>
+		<key>GermanValue</key>
+		<string>und</string>
+		<key>JapaneseValue</key>
+		<string>全て</string>
+		<key>Key</key>
+		<string>and</string>
+		<key>Value</key>
+		<string>and</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>de option toets</string>
+		<key>GermanValue</key>
+		<string>die Wahltaste</string>
+		<key>JapaneseValue</key>
+		<string>オプションキー</string>
+		<key>Key</key>
+		<string>the option key</string>
+		<key>Value</key>
+		<string>the option key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voornaam, Familienaam</string>
+		<key>GermanValue</key>
+		<string>Vorname, Nachname</string>
+		<key>JapaneseValue</key>
+		<string>名、姓</string>
+		<key>Key</key>
+		<string>First Name, Last Name</string>
+		<key>Value</key>
+		<string>First Name, Last Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Lijst</string>
+		<key>GermanValue</key>
+		<string>Neue Liste</string>
+		<key>JapaneseValue</key>
+		<string>新規リスト</string>
+		<key>Key</key>
+		<string>New List</string>
+		<key>Value</key>
+		<string>New List</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Venster</string>
+		<key>GermanValue</key>
+		<string>Fenster</string>
+		<key>JapaneseValue</key>
+		<string>ウィンドウ</string>
+		<key>Key</key>
+		<string>Window</string>
+		<key>Value</key>
+		<string>Window</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>En:</string>
+		<key>GermanValue</key>
+		<string>Und:</string>
+		<key>JapaneseValue</key>
+		<string>全て:</string>
+		<key>Key</key>
+		<string>And:</string>
+		<key>Value</key>
+		<string>And:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Juni</string>
+		<key>GermanValue</key>
+		<string>Juni</string>
+		<key>JapaneseValue</key>
+		<string>六月</string>
+		<key>Key</key>
+		<string>June</string>
+		<key>Value</key>
+		<string>June</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Paneel</string>
+		<key>GermanValue</key>
+		<string>Seite</string>
+		<key>JapaneseValue</key>
+		<string>枠</string>
+		<key>Key</key>
+		<string>Panel</string>
+		<key>Value</key>
+		<string>Panel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Februari</string>
+		<key>GermanValue</key>
+		<string>Februar</string>
+		<key>JapaneseValue</key>
+		<string>二月</string>
+		<key>Key</key>
+		<string>February</string>
+		<key>Value</key>
+		<string>February</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Januari</string>
+		<key>GermanValue</key>
+		<string>Januar</string>
+		<key>JapaneseValue</key>
+		<string>一月</string>
+		<key>Key</key>
+		<string>January</string>
+		<key>Value</key>
+		<string>January</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kies uw Opties...</string>
+		<key>GermanValue</key>
+		<string>Wählen Sie Ihre Option aus...</string>
+		<key>JapaneseValue</key>
+		<string>オプションを選択してください...</string>
+		<key>Key</key>
+		<string>Chose your options...</string>
+		<key>Value</key>
+		<string>Chose your options...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles Selecteren</string>
+		<key>GermanValue</key>
+		<string>Alle auswählen</string>
+		<key>JapaneseValue</key>
+		<string>全て選択</string>
+		<key>Key</key>
+		<string>Select All</string>
+		<key>Value</key>
+		<string>Select All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is eender welke van</string>
+		<key>GermanValue</key>
+		<string>ist irgendein/e</string>
+		<key>JapaneseValue</key>
+		<string>このうち</string>
+		<key>Key</key>
+		<string>is any of</string>
+		<key>Value</key>
+		<string>is any of</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voor read-write toegang: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig konnte nicht zum lesen und schreiben von: %@ geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>エラー。InternetConfigを開く「読み・書き」権: %@</string>
+		<key>Key</key>
+		<string>Error opening InternetConfig for read-write access: %@</string>
+		<key>Value</key>
+		<string>Error opening InternetConfig for read-write access: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ja</string>
+		<key>GermanValue</key>
+		<string>Ja</string>
+		<key>JapaneseValue</key>
+		<string>はい</string>
+		<key>Key</key>
+		<string>Yes</string>
+		<key>Value</key>
+		<string>Yes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen zal alle instellingen opnieuw instellen zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungen in diesem Ausschnitt zur ursprünglichen Einstellung zurückgesetzt, die vorhanden war, als %@ installiert wurde.</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すとこの枠の全ての環境定は%@が最初にインストールされた時の状態に戻ります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings in this pane to the state they were in when %@ was first installed.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings in this pane to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ophalen</string>
+		<key>GermanValue</key>
+		<string>Laden</string>
+		<key>JapaneseValue</key>
+		<string>Fetch</string>
+		<key>Key</key>
+		<string>Fetch</string>
+		<key>Value</key>
+		<string>Fetch</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Weiger</string>
+		<key>GermanValue</key>
+		<string>Schließen</string>
+		<key>JapaneseValue</key>
+		<string>却下</string>
+		<key>Key</key>
+		<string>Dismiss</string>
+		<key>Value</key>
+		<string>Dismiss</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Leef</string>
+		<key>GermanValue</key>
+		<string>Ist leer</string>
+		<key>JapaneseValue</key>
+		<string>から</string>
+		<key>Key</key>
+		<string>Is Empty</string>
+		<key>Value</key>
+		<string>Is Empty</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende Week</string>
+		<key>GermanValue</key>
+		<string>Letzte Woche</string>
+		<key>JapaneseValue</key>
+		<string>来週</string>
+		<key>Key</key>
+		<string>Next Week</string>
+		<key>Value</key>
+		<string>Next Week</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Privacy Settings </string>
+		<key>GermanValue</key>
+		<string>Privatsphären-Einstellungen</string>
+		<key>JapaneseValue</key>
+		<string>プライバシー設定 </string>
+		<key>Key</key>
+		<string>Privacy Settings </string>
+		<key>Value</key>
+		<string>Privacy Settings </string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hef groep op</string>
+		<key>GermanValue</key>
+		<string>Gruppierung rückgängig machen</string>
+		<key>JapaneseValue</key>
+		<string>アングループ</string>
+		<key>Key</key>
+		<string>Ungroup</string>
+		<key>Value</key>
+		<string>Ungroup</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Unindent</string>
+		<key>GermanValue</key>
+		<string>Ausrücken</string>
+		<key>JapaneseValue</key>
+		<string>逆インデント</string>
+		<key>Key</key>
+		<string>Unindent</string>
+		<key>Value</key>
+		<string>Unindent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Wijzig</string>
+		<key>GermanValue</key>
+		<string>Bearbeiten</string>
+		<key>JapaneseValue</key>
+		<string>演習</string>
+		<key>Key</key>
+		<string>Edit</string>
+		<key>Value</key>
+		<string>Edit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gisteren</string>
+		<key>GermanValue</key>
+		<string>Gestern</string>
+		<key>JapaneseValue</key>
+		<string>昨日</string>
+		<key>Key</key>
+		<string>Yesterday</string>
+		<key>Value</key>
+		<string>Yesterday</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Titel</string>
+		<key>GermanValue</key>
+		<string>Titel</string>
+		<key>JapaneseValue</key>
+		<string>タイトル</string>
+		<key>Key</key>
+		<string>Title</string>
+		<key>Value</key>
+		<string>Title</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwijder Deze Filter</string>
+		<key>GermanValue</key>
+		<string>Diesen Filter löschen</string>
+		<key>JapaneseValue</key>
+		<string>このフィルターを削除</string>
+		<key>Key</key>
+		<string>Delete This Filter</string>
+		<key>Value</key>
+		<string>Delete This Filter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO CHECK&gt;Label:</string>
+		<key>GermanValue</key>
+		<string>Etikett:</string>
+		<key>JapaneseValue</key>
+		<string>ラベル:</string>
+		<key>Key</key>
+		<string>Label:</string>
+		<key>Value</key>
+		<string>Label:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaar Werkomgeving...</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz speichern...</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペースを保存...</string>
+		<key>Key</key>
+		<string>Save Workspace...</string>
+		<key>Value</key>
+		<string>Save Workspace...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>de control toets</string>
+		<key>GermanValue</key>
+		<string>die Kontroll-Taste</string>
+		<key>JapaneseValue</key>
+		<string>コントロールキー</string>
+		<key>Key</key>
+		<string>the control key</string>
+		<key>Value</key>
+		<string>the control key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende Maand</string>
+		<key>GermanValue</key>
+		<string>Nächster Monat</string>
+		<key>JapaneseValue</key>
+		<string>来月</string>
+		<key>Key</key>
+		<string>Next Month</string>
+		<key>Value</key>
+		<string>Next Month</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Arrange Columns</string>
+		<key>GermanValue</key>
+		<string>Spalten anordnen</string>
+		<key>JapaneseValue</key>
+		<string>縦列を配列</string>
+		<key>Key</key>
+		<string>Arrange Columns</string>
+		<key>Value</key>
+		<string>Arrange Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bevat niet</string>
+		<key>GermanValue</key>
+		<string>Beinhaltet nicht</string>
+		<key>JapaneseValue</key>
+		<string>含まない</string>
+		<key>Key</key>
+		<string>Doesn't Contain</string>
+		<key>Value</key>
+		<string>Doesn't Contain</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>De eerste toets moet één van de volgende toetsen zijn;</string>
+		<key>GermanValue</key>
+		<string>Diese Taste muss eine der folgenden Sondertasten sein:
+</string>
+		<key>JapaneseValue</key>
+		<string>最初のキーは次のモディファイアーキーを使用してください:</string>
+		<key>Key</key>
+		<string>The first key must be one of the following modifier keys:</string>
+		<key>Value</key>
+		<string>The first key must be one of the following modifier keys:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Diep</string>
+		<key>GermanValue</key>
+		<string>satt</string>
+		<key>JapaneseValue</key>
+		<string>深</string>
+		<key>Key</key>
+		<string>Deep</string>
+		<key>Value</key>
+		<string>Deep</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Juli</string>
+		<key>GermanValue</key>
+		<string>Juli</string>
+		<key>JapaneseValue</key>
+		<string>七月</string>
+		<key>Key</key>
+		<string>July</string>
+		<key>Value</key>
+		<string>July</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Datum</string>
+		<key>GermanValue</key>
+		<string>Datum</string>
+		<key>JapaneseValue</key>
+		<string>日付</string>
+		<key>Key</key>
+		<string>Date</string>
+		<key>Value</key>
+		<string>Date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Tussen</string>
+		<key>GermanValue</key>
+		<string>ist zwischen</string>
+		<key>JapaneseValue</key>
+		<string>この間</string>
+		<key>Key</key>
+		<string>Is Between</string>
+		<key>Value</key>
+		<string>Is Between</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolombreedtes passen maken</string>
+		<key>GermanValue</key>
+		<string>Größe der Spalten anpassen</string>
+		<key>JapaneseValue</key>
+		<string>縦列を合わせる</string>
+		<key>Key</key>
+		<string>Size Columns To Fit</string>
+		<key>Value</key>
+		<string>Size Columns To Fit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Donker</string>
+		<key>GermanValue</key>
+		<string>dunkel</string>
+		<key>JapaneseValue</key>
+		<string>暗</string>
+		<key>Key</key>
+		<string>Dark</string>
+		<key>Value</key>
+		<string>Dark</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mild</string>
+		<key>GermanValue</key>
+		<string>weich</string>
+		<key>JapaneseValue</key>
+		<string>マイルド</string>
+		<key>Key</key>
+		<string>Mild</string>
+		<key>Value</key>
+		<string>Mild</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Off-white</string>
+		<key>GermanValue</key>
+		<string>cremefarbig</string>
+		<key>JapaneseValue</key>
+		<string>オフ・ホワイト</string>
+		<key>Key</key>
+		<string>Off-white</string>
+		<key>Value</key>
+		<string>Off-white</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sleutel</string>
+		<key>GermanValue</key>
+		<string>Taste</string>
+		<key>JapaneseValue</key>
+		<string>キー</string>
+		<key>Key</key>
+		<string>Key</string>
+		<key>Value</key>
+		<string>Key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Huidige Gebruikere</string>
+		<key>GermanValue</key>
+		<string>Aktueller Benutzer</string>
+		<key>JapaneseValue</key>
+		<string>現ユーザー</string>
+		<key>Key</key>
+		<string>Current User</string>
+		<key>Value</key>
+		<string>Current User</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderwerkp</string>
+		<key>GermanValue</key>
+		<string>Betreff</string>
+		<key>JapaneseValue</key>
+		<string>件</string>
+		<key>Key</key>
+		<string>Subject</string>
+		<key>Value</key>
+		<string>Subject</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lettertype Tekst</string>
+		<key>GermanValue</key>
+		<string>Schrift</string>
+		<key>JapaneseValue</key>
+		<string>テキストフォント</string>
+		<key>Key</key>
+		<string>Font Text</string>
+		<key>Value</key>
+		<string>Font Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sjabloon</string>
+		<key>GermanValue</key>
+		<string>Entwurf</string>
+		<key>JapaneseValue</key>
+		<string>ブループリント</string>
+		<key>Key</key>
+		<string>Blueprint</string>
+		<key>Value</key>
+		<string>Blueprint</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Status</string>
+		<key>GermanValue</key>
+		<string>Status</string>
+		<key>JapaneseValue</key>
+		<string>現状</string>
+		<key>Key</key>
+		<string>Status</string>
+		<key>Value</key>
+		<string>Status</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruiker</string>
+		<key>GermanValue</key>
+		<string>Benutzer</string>
+		<key>JapaneseValue</key>
+		<string>ユーザー</string>
+		<key>Key</key>
+		<string>User</string>
+		<key>Value</key>
+		<string>User</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO CHECK&gt;View</string>
+		<key>GermanValue</key>
+		<string>Ansicht</string>
+		<key>JapaneseValue</key>
+		<string>表示</string>
+		<key>Key</key>
+		<string>View</string>
+		<key>Value</key>
+		<string>View</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Leegmaken</string>
+		<key>GermanValue</key>
+		<string>Löschen</string>
+		<key>JapaneseValue</key>
+		<string>消去</string>
+		<key>Key</key>
+		<string>Clear</string>
+		<key>Value</key>
+		<string>Clear</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voorkeur voor sleutel %@: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig Einstellung konnte für die Taste %@ :%@ nicht gelesen werden.</string>
+		<key>JapaneseValue</key>
+		<string>読み込みエラー。InternetConfig設定のキー %@: %@</string>
+		<key>Key</key>
+		<string>Error reading InternetConfig preference for key %@: %@</string>
+		<key>Value</key>
+		<string>Error reading InternetConfig preference for key %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Decline</string>
+		<key>GermanValue</key>
+		<string>Ablehnen</string>
+		<key>JapaneseValue</key>
+		<string>辞退</string>
+		<key>Key</key>
+		<string>Decline</string>
+		<key>Value</key>
+		<string>Decline</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina</string>
+		<key>GermanValue</key>
+		<string>Seite</string>
+		<key>JapaneseValue</key>
+		<string>ページ</string>
+		<key>Key</key>
+		<string>Page</string>
+		<key>Value</key>
+		<string>Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst</string>
+		<key>GermanValue</key>
+		<string>Text</string>
+		<key>JapaneseValue</key>
+		<string>テキスト</string>
+		<key>Key</key>
+		<string>Text</string>
+		<key>Value</key>
+		<string>Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Groter Dag</string>
+		<key>GermanValue</key>
+		<string>Ist größer als</string>
+		<key>JapaneseValue</key>
+		<string>以上</string>
+		<key>Key</key>
+		<string>Is Greater Than</string>
+		<key>Value</key>
+		<string>Is Greater Than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Virige</string>
+		<key>GermanValue</key>
+		<string>vorherige</string>
+		<key>JapaneseValue</key>
+		<string>以前</string>
+		<key>Key</key>
+		<string>Previous</string>
+		<key>Value</key>
+		<string>Previous</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sorteer op:</string>
+		<key>GermanValue</key>
+		<string>Sortieren nach:</string>
+		<key>JapaneseValue</key>
+		<string>ソート方法:</string>
+		<key>Key</key>
+		<string>Sort by:</string>
+		<key>Value</key>
+		<string>Sort by:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen info</string>
+		<key>GermanValue</key>
+		<string>Kein Info</string>
+		<key>JapaneseValue</key>
+		<string>情報なし</string>
+		<key>Key</key>
+		<string>No info</string>
+		<key>Value</key>
+		<string>No info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vorige Maand</string>
+		<key>GermanValue</key>
+		<string>Letzter Monat</string>
+		<key>JapaneseValue</key>
+		<string>先月</string>
+		<key>Key</key>
+		<string>Last Month</string>
+		<key>Value</key>
+		<string>Last Month</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Selectie</string>
+		<key>GermanValue</key>
+		<string>Keine Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>選択なし</string>
+		<key>Key</key>
+		<string>No Selection</string>
+		<key>Value</key>
+		<string>No Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lees</string>
+		<key>GermanValue</key>
+		<string>Lesen</string>
+		<key>JapaneseValue</key>
+		<string>読み取り</string>
+		<key>Key</key>
+		<string>Read</string>
+		<key>Value</key>
+		<string>Read</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Zichtbaarheid:</string>
+		<key>GermanValue</key>
+		<string>Sichtbarkeit:</string>
+		<key>JapaneseValue</key>
+		<string>可視性:</string>
+		<key>Key</key>
+		<string>Visibility:</string>
+		<key>Value</key>
+		<string>Visibility:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rijk</string>
+		<key>GermanValue</key>
+		<string>reichhaltig</string>
+		<key>JapaneseValue</key>
+		<string>濃厚</string>
+		<key>Key</key>
+		<string>Rich</string>
+		<key>Value</key>
+		<string>Rich</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Het kan even duren om de Spotlight bestanden opnieuw te indexeren.</string>
+		<key>GermanValue</key>
+		<string>Es kann einen Moment dauern, bis die Spotlight Dateien wiederhergestellt sind.</string>
+		<key>JapaneseValue</key>
+		<string>Spotlightのファイルを再建するのにもうしばらくかかります。</string>
+		<key>Key</key>
+		<string>It may take a few moments to rebuild the Spotlight files.</string>
+		<key>Value</key>
+		<string>It may take a few moments to rebuild the Spotlight files.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Smokey</string>
+		<key>GermanValue</key>
+		<string>rauchig</string>
+		<key>JapaneseValue</key>
+		<string>スモーキーーキー</string>
+		<key>Key</key>
+		<string>Smokey</string>
+		<key>Value</key>
+		<string>Smokey</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is op of voor</string>
+		<key>GermanValue</key>
+		<string>ist im oder bevor</string>
+		<key>JapaneseValue</key>
+		<string>以前</string>
+		<key>Key</key>
+		<string>is on or before</string>
+		<key>Value</key>
+		<string>is on or before</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Snelle Zoek index opnieuw opbouwen
+Dit kan even duren...</string>
+		<key>GermanValue</key>
+		<string>Quick Find wird wiederhergestellt Index
+Dies wird eine Weile dauern...</string>
+		<key>JapaneseValue</key>
+		<string>クイックファインドインデックスを作成中。
+時間がかかります...</string>
+		<key>Key</key>
+		<string>Rebuilding Quick Find Index
+This may take awhile...</string>
+		<key>Value</key>
+		<string>Rebuilding Quick Find Index
+This may take awhile...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>December</string>
+		<key>GermanValue</key>
+		<string>Dezember</string>
+		<key>JapaneseValue</key>
+		<string>十二月</string>
+		<key>Key</key>
+		<string>December</string>
+		<key>Value</key>
+		<string>December</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Duplicaat</string>
+		<key>GermanValue</key>
+		<string>Duplizieren</string>
+		<key>JapaneseValue</key>
+		<string>複製</string>
+		<key>Key</key>
+		<string>Duplicate</string>
+		<key>Value</key>
+		<string>Duplicate</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maart</string>
+		<key>GermanValue</key>
+		<string>März</string>
+		<key>JapaneseValue</key>
+		<string>三月</string>
+		<key>Key</key>
+		<string>March</string>
+		<key>Value</key>
+		<string>March</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Small System Font Text</string>
+		<key>GermanValue</key>
+		<string>Kleine Systemschrift</string>
+		<key>JapaneseValue</key>
+		<string>小さいシステムフォントテキスト</string>
+		<key>Key</key>
+		<string>Small System Font Text</string>
+		<key>Value</key>
+		<string>Small System Font Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen kiezen zal alle instellingen (inclusief opties in het Voorkeuren venster, zoals venster grootte en toolbars) opnieuw instellen zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungen zu den ursprünglichen Einstellungen zurückgesetzt, die vorhanden waren, als %@ installiert worden ist (inklusive Optionen, die sich nicht in diesem Einstellungsfenster befinden, solche wie Fenstergröße und Funktionsleisten).</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すと全ての設定（この環境設定ウィンドウ以外の設定も含む‐例：ウィンドサイズ、ツールバー）は%@が最初にインストールされた時の状態に戻ります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings (including options not in this Preferences window, such as window sizes and toolbars) to the state they were in when %@ was first installed.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings (including options not in this Preferences window, such as window sizes and toolbars) to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>No Token Selection</string>
+		<key>GermanValue</key>
+		<string>Keine Token Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>トークンの選択なし</string>
+		<key>Key</key>
+		<string>No Token Selection</string>
+		<key>Value</key>
+		<string>No Token Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Deze Maand</string>
+		<key>GermanValue</key>
+		<string>Dieser Monat</string>
+		<key>JapaneseValue</key>
+		<string>今月</string>
+		<key>Key</key>
+		<string>This Month</string>
+		<key>Value</key>
+		<string>This Month</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is</string>
+		<key>GermanValue</key>
+		<string>Ist</string>
+		<key>JapaneseValue</key>
+		<string>は</string>
+		<key>Key</key>
+		<string>Is</string>
+		<key>Value</key>
+		<string>Is</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles</string>
+		<key>GermanValue</key>
+		<string>Beliebige(s)</string>
+		<key>JapaneseValue</key>
+		<string>Any</string>
+		<key>Key</key>
+		<string>Any</string>
+		<key>Value</key>
+		<string>Any</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen zal alle instellingen in alle vorkeurspannelen opnieuw instellen zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungsausschnitte zur ursprünglichen Einstellung zurückgesetzt, die vorhanden war, als %@ istalliert wurde.</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すと全ての環境設定は%@が最初にインストールされた時の状態に戻ります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings in all preference panes to the state they were in when %@ was first installed.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings in all preference panes to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuw</string>
+		<key>GermanValue</key>
+		<string>Neu</string>
+		<key>JapaneseValue</key>
+		<string>新規</string>
+		<key>Key</key>
+		<string>New</string>
+		<key>Value</key>
+		<string>New</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Inspector</string>
+		<key>GermanValue</key>
+		<string>Keine Information</string>
+		<key>JapaneseValue</key>
+		<string>Inspectorなし</string>
+		<key>Key</key>
+		<string>No Inspector</string>
+		<key>Value</key>
+		<string>No Inspector</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon niet opnieuw</string>
+		<key>GermanValue</key>
+		<string>Nicht mehr anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>二度と表示しない</string>
+		<key>Key</key>
+		<string>Don't show again</string>
+		<key>Value</key>
+		<string>Don't show again</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Knip</string>
+		<key>GermanValue</key>
+		<string>Schneiden</string>
+		<key>JapaneseValue</key>
+		<string>切り取り</string>
+		<key>Key</key>
+		<string>Cut</string>
+		<key>Value</key>
+		<string>Cut</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is één van</string>
+		<key>GermanValue</key>
+		<string>ist eine/s von</string>
+		<key>JapaneseValue</key>
+		<string>どれか一つ</string>
+		<key>Key</key>
+		<string>is one of</string>
+		<key>Value</key>
+		<string>is one of</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aangepast</string>
+		<key>GermanValue</key>
+		<string>benutzerdefiniert</string>
+		<key>JapaneseValue</key>
+		<string>カスタマイズ</string>
+		<key>Key</key>
+		<string>Custom</string>
+		<key>Value</key>
+		<string>Custom</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sorteer Opties</string>
+		<key>GermanValue</key>
+		<string>Optionen sortieren nach</string>
+		<key>JapaneseValue</key>
+		<string>ソート設定</string>
+		<key>Key</key>
+		<string>Sort Options</string>
+		<key>Value</key>
+		<string>Sort Options</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Laden %@...</string>
+		<key>GermanValue</key>
+		<string>%@ wird geladen...</string>
+		<key>JapaneseValue</key>
+		<string>ローディング %@...</string>
+		<key>Key</key>
+		<string>Loading %@...</string>
+		<key>Value</key>
+		<string>Loading %@...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Accepteren</string>
+		<key>GermanValue</key>
+		<string>Akzeptieren</string>
+		<key>JapaneseValue</key>
+		<string>容認</string>
+		<key>Key</key>
+		<string>Accept</string>
+		<key>Value</key>
+		<string>Accept</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Records tegelijk</string>
+		<key>GermanValue</key>
+		<string>Zeichnet nacheinander auf</string>
+		<key>JapaneseValue</key>
+		<string>Records at a time</string>
+		<key>Key</key>
+		<string>Records at a time</string>
+		<key>Value</key>
+		<string>Records at a time</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Indenteer</string>
+		<key>GermanValue</key>
+		<string>Einrücken</string>
+		<key>JapaneseValue</key>
+		<string>インデント</string>
+		<key>Key</key>
+		<string>Indent</string>
+		<key>Value</key>
+		<string>Indent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon:</string>
+		<key>GermanValue</key>
+		<string>Anzeigen:</string>
+		<key>JapaneseValue</key>
+		<string>表示:</string>
+		<key>Key</key>
+		<string>Show:</string>
+		<key>Value</key>
+		<string>Show:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>de shift toets</string>
+		<key>GermanValue</key>
+		<string>die Umschalttaste</string>
+		<key>JapaneseValue</key>
+		<string>シフトキー</string>
+		<key>Key</key>
+		<string>the shift key</string>
+		<key>Value</key>
+		<string>the shift key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kies er een!</string>
+		<key>GermanValue</key>
+		<string>Wählen eine/n aus!</string>
+		<key>JapaneseValue</key>
+		<string>どれか一つ選択してください!</string>
+		<key>Key</key>
+		<string>Pick One!</string>
+		<key>Value</key>
+		<string>Pick One!</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Selecteer Waarde</string>
+		<key>GermanValue</key>
+		<string>Wert auswählen</string>
+		<key>JapaneseValue</key>
+		<string>数値を選択</string>
+		<key>Key</key>
+		<string>Select Value</string>
+		<key>Value</key>
+		<string>Select Value</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voor read-only toegang: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig konnte nicht zum lesen von :%@ geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>エラー。InternetConfigを開く「読み」権: %@</string>
+		<key>Key</key>
+		<string>Error opening InternetConfig for read-only access: %@</string>
+		<key>Value</key>
+		<string>Error opening InternetConfig for read-only access: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dag:</string>
+		<key>GermanValue</key>
+		<string>Tag:</string>
+		<key>JapaneseValue</key>
+		<string>曜日:</string>
+		<key>Key</key>
+		<string>Day:</string>
+		<key>Value</key>
+		<string>Day:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Licht</string>
+		<key>GermanValue</key>
+		<string>schwach</string>
+		<key>JapaneseValue</key>
+		<string>明</string>
+		<key>Key</key>
+		<string>Light</string>
+		<key>Value</key>
+		<string>Light</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Patroon</string>
+		<key>GermanValue</key>
+		<string>Musterfarbe</string>
+		<key>JapaneseValue</key>
+		<string>パターン</string>
+		<key>Key</key>
+		<string>Pattern</string>
+		<key>Value</key>
+		<string>Pattern</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Futloos</string>
+		<key>GermanValue</key>
+		<string>verwaschen</string>
+		<key>JapaneseValue</key>
+		<string>色褪</string>
+		<key>Key</key>
+		<string>Washed-out</string>
+		<key>Value</key>
+		<string>Washed-out</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak Aan</string>
+		<key>GermanValue</key>
+		<string>Erstellen</string>
+		<key>JapaneseValue</key>
+		<string>作成</string>
+		<key>Key</key>
+		<string>Create</string>
+		<key>Value</key>
+		<string>Create</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Jaren</string>
+		<key>GermanValue</key>
+		<string>Jahre</string>
+		<key>JapaneseValue</key>
+		<string>年</string>
+		<key>Key</key>
+		<string>Years</string>
+		<key>Value</key>
+		<string>Years</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Object Originator (BOUND)</string>
+		<key>GermanValue</key>
+		<string>Objekt Erzeuger (BOUND)</string>
+		<key>JapaneseValue</key>
+		<string>オブジェクトオリジネーター (BOUND)</string>
+		<key>Key</key>
+		<string>Object Originator (BOUND)</string>
+		<key>Value</key>
+		<string>Object Originator (BOUND)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit</string>
+		<key>GermanValue</key>
+		<string>Schließen</string>
+		<key>JapaneseValue</key>
+		<string>閉じる</string>
+		<key>Key</key>
+		<string>Close</string>
+		<key>Value</key>
+		<string>Close</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwijder</string>
+		<key>GermanValue</key>
+		<string>Löschen</string>
+		<key>JapaneseValue</key>
+		<string>削除</string>
+		<key>Key</key>
+		<string>Delete</string>
+		<key>Value</key>
+		<string>Delete</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een toetscombinatie op te geven van twee of drie toetsen</string>
+		<key>GermanValue</key>
+		<string>Bitte geben Sie eine Tastenkombination aus zwei oder drei Tasten an.</string>
+		<key>JapaneseValue</key>
+		<string>二つか三つのキーコンビネーションを入力してください</string>
+		<key>Key</key>
+		<string>Please Enter a Two or Three Key Combination</string>
+		<key>Value</key>
+		<string>Please Enter a Two or Three Key Combination</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende:</string>
+		<key>GermanValue</key>
+		<string>Als nächstes:</string>
+		<key>JapaneseValue</key>
+		<string>次:</string>
+		<key>Key</key>
+		<string>Next:</string>
+		<key>Value</key>
+		<string>Next:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Projecten</string>
+		<key>GermanValue</key>
+		<string>Projekte</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクト</string>
+		<key>Key</key>
+		<string>Projects</string>
+		<key>Value</key>
+		<string>Projects</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meer Dan</string>
+		<key>GermanValue</key>
+		<string>Mehr als</string>
+		<key>JapaneseValue</key>
+		<string>越える</string>
+		<key>Key</key>
+		<string>More Than</string>
+		<key>Value</key>
+		<string>More Than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voornaam</string>
+		<key>GermanValue</key>
+		<string>Vorname</string>
+		<key>JapaneseValue</key>
+		<string>名</string>
+		<key>Key</key>
+		<string>First Name</string>
+		<key>Value</key>
+		<string>First Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verjaardag:</string>
+		<key>GermanValue</key>
+		<string>Geburtstag:</string>
+		<key>JapaneseValue</key>
+		<string>誕生日:</string>
+		<key>Key</key>
+		<string>Birthday:</string>
+		<key>Value</key>
+		<string>Birthday:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwijder Workspace...</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz löschen...</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペースを削除...</string>
+		<key>Key</key>
+		<string>Delete Workspace...</string>
+		<key>Value</key>
+		<string>Delete Workspace...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Zoek:</string>
+		<key>GermanValue</key>
+		<string>Suchen:</string>
+		<key>JapaneseValue</key>
+		<string>検索:</string>
+		<key>Key</key>
+		<string>Search:</string>
+		<key>Value</key>
+		<string>Search:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Privé</string>
+		<key>GermanValue</key>
+		<string>Privat</string>
+		<key>JapaneseValue</key>
+		<string>プライベート</string>
+		<key>Key</key>
+		<string>Private</string>
+		<key>Value</key>
+		<string>Private</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Contacten</string>
+		<key>GermanValue</key>
+		<string>Kontakte</string>
+		<key>JapaneseValue</key>
+		<string>連絡先</string>
+		<key>Key</key>
+		<string>Contacts</string>
+		<key>Value</key>
+		<string>Contacts</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Head Label</string>
+		<key>GermanValue</key>
+		<string>Titel Etikett</string>
+		<key>JapaneseValue</key>
+		<string>ラベルを隠す</string>
+		<key>Key</key>
+		<string>Head Label</string>
+		<key>Value</key>
+		<string>Head Label</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vorige Week</string>
+		<key>GermanValue</key>
+		<string>Letze Woche</string>
+		<key>JapaneseValue</key>
+		<string>先週</string>
+		<key>Key</key>
+		<string>Last Week</string>
+		<key>Value</key>
+		<string>Last Week</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Slim</string>
+		<key>GermanValue</key>
+		<string>Intelligent</string>
+		<key>JapaneseValue</key>
+		<string>スマート</string>
+		<key>Key</key>
+		<string>Smart</string>
+		<key>Value</key>
+		<string>Smart</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tab Gescheiden</string>
+		<key>GermanValue</key>
+		<string>Tabbegrenzt</string>
+		<key>JapaneseValue</key>
+		<string>タブ区切り</string>
+		<key>Key</key>
+		<string>Tab Delimited</string>
+		<key>Value</key>
+		<string>Tab Delimited</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga naar Persoon</string>
+		<key>GermanValue</key>
+		<string>Gehe zu Person</string>
+		<key>JapaneseValue</key>
+		<string>ゴートゥー人物</string>
+		<key>Key</key>
+		<string>Go to Person</string>
+		<key>Value</key>
+		<string>Go to Person</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Minder Dan</string>
+		<key>GermanValue</key>
+		<string>Weniger als</string>
+		<key>JapaneseValue</key>
+		<string>以下</string>
+		<key>Key</key>
+		<string>Less Than</string>
+		<key>Value</key>
+		<string>Less Than</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>Cancel</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is geen van</string>
+		<key>GermanValue</key>
+		<string>ist keine/s von</string>
+		<key>JapaneseValue</key>
+		<string>含まれていない</string>
+		<key>Key</key>
+		<string>is none of</string>
+		<key>Value</key>
+		<string>is none of</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bijna-zwart</string>
+		<key>GermanValue</key>
+		<string>fast schwarz</string>
+		<key>JapaneseValue</key>
+		<string>黒に近い</string>
+		<key>Key</key>
+		<string>Near-black</string>
+		<key>Value</key>
+		<string>Near-black</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>System Font Text</string>
+		<key>GermanValue</key>
+		<string>Systemschrift</string>
+		<key>JapaneseValue</key>
+		<string>システムフォントテキスト</string>
+		<key>Key</key>
+		<string>System Font Text</string>
+		<key>Value</key>
+		<string>System Font Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Eindigt Op</string>
+		<key>GermanValue</key>
+		<string>Endet mit</string>
+		<key>JapaneseValue</key>
+		<string>で終わる</string>
+		<key>Key</key>
+		<string>Ends With</string>
+		<key>Value</key>
+		<string>Ends With</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voor Vandaag</string>
+		<key>GermanValue</key>
+		<string>Für Heute</string>
+		<key>JapaneseValue</key>
+		<string>今日の</string>
+		<key>Key</key>
+		<string>For Today</string>
+		<key>Value</key>
+		<string>For Today</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepen</string>
+		<key>GermanValue</key>
+		<string>Gruppen</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Groups</string>
+		<key>Value</key>
+		<string>Groups</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit %@</string>
+		<key>GermanValue</key>
+		<string>%@ Schließen</string>
+		<key>JapaneseValue</key>
+		<string>閉じる %@</string>
+		<key>Key</key>
+		<string>Close %@</string>
+		<key>Value</key>
+		<string>Close %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Actieve Kolommen</string>
+		<key>GermanValue</key>
+		<string>Aktive Spalten</string>
+		<key>JapaneseValue</key>
+		<string>活発縦列</string>
+		<key>Key</key>
+		<string>Active Columns</string>
+		<key>Value</key>
+		<string>Active Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>module</string>
+		<key>GermanValue</key>
+		<string>Modul</string>
+		<key>JapaneseValue</key>
+		<string>モジュール</string>
+		<key>Key</key>
+		<string>module</string>
+		<key>Value</key>
+		<string>module</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Inactieve Kolommen</string>
+		<key>GermanValue</key>
+		<string>Inaktive Spalten</string>
+		<key>JapaneseValue</key>
+		<string>不活発な縦列</string>
+		<key>Key</key>
+		<string>Inactive Columns</string>
+		<key>Value</key>
+		<string>Inactive Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Batch %i van %i</string>
+		<key>GermanValue</key>
+		<string>Stapel %i von %i</string>
+		<key>JapaneseValue</key>
+		<string>バッチ %i の %i</string>
+		<key>Key</key>
+		<string>Batch %i of %i</string>
+		<key>Value</key>
+		<string>Batch %i of %i</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Subtitel</string>
+		<key>GermanValue</key>
+		<string>Subtitle</string>
+		<key>JapaneseValue</key>
+		<string>副題</string>
+		<key>Key</key>
+		<string>Subtitle</string>
+		<key>Value</key>
+		<string>Subtitle</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toevoegen aan Favoriete Filters</string>
+		<key>GermanValue</key>
+		<string>Einen Filter Favoriten hinzufügen</string>
+		<key>JapaneseValue</key>
+		<string>お気に入りフィルターに追加</string>
+		<key>Key</key>
+		<string>Add to Favorite Filters</string>
+		<key>Value</key>
+		<string>Add to Favorite Filters</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>bevat</string>
+		<key>GermanValue</key>
+		<string>beinhaltet</string>
+		<key>JapaneseValue</key>
+		<string>含む</string>
+		<key>Key</key>
+		<string>contains</string>
+		<key>Value</key>
+		<string>contains</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Categorie</string>
+		<key>GermanValue</key>
+		<string>Kategorie</string>
+		<key>JapaneseValue</key>
+		<string>カテゴリー</string>
+		<key>Key</key>
+		<string>Category</string>
+		<key>Value</key>
+		<string>Category</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Weergeven</string>
+		<key>GermanValue</key>
+		<string>Anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>ディスプレー</string>
+		<key>Key</key>
+		<string>Display</string>
+		<key>Value</key>
+		<string>Display</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Deze Week</string>
+		<key>GermanValue</key>
+		<string>Diese Woche</string>
+		<key>JapaneseValue</key>
+		<string>今週</string>
+		<key>Key</key>
+		<string>This Week</string>
+		<key>Value</key>
+		<string>This Week</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vandaag</string>
+		<key>GermanValue</key>
+		<string>Heute</string>
+		<key>JapaneseValue</key>
+		<string>今日</string>
+		<key>Key</key>
+		<string>Today</string>
+		<key>Value</key>
+		<string>Today</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fel</string>
+		<key>GermanValue</key>
+		<string>hell</string>
+		<key>JapaneseValue</key>
+		<string>明</string>
+		<key>Key</key>
+		<string>Bright</string>
+		<key>Value</key>
+		<string>Bright</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Intens</string>
+		<key>GermanValue</key>
+		<string>stark</string>
+		<key>JapaneseValue</key>
+		<string>強烈</string>
+		<key>Key</key>
+		<string>Intense</string>
+		<key>Value</key>
+		<string>Intense</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gedurende</string>
+		<key>GermanValue</key>
+		<string>Während</string>
+		<key>JapaneseValue</key>
+		<string>期間中</string>
+		<key>Key</key>
+		<string>During</string>
+		<key>Value</key>
+		<string>During</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Script</string>
+		<key>GermanValue</key>
+		<string>Skript</string>
+		<key>JapaneseValue</key>
+		<string>スクリプト</string>
+		<key>Key</key>
+		<string>Script</string>
+		<key>Value</key>
+		<string>Script</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Iets Anders</string>
+		<key>GermanValue</key>
+		<string>Etwas anderes</string>
+		<key>JapaneseValue</key>
+		<string>これ以外</string>
+		<key>Key</key>
+		<string>Something Else</string>
+		<key>Value</key>
+		<string>Something Else</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verberg Info</string>
+		<key>GermanValue</key>
+		<string>Info ausblenden</string>
+		<key>JapaneseValue</key>
+		<string>情報を隠す</string>
+		<key>Key</key>
+		<string>Hide Info</string>
+		<key>Value</key>
+		<string>Hide Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Backup Uitvoeren...</string>
+		<key>GermanValue</key>
+		<string>Datensicherung wird durchgeführt...</string>
+		<key>JapaneseValue</key>
+		<string>バックアップ中...</string>
+		<key>Key</key>
+		<string>Performing backup...</string>
+		<key>Value</key>
+		<string>Performing backup...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuw Contact</string>
+		<key>GermanValue</key>
+		<string>Neuer Kontakt</string>
+		<key>JapaneseValue</key>
+		<string>新規連絡先</string>
+		<key>Key</key>
+		<string>New Contact</string>
+		<key>Value</key>
+		<string>New Contact</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Oktober</string>
+		<key>GermanValue</key>
+		<string>Oktober</string>
+		<key>JapaneseValue</key>
+		<string>十月</string>
+		<key>Key</key>
+		<string>October</string>
+		<key>Value</key>
+		<string>October</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Widgets Beheren</string>
+		<key>GermanValue</key>
+		<string>Widgets verwalten</string>
+		<key>JapaneseValue</key>
+		<string>ウィジェットを管理</string>
+		<key>Key</key>
+		<string>Manage Widgets</string>
+		<key>Value</key>
+		<string>Manage Widgets</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Prioritized Key</string>
+		<key>GermanValue</key>
+		<string>Priorisierte Taste</string>
+		<key>JapaneseValue</key>
+		<string>優先キー</string>
+		<key>Key</key>
+		<string>Prioritized Key</string>
+		<key>Value</key>
+		<string>Prioritized Key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dageb</string>
+		<key>GermanValue</key>
+		<string>Tage</string>
+		<key>JapaneseValue</key>
+		<string>日</string>
+		<key>Key</key>
+		<string>Days</string>
+		<key>Value</key>
+		<string>Days</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Exact</string>
+		<key>GermanValue</key>
+		<string>Ist exakt</string>
+		<key>JapaneseValue</key>
+		<string>一致</string>
+		<key>Key</key>
+		<string>Is Exactly</string>
+		<key>Value</key>
+		<string>Is Exactly</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Beheer</string>
+		<key>GermanValue</key>
+		<string>Management</string>
+		<key>JapaneseValue</key>
+		<string>管理</string>
+		<key>Key</key>
+		<string>Management</string>
+		<key>Value</key>
+		<string>Management</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Schrijf</string>
+		<key>GermanValue</key>
+		<string>Schreiben</string>
+		<key>JapaneseValue</key>
+		<string>書く</string>
+		<key>Key</key>
+		<string>Write</string>
+		<key>Value</key>
+		<string>Write</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen</string>
+		<key>GermanValue</key>
+		<string>Zurücksetzen</string>
+		<key>JapaneseValue</key>
+		<string>リセット</string>
+		<key>Key</key>
+		<string>Reset</string>
+		<key>Value</key>
+		<string>Reset</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is Niet</string>
+		<key>GermanValue</key>
+		<string>ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>is Not</string>
+		<key>Value</key>
+		<string>is Not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>de Apple toets</string>
+		<key>GermanValue</key>
+		<string>die Apple-Taste</string>
+		<key>JapaneseValue</key>
+		<string>Appleキー</string>
+		<key>Key</key>
+		<string>the Apple key</string>
+		<key>Value</key>
+		<string>the Apple key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Familienaam</string>
+		<key>GermanValue</key>
+		<string>Nachname</string>
+		<key>JapaneseValue</key>
+		<string>苗字</string>
+		<key>Key</key>
+		<string>Last Name</string>
+		<key>Value</key>
+		<string>Last Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Weken</string>
+		<key>GermanValue</key>
+		<string>Wochen</string>
+		<key>JapaneseValue</key>
+		<string>週</string>
+		<key>Key</key>
+		<string>Weeks</string>
+		<key>Value</key>
+		<string>Weeks</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mei</string>
+		<key>GermanValue</key>
+		<string>Mai</string>
+		<key>JapaneseValue</key>
+		<string>五月</string>
+		<key>Key</key>
+		<string>May</string>
+		<key>Value</key>
+		<string>May</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Globale Zoekopdracht</string>
+		<key>GermanValue</key>
+		<string>Allgemeine Suche</string>
+		<key>JapaneseValue</key>
+		<string>グローバルファインド</string>
+		<key>Key</key>
+		<string>Global Find</string>
+		<key>Value</key>
+		<string>Global Find</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toevoegen</string>
+		<key>GermanValue</key>
+		<string>Anfügen</string>
+		<key>JapaneseValue</key>
+		<string>付加する</string>
+		<key>Key</key>
+		<string>Append</string>
+		<key>Value</key>
+		<string>Append</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Conditionele Sleuten</string>
+		<key>GermanValue</key>
+		<string>Bedingter Schlüssel</string>
+		<key>JapaneseValue</key>
+		<string>条件キー</string>
+		<key>Key</key>
+		<string>Conditional Key</string>
+		<key>Value</key>
+		<string>Conditional Key</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Engineering</string>
+		<key>GermanValue</key>
+		<string>Ingeneurwesen</string>
+		<key>JapaneseValue</key>
+		<string>技術</string>
+		<key>Key</key>
+		<string>Engineering</string>
+		<key>Value</key>
+		<string>Engineering</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Shortcut</string>
+		<key>GermanValue</key>
+		<string>Kurzbefehl</string>
+		<key>JapaneseValue</key>
+		<string>ショートカット</string>
+		<key>Key</key>
+		<string>Shortcut</string>
+		<key>Value</key>
+		<string>Shortcut</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon Info</string>
+		<key>GermanValue</key>
+		<string>Info anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>情報を表示</string>
+		<key>Key</key>
+		<string>Show Info</string>
+		<key>Value</key>
+		<string>Show Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bevoegdheden</string>
+		<key>GermanValue</key>
+		<string>Zulassungen</string>
+		<key>JapaneseValue</key>
+		<string>許可</string>
+		<key>Key</key>
+		<string>Permissions</string>
+		<key>Value</key>
+		<string>Permissions</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Specifieke Datum</string>
+		<key>GermanValue</key>
+		<string>Bestimmtes Datum</string>
+		<key>JapaneseValue</key>
+		<string>特定の日付</string>
+		<key>Key</key>
+		<string>Specific Date</string>
+		<key>Value</key>
+		<string>Specific Date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het wijzigen van InternetConfig voorkeuren voor sleutel %@: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig-Einstellungen für die Taste: %@: %@ konnten nicht bearbeitet werden.</string>
+		<key>JapaneseValue</key>
+		<string>%@のInternetConfigの環境設定編集エラー:%@</string>
+		<key>Key</key>
+		<string>Error editing InternetConfig preferences for key %@: %@</string>
+		<key>Value</key>
+		<string>Error editing InternetConfig preferences for key %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sleep Operatie</string>
+		<key>GermanValue</key>
+		<string>Funktion herüber ziehen</string>
+		<key>JapaneseValue</key>
+		<string>ドラッグオペレーション</string>
+		<key>Key</key>
+		<string>Drag Operation</string>
+		<key>Value</key>
+		<string>Drag Operation</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maanden</string>
+		<key>GermanValue</key>
+		<string>Monate</string>
+		<key>JapaneseValue</key>
+		<string>月</string>
+		<key>Key</key>
+		<string>Months</string>
+		<key>Value</key>
+		<string>Months</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Filter</string>
+		<key>GermanValue</key>
+		<string>Filter</string>
+		<key>JapaneseValue</key>
+		<string>フィルター</string>
+		<key>Key</key>
+		<string>Filter</string>
+		<key>Value</key>
+		<string>Filter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Organizaties</string>
+		<key>GermanValue</key>
+		<string>Organisationen</string>
+		<key>JapaneseValue</key>
+		<string>Organizations</string>
+		<key>Key</key>
+		<string>Organizations</string>
+		<key>Value</key>
+		<string>Organizations</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon Alles</string>
+		<key>GermanValue</key>
+		<string>Alle anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>全て表示</string>
+		<key>Key</key>
+		<string>Show All</string>
+		<key>Value</key>
+		<string>Show All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Faded</string>
+		<key>GermanValue</key>
+		<string>verblasst</string>
+		<key>JapaneseValue</key>
+		<string>色褪せ</string>
+		<key>Key</key>
+		<string>Faded</string>
+		<key>Value</key>
+		<string>Faded</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Formatter:</string>
+		<key>GermanValue</key>
+		<string>Formatierer:</string>
+		<key>JapaneseValue</key>
+		<string>フォーマッタ:</string>
+		<key>Key</key>
+		<string>Formatter:</string>
+		<key>Value</key>
+		<string>Formatter:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maand:</string>
+		<key>GermanValue</key>
+		<string>Monat</string>
+		<key>JapaneseValue</key>
+		<string>月:</string>
+		<key>Key</key>
+		<string>Month:</string>
+		<key>Value</key>
+		<string>Month:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Filter later opnieuw bewaren</string>
+		<key>GermanValue</key>
+		<string>Diesen Filter erneut speichern</string>
+		<key>JapaneseValue</key>
+		<string>このフィルターを再保存</string>
+		<key>Key</key>
+		<string>Re-Save This Filter</string>
+		<key>Value</key>
+		<string>Re-Save This Filter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamloos</string>
+		<key>GermanValue</key>
+		<string>Unbenannt</string>
+		<key>JapaneseValue</key>
+		<string>名称未設定</string>
+		<key>Key</key>
+		<string>Untitled</string>
+		<key>Value</key>
+		<string>Untitled</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voor:</string>
+		<key>GermanValue</key>
+		<string>Für:</string>
+		<key>JapaneseValue</key>
+		<string>For:</string>
+		<key>Key</key>
+		<string>For:</string>
+		<key>Value</key>
+		<string>For:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Waarschuwings Bericht (BOUND)</string>
+		<key>GermanValue</key>
+		<string>Warn-Mitteilung (BOUND)</string>
+		<key>JapaneseValue</key>
+		<string>警告メッセージ (BOUND)</string>
+		<key>Key</key>
+		<string>Alert Message (BOUND)</string>
+		<key>Value</key>
+		<string>Alert Message (BOUND)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Weet u zeker dat u de geselecteerde Fiches wenst te verwijderen?</string>
+		<key>GermanValue</key>
+		<string>Sind Sie sicher, dass Sie die ausgewählten Positionen löschen möchten?</string>
+		<key>JapaneseValue</key>
+		<string>本当に選択した伝票を削除しますか？</string>
+		<key>Key</key>
+		<string>Are you sure you want to delete the selected Slips?</string>
+		<key>Value</key>
+		<string>Are you sure you want to delete the selected Slips?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geef onmiddelijk weer in één batch filter</string>
+		<key>GermanValue</key>
+		<string>An einem Stapelfilter sofort anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>バッチフィルターに即刻表示</string>
+		<key>Key</key>
+		<string>Display immediately on one batch filter</string>
+		<key>Value</key>
+		<string>Display immediately on one batch filter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Niet</string>
+		<key>GermanValue</key>
+		<string>Ist nicht</string>
+		<key>JapaneseValue</key>
+		<string>ではない</string>
+		<key>Key</key>
+		<string>Is Not</string>
+		<key>Value</key>
+		<string>Is Not</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO CHECK&gt;Nee</string>
+		<key>GermanValue</key>
+		<string>Nein</string>
+		<key>JapaneseValue</key>
+		<string>No</string>
+		<key>Key</key>
+		<string>No</string>
+		<key>Value</key>
+		<string>No</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>is op of na</string>
+		<key>GermanValue</key>
+		<string>ist im oder nach</string>
+		<key>JapaneseValue</key>
+		<string>以後</string>
+		<key>Key</key>
+		<string>is on or after</string>
+		<key>Value</key>
+		<string>is on or after</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mogelijke Dubbels</string>
+		<key>GermanValue</key>
+		<string>Mögliche Duplikate</string>
+		<key>JapaneseValue</key>
+		<string>複製の可能性あり</string>
+		<key>Key</key>
+		<string>Possible Duplicates</string>
+		<key>Value</key>
+		<string>Possible Duplicates</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Marketing</string>
+		<key>GermanValue</key>
+		<string>Marketing</string>
+		<key>JapaneseValue</key>
+		<string>マーケティング</string>
+		<key>Key</key>
+		<string>Marketing</string>
+		<key>Value</key>
+		<string>Marketing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaar</string>
+		<key>GermanValue</key>
+		<string>Speichern</string>
+		<key>JapaneseValue</key>
+		<string>保存</string>
+		<key>Key</key>
+		<string>Save</string>
+		<key>Value</key>
+		<string>Save</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ Voorkeuren</string>
+		<key>GermanValue</key>
+		<string>%@ Einstellungen</string>
+		<key>JapaneseValue</key>
+		<string>%@ 環境設定</string>
+		<key>Key</key>
+		<string>%@ Preferences</string>
+		<key>Value</key>
+		<string>%@ Preferences</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Switch</string>
+		<key>GermanValue</key>
+		<string>Wechseln</string>
+		<key>JapaneseValue</key>
+		<string>スウィッチ</string>
+		<key>Key</key>
+		<string>Switch</string>
+		<key>Value</key>
+		<string>Switch</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sjabloon naam:</string>
+		<key>GermanValue</key>
+		<string>Entwurfname:</string>
+		<key>JapaneseValue</key>
+		<string>ブループリントの名称:</string>
+		<key>Key</key>
+		<string>Blueprint name:</string>
+		<key>Value</key>
+		<string>Blueprint name:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga Verder</string>
+		<key>GermanValue</key>
+		<string>Fortfahren</string>
+		<key>JapaneseValue</key>
+		<string>続ける</string>
+		<key>Key</key>
+		<string>Continue</string>
+		<key>Value</key>
+		<string>Continue</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bestandsencodering:</string>
+		<key>GermanValue</key>
+		<string>Codierungen:</string>
+		<key>JapaneseValue</key>
+		<string>ファイル符号化:</string>
+		<key>Key</key>
+		<string>File Encoding:</string>
+		<key>Value</key>
+		<string>File Encoding:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwerken Contact 3 van 5</string>
+		<key>GermanValue</key>
+		<string>3. Kontakt von 5 wird bearbeiten</string>
+		<key>JapaneseValue</key>
+		<string>連絡先３から５を処理中</string>
+		<key>Key</key>
+		<string>Processing Contact 3 of 5</string>
+		<key>Value</key>
+		<string>Processing Contact 3 of 5</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles Opnieuw Instellen</string>
+		<key>GermanValue</key>
+		<string>Alle zurücksetzen</string>
+		<key>JapaneseValue</key>
+		<string>全てをリセット</string>
+		<key>Key</key>
+		<string>Reset All</string>
+		<key>Value</key>
+		<string>Reset All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Morgen</string>
+		<key>GermanValue</key>
+		<string>Morgen</string>
+		<key>JapaneseValue</key>
+		<string>明日</string>
+		<key>Key</key>
+		<string>Tomorrow</string>
+		<key>Value</key>
+		<string>Tomorrow</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>In de komende twee weken</string>
+		<key>GermanValue</key>
+		<string>In den nächsten zwei Wochen</string>
+		<key>JapaneseValue</key>
+		<string>次の二週間で</string>
+		<key>Key</key>
+		<string>In the Next Two Weeks</string>
+		<key>Value</key>
+		<string>In the Next Two Weeks</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toevoegen Criteria</string>
+		<key>GermanValue</key>
+		<string>Kriterium hinzufügen</string>
+		<key>JapaneseValue</key>
+		<string>条件の追加</string>
+		<key>Key</key>
+		<string>Add Criteria</string>
+		<key>Value</key>
+		<string>Add Criteria</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groep</string>
+		<key>GermanValue</key>
+		<string>Gruppierung</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Group</string>
+		<key>Value</key>
+		<string>Group</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sleutel:</string>
+		<key>GermanValue</key>
+		<string>Taste:</string>
+		<key>JapaneseValue</key>
+		<string>キー:</string>
+		<key>Key</key>
+		<string>Key:</string>
+		<key>Value</key>
+		<string>Key:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opportuniteiten</string>
+		<key>GermanValue</key>
+		<string>Chancen</string>
+		<key>JapaneseValue</key>
+		<string>機会</string>
+		<key>Key</key>
+		<string>Opportunities</string>
+		<key>Value</key>
+		<string>Opportunities</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Is Niet Leeg</string>
+		<key>GermanValue</key>
+		<string>Ist nicht leer</string>
+		<key>JapaneseValue</key>
+		<string>からではない</string>
+		<key>Key</key>
+		<string>Is Not Empty</string>
+		<key>Value</key>
+		<string>Is Not Empty</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO CHECK&gt;Units</string>
+		<key>GermanValue</key>
+		<string>Einheiten</string>
+		<key>JapaneseValue</key>
+		<string>単位</string>
+		<key>Key</key>
+		<string>Units</string>
+		<key>Value</key>
+		<string>Units</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Filter Databank</string>
+		<key>GermanValue</key>
+		<string>Filter Datenbank</string>
+		<key>JapaneseValue</key>
+		<string>データベースフィルター</string>
+		<key>Key</key>
+		<string>Filter Database</string>
+		<key>Value</key>
+		<string>Filter Database</string>
+	</dict>
+</array>
+</plist>

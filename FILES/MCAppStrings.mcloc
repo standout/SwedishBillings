@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voor read-only toegang: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig konnte nicht zum lesen von :%@ geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>エラー。InternetConfigが開けません。「読み」権エラー。: %@</string>
+		<key>Key</key>
+		<string>Error opening InternetConfig for read-only access: %@</string>
+		<key>LastLanguageImportTitle</key>
+		<string>Japanese</string>
+		<key>SwedishValue</key>
+		<string>Fel vid öppning av InternetConfig för läsåtkomst: %@</string>
+		<key>Value</key>
+		<string>Error opening InternetConfig for read-only access: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Werkomgeving</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペース</string>
+		<key>Key</key>
+		<string>Workspace</string>
+		<key>SwedishValue</key>
+		<string>Arbetsyta</string>
+		<key>Value</key>
+		<string>Workspace</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Licht</string>
+		<key>GermanValue</key>
+		<string>schwach</string>
+		<key>JapaneseValue</key>
+		<string>薄</string>
+		<key>Key</key>
+		<string>Light</string>
+		<key>SwedishValue</key>
+		<string>Ljus</string>
+		<key>Value</key>
+		<string>Light</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICEnd gaf een fout terug: %@</string>
+		<key>GermanValue</key>
+		<string>ICEnd hat einen Fehler festgestellt: %@ </string>
+		<key>JapaneseValue</key>
+		<string>ICEndはエラー%@をリターンしました。</string>
+		<key>Key</key>
+		<string>ICEnd returned an error: %@</string>
+		<key>SwedishValue</key>
+		<string>ICEnd returnerade ett fel: %@</string>
+		<key>Value</key>
+		<string>ICEnd returned an error: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Patroon</string>
+		<key>GermanValue</key>
+		<string>Musterfarbe</string>
+		<key>JapaneseValue</key>
+		<string>パターン</string>
+		<key>Key</key>
+		<string>Pattern</string>
+		<key>SwedishValue</key>
+		<string>Mönster</string>
+		<key>Value</key>
+		<string>Pattern</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>van %d</string>
+		<key>GermanValue</key>
+		<string>%d von</string>
+		<key>JapaneseValue</key>
+		<string>of %d</string>
+		<key>Key</key>
+		<string>of %d</string>
+		<key>SwedishValue</key>
+		<string>av %d</string>
+		<key>Value</key>
+		<string>of %d</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Donker</string>
+		<key>GermanValue</key>
+		<string>dunkel</string>
+		<key>JapaneseValue</key>
+		<string>暗</string>
+		<key>Key</key>
+		<string>Dark</string>
+		<key>SwedishValue</key>
+		<string>Mörk</string>
+		<key>Value</key>
+		<string>Dark</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Futloos</string>
+		<key>GermanValue</key>
+		<string>verwaschen</string>
+		<key>JapaneseValue</key>
+		<string>色褪せ</string>
+		<key>Key</key>
+		<string>Washed-out</string>
+		<key>SwedishValue</key>
+		<string>Urtvättad</string>
+		<key>Value</key>
+		<string>Washed-out</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mild</string>
+		<key>GermanValue</key>
+		<string>weich</string>
+		<key>JapaneseValue</key>
+		<string>マイルド</string>
+		<key>Key</key>
+		<string>Mild</string>
+		<key>SwedishValue</key>
+		<string>Mild</string>
+		<key>Value</key>
+		<string>Mild</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Off-white</string>
+		<key>GermanValue</key>
+		<string>cremefarbig</string>
+		<key>JapaneseValue</key>
+		<string>オフ・ホワイト</string>
+		<key>Key</key>
+		<string>Off-white</string>
+		<key>SwedishValue</key>
+		<string>Off-white</string>
+		<key>Value</key>
+		<string>Off-white</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0.0 PB</string>
+		<key>GermanValue</key>
+		<string>#,##0.0 PB</string>
+		<key>JapaneseValue</key>
+		<string>#,##0.0 PB</string>
+		<key>Key</key>
+		<string>#,##0.0 PB</string>
+		<key>SwedishValue</key>
+		<string>#, ##0, 0 PB</string>
+		<key>Value</key>
+		<string>#,##0.0 PB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stel alle voorkeuren opnieuw in op hun oorspronkelijke waarden?</string>
+		<key>GermanValue</key>
+		<string>Alle Einstellungen in ihren Ausgangsgrößen zurücksetzen?</string>
+		<key>JapaneseValue</key>
+		<string>全ての環境とその他の設定をリセットしますか?</string>
+		<key>Key</key>
+		<string>Reset all preferences to their original values?</string>
+		<key>SwedishValue</key>
+		<string>Återställ alla inställningar till ursprungsläge?</string>
+		<key>Value</key>
+		<string>Reset all preferences to their original values?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Volgende</string>
+		<key>GermanValue</key>
+		<string>Weiter</string>
+		<key>JapaneseValue</key>
+		<string>次</string>
+		<key>Key</key>
+		<string>Next</string>
+		<key>SwedishValue</key>
+		<string>Nästa</string>
+		<key>Value</key>
+		<string>Next</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon Info</string>
+		<key>GermanValue</key>
+		<string>Info anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>情報を表示</string>
+		<key>Key</key>
+		<string>Show Info</string>
+		<key>SwedishValue</key>
+		<string>Visa info</string>
+		<key>Value</key>
+		<string>Show Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verwijder Werkomgeving...</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz löschen...</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペースを削除...</string>
+		<key>Key</key>
+		<string>Delete Workspace...</string>
+		<key>SwedishValue</key>
+		<string>Tag bort arbetsyta</string>
+		<key>Value</key>
+		<string>Delete Workspace...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0.0 TB</string>
+		<key>GermanValue</key>
+		<string>#,##0.0 TB</string>
+		<key>JapaneseValue</key>
+		<string>#,##0.0 TB</string>
+		<key>Key</key>
+		<string>#,##0.0 TB</string>
+		<key>SwedishValue</key>
+		<string>#, ##0.0 TB</string>
+		<key>Value</key>
+		<string>#,##0.0 TB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Transparant</string>
+		<key>GermanValue</key>
+		<string>Löschen</string>
+		<key>JapaneseValue</key>
+		<string>消去</string>
+		<key>Key</key>
+		<string>Clear</string>
+		<key>SwedishValue</key>
+		<string>Clear</string>
+		<key>Value</key>
+		<string>Clear</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voorkeur voor sleutek %@: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig Einstellung konnte für die Taste %@ :%@ nicht gelesen werden.</string>
+		<key>JapaneseValue</key>
+		<string>エラー。InternetConfigが読めません。  %@: %@キーの設定。</string>
+		<key>Key</key>
+		<string>Error reading InternetConfig preference for key %@: %@</string>
+		<key>SwedishValue</key>
+		<string>Fel vid läsning av InternetConfiginställning för nyckel %@:%@</string>
+		<key>Value</key>
+		<string>Error reading InternetConfig preference for key %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICSetPref gaf een fout terug tijdens het instellen van sleutel %@: %@</string>
+		<key>GermanValue</key>
+		<string>ICSetPref hat einen Fehler festgestellt, während die Taste %@: %@ eingerichtet worden ist.</string>
+		<key>JapaneseValue</key>
+		<string>ICSetPref は %@キーをセット中にエラー %@　をリターンしました。</string>
+		<key>Key</key>
+		<string>ICSetPref returned an error while setting key %@: %@</string>
+		<key>SwedishValue</key>
+		<string>ICSetPref returnerade ett fel vid nyckeln %@:%@</string>
+		<key>Value</key>
+		<string>ICSetPref returned an error while setting key %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het wijzigen van InternetConfig voorkeuren voor sleutel %@: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig-Einstellungen für die Taste: %@: %@ konnten nicht bearbeitet werden.</string>
+		<key>JapaneseValue</key>
+		<string>%@: %@キーのInternetConfigの環境設定の編集エラー</string>
+		<key>Key</key>
+		<string>Error editing InternetConfig preferences for key %@: %@</string>
+		<key>SwedishValue</key>
+		<string>Fel vid ändring av InternetConfig-inställningar för %@:%@</string>
+		<key>Value</key>
+		<string>Error editing InternetConfig preferences for key %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICCountPref gaf een fout terug: %@</string>
+		<key>GermanValue</key>
+		<string>ICCountpref hat einen Fehler festgestellt: %@</string>
+		<key>JapaneseValue</key>
+		<string>ICCountPrefはエラー%@　をリターンしました。</string>
+		<key>Key</key>
+		<string>ICCountPref returned an error: %@</string>
+		<key>SwedishValue</key>
+		<string>ICCountPref returnerade ett fel: %@</string>
+		<key>Value</key>
+		<string>ICCountPref returned an error: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICMapFilename gaf een fout terug voor bestand %@: %@</string>
+		<key>GermanValue</key>
+		<string>ICMapFilename hat einen Fehler für die %@:%@ Datei festgestellt</string>
+		<key>JapaneseValue</key>
+		<string>ICMapFilenameはファイル%@にエラーをリターンしました。: %@　</string>
+		<key>Key</key>
+		<string>ICMapFilename returned an error for file %@: %@</string>
+		<key>SwedishValue</key>
+		<string>ICMapFIlename returnerade ett fel för fil %@: %@</string>
+		<key>Value</key>
+		<string>ICMapFilename returned an error for file %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina</string>
+		<key>GermanValue</key>
+		<string>Seite</string>
+		<key>JapaneseValue</key>
+		<string>ページ</string>
+		<key>Key</key>
+		<string>Page</string>
+		<key>SwedishValue</key>
+		<string>Sida</string>
+		<key>Value</key>
+		<string>Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vorige</string>
+		<key>GermanValue</key>
+		<string>vorherige</string>
+		<key>JapaneseValue</key>
+		<string>以前</string>
+		<key>Key</key>
+		<string>Previous</string>
+		<key>SwedishValue</key>
+		<string>Förra</string>
+		<key>Value</key>
+		<string>Previous</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sleep Operatie</string>
+		<key>GermanValue</key>
+		<string>Funktion herüber ziehen</string>
+		<key>JapaneseValue</key>
+		<string>ドラッグオペレーション</string>
+		<key>Key</key>
+		<string>Drag Operation</string>
+		<key>SwedishValue</key>
+		<string>Dragning</string>
+		<key>Value</key>
+		<string>Drag Operation</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen Locatie Inspector</string>
+		<key>GermanValue</key>
+		<string>Betriebsinspektor zurücksetzen</string>
+		<key>JapaneseValue</key>
+		<string>Inspector Locationsをリセット</string>
+		<key>Key</key>
+		<string>Reset Inspector Locations</string>
+		<key>SwedishValue</key>
+		<string>Återställ inställingspanelens plats</string>
+		<key>Value</key>
+		<string>Reset Inspector Locations</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICGetIndPref %d/%d gaf een fout terug: %@</string>
+		<key>GermanValue</key>
+		<string>ICGetIndPref %d/%d hat einen Fehler festgestellt: %@ </string>
+		<key>JapaneseValue</key>
+		<string>ICGetIndPref %d/%d はエラー%@をリターンしました。</string>
+		<key>Key</key>
+		<string>ICGetIndPref %d/%d returned an error: %@</string>
+		<key>SwedishValue</key>
+		<string>ICGetIndPref %d/%d returnerade ett fel: %@</string>
+		<key>Value</key>
+		<string>ICGetIndPref %d/%d returned an error: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>Cancel</string>
+		<key>SwedishValue</key>
+		<string>Avbryt</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stel alle voorkeuren en andere instellingen opnieuw in op hun oorspronkelijke waarden?</string>
+		<key>GermanValue</key>
+		<string>Alle Einstellungen und ähnliche in ihren Ausgangsgrößen zurücksetzen?</string>
+		<key>JapaneseValue</key>
+		<string>全ての環境とその他の設定をリセットしますか?</string>
+		<key>Key</key>
+		<string>Reset all preferences and other settings to their original values?</string>
+		<key>SwedishValue</key>
+		<string>Återställ alla inställningar till sina ursprungliga värden?</string>
+		<key>Value</key>
+		<string>Reset all preferences and other settings to their original values?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toon Alles</string>
+		<key>GermanValue</key>
+		<string>Alle anzeigen</string>
+		<key>JapaneseValue</key>
+		<string>全て表示</string>
+		<key>Key</key>
+		<string>Show All</string>
+		<key>SwedishValue</key>
+		<string>Visa alla</string>
+		<key>Value</key>
+		<string>Show All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Faded</string>
+		<key>GermanValue</key>
+		<string>verblasst
+</string>
+		<key>JapaneseValue</key>
+		<string>色褪せ</string>
+		<key>Key</key>
+		<string>Faded</string>
+		<key>SwedishValue</key>
+		<string>Blekt</string>
+		<key>Value</key>
+		<string>Faded</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bijna-Zwart</string>
+		<key>GermanValue</key>
+		<string>fast schwarz</string>
+		<key>JapaneseValue</key>
+		<string>黒に近い</string>
+		<key>Key</key>
+		<string>Near-black</string>
+		<key>SwedishValue</key>
+		<string>Nästan svart</string>
+		<key>Value</key>
+		<string>Near-black</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Subexpression #%d</string>
+		<key>GermanValue</key>
+		<string>Hilfswort #%d</string>
+		<key>JapaneseValue</key>
+		<string>Subexpression #%d</string>
+		<key>Key</key>
+		<string>Subexpression #%d</string>
+		<key>SwedishValue</key>
+		<string>Underuttryck #%d</string>
+		<key>Value</key>
+		<string>Subexpression #%d</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sluit %@</string>
+		<key>GermanValue</key>
+		<string>%@ schließen</string>
+		<key>JapaneseValue</key>
+		<string> %@を閉じる</string>
+		<key>Key</key>
+		<string>Close %@</string>
+		<key>SwedishValue</key>
+		<string>Stäng %@</string>
+		<key>Value</key>
+		<string>Close %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ voorkeuren opnieuw instellen op hun oorspronkelijke waarden?</string>
+		<key>GermanValue</key>
+		<string>Die Einstellungen für %@ in dessen Ausganggröße zurücksetzen?</string>
+		<key>JapaneseValue</key>
+		<string>%@ の環境設定をリセットしますか？</string>
+		<key>Key</key>
+		<string>Reset %@ preferences to their original values?</string>
+		<key>SwedishValue</key>
+		<string>Återställ %@ inställningar till sina ursprungliga värden?</string>
+		<key>Value</key>
+		<string>Reset %@ preferences to their original values?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rijk</string>
+		<key>GermanValue</key>
+		<string>reichhaltig</string>
+		<key>JapaneseValue</key>
+		<string>濃厚</string>
+		<key>Key</key>
+		<string>Rich</string>
+		<key>SwedishValue</key>
+		<string>Rik</string>
+		<key>Value</key>
+		<string>Rich</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Smokey</string>
+		<key>GermanValue</key>
+		<string>rauchig</string>
+		<key>JapaneseValue</key>
+		<string>Smokey</string>
+		<key>Key</key>
+		<string>Smokey</string>
+		<key>SwedishValue</key>
+		<string>Rökig</string>
+		<key>Value</key>
+		<string>Smokey</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Info</string>
+		<key>GermanValue</key>
+		<string>Info</string>
+		<key>JapaneseValue</key>
+		<string>情報</string>
+		<key>Key</key>
+		<string>Info</string>
+		<key>SwedishValue</key>
+		<string>Info</string>
+		<key>Value</key>
+		<string>Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamloos</string>
+		<key>GermanValue</key>
+		<string>Unbenannt</string>
+		<key>JapaneseValue</key>
+		<string>タイトル未設定</string>
+		<key>Key</key>
+		<string>Untitled</string>
+		<key>SwedishValue</key>
+		<string>Namnlös</string>
+		<key>Value</key>
+		<string>Untitled</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen kiezen zal alle instellingen (inclusief opties die niet in dit voorkeuren scherm staan, zoals venster groottes en toolbars) herstellen naar de status zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungen zu den ursprünglichen Einstellungen zurückgesetzt, die vorhanden waren, als %@ installiert worden ist (inklusive Optionen, die sich nicht in diesem Einstellungsfenster befinden, solche wie Fenstergröße und Funktionsleisten).</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すると、全ての設定が%@が最初にインストールされた時の状態に戻ります。これはこの環境設定ウィンドウ以外のもの（例えばウィンドウサイズやツールバー）にも当てはまります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings (including options not in this Preferences window, such as window sizes and toolbars) to the state they were in when %@ was first installed.</string>
+		<key>SwedishValue</key>
+		<string>Att återställa kommer att återställa samtliga inställningar precis som de var från början.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings (including options not in this Preferences window, such as window sizes and toolbars) to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ Info</string>
+		<key>GermanValue</key>
+		<string>%@ Info</string>
+		<key>JapaneseValue</key>
+		<string>%@ Info</string>
+		<key>Key</key>
+		<string>%@ Info</string>
+		<key>SwedishValue</key>
+		<string>%@ info</string>
+		<key>Value</key>
+		<string>%@ Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij het opnenen van InternetConfig voor read-write toegang: %@</string>
+		<key>GermanValue</key>
+		<string>Fehler! InternetKonfig konnte nicht zum lesen und schreiben von: %@ geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>エラー。InternetConfigが開けません。「読み／書き」権エラー: %@</string>
+		<key>Key</key>
+		<string>Error opening InternetConfig for read-write access: %@</string>
+		<key>SwedishValue</key>
+		<string>Fel vid öppnande av InternetConfig för skrivning och läsning: %@</string>
+		<key>Value</key>
+		<string>Error opening InternetConfig for read-write access: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen kiezen zal alle instellingen in alle voorkeurpanelen herstellen naar de status zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungsausschnitte zur ursprünglichen Einstellung zurückgesetzt, die vorhanden war, als %@ istalliert wurde.</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すると、全ての設定が%@が最初にインストールされた時の状態に戻ります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings in all preference panes to the state they were in when %@ was first installed.</string>
+		<key>SwedishValue</key>
+		<string>Att välja återställning kommer att nollställa alla inställningar precis som när %@ först installerades.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings in all preference panes to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen kiezen zal alle instellingen in dit paneel herstellen naar de status zoals ze waren toen %@ voor het eerst werd geinstalleerd.</string>
+		<key>GermanValue</key>
+		<string>Wenn Sie "Zurücksetzen" drücken, werden alle Einstellungen in diesem Ausschnitt zur ursprünglichen Einstellung zurückgesetzt, die vorhanden war, als %@ installiert wurde.</string>
+		<key>JapaneseValue</key>
+		<string>リセットを選択すると、全ての設定が%@が最初にインストールされた時の状態に戻ります。</string>
+		<key>Key</key>
+		<string>Choosing Reset will restore all settings in this pane to the state they were in when %@ was first installed.</string>
+		<key>SwedishValue</key>
+		<string>Att välja återställning kommer att nollställa alla inställningar för den här panelen.</string>
+		<key>Value</key>
+		<string>Choosing Reset will restore all settings in this pane to the state they were in when %@ was first installed.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Licht</string>
+		<key>GermanValue</key>
+		<string>hell</string>
+		<key>JapaneseValue</key>
+		<string>鮮やか</string>
+		<key>Key</key>
+		<string>Bright</string>
+		<key>SwedishValue</key>
+		<string>Ljus</string>
+		<key>Value</key>
+		<string>Bright</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0.0 kB</string>
+		<key>GermanValue</key>
+		<string>#,##0.0 kB</string>
+		<key>JapaneseValue</key>
+		<string>#,##0.0 kB</string>
+		<key>Key</key>
+		<string>#,##0.0 kB</string>
+		<key>SwedishValue</key>
+		<string>#,##0.0 GB</string>
+		<key>Value</key>
+		<string>#,##0.0 kB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Intens</string>
+		<key>GermanValue</key>
+		<string>stark</string>
+		<key>JapaneseValue</key>
+		<string>強烈</string>
+		<key>Key</key>
+		<string>Intense</string>
+		<key>SwedishValue</key>
+		<string>Intensiv</string>
+		<key>Value</key>
+		<string>Intense</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0.0 GB</string>
+		<key>GermanValue</key>
+		<string>#,##0.0 GB</string>
+		<key>JapaneseValue</key>
+		<string>#,##0.0 GB</string>
+		<key>Key</key>
+		<string>#,##0.0 GB</string>
+		<key>SwedishValue</key>
+		<string>#,##0.0 GB</string>
+		<key>Value</key>
+		<string>#,##0.0 GB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Knip</string>
+		<key>GermanValue</key>
+		<string>Schneiden</string>
+		<key>JapaneseValue</key>
+		<string>切り取り</string>
+		<key>Key</key>
+		<string>Cut</string>
+		<key>SwedishValue</key>
+		<string>Klipp</string>
+		<key>Value</key>
+		<string>Cut</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aangepast</string>
+		<key>GermanValue</key>
+		<string>benutzerdefiniert</string>
+		<key>JapaneseValue</key>
+		<string>カスタム</string>
+		<key>Key</key>
+		<string>Custom</string>
+		<key>SwedishValue</key>
+		<string>Special</string>
+		<key>Value</key>
+		<string>Custom</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ Voorkeuren</string>
+		<key>GermanValue</key>
+		<string>%@ Einstellungen</string>
+		<key>JapaneseValue</key>
+		<string>%@ 環境設定</string>
+		<key>Key</key>
+		<string>%@ Preferences</string>
+		<key>SwedishValue</key>
+		<string>%@-inställningar</string>
+		<key>Value</key>
+		<string>%@ Preferences</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ICSetPref gaf bevoegdheden terug tijdens het instellen van sleutel %@</string>
+		<key>GermanValue</key>
+		<string>ICSetPref hat die Zulassungen verweigert, als der Schlüssel %@ eingerichtet werden sollte.</string>
+		<key>JapaneseValue</key>
+		<string>ICSetPrefは　%@　キーをセット中にパーミッションをリターンしました。</string>
+		<key>Key</key>
+		<string>ICSetPref returned permissions when attempting setting key %@</string>
+		<key>SwedishValue</key>
+		<string>ICSetPref returnerade tillstånd när den försökte ställa in nyckel %@</string>
+		<key>Value</key>
+		<string>ICSetPref returned permissions when attempting setting key %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string> bytes</string>
+		<key>GermanValue</key>
+		<string> bytes</string>
+		<key>JapaneseValue</key>
+		<string> bytes</string>
+		<key>Key</key>
+		<string> bytes</string>
+		<key>SwedishValue</key>
+		<string> bytes</string>
+		<key>Value</key>
+		<string> bytes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verberg Info</string>
+		<key>GermanValue</key>
+		<string>Info ausblenden</string>
+		<key>JapaneseValue</key>
+		<string>情報を隠す</string>
+		<key>Key</key>
+		<string>Hide Info</string>
+		<key>SwedishValue</key>
+		<string>Göm info</string>
+		<key>Value</key>
+		<string>Hide Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Laden %@...</string>
+		<key>GermanValue</key>
+		<string>%@ wird geladen...</string>
+		<key>JapaneseValue</key>
+		<string>%@を起動中...</string>
+		<key>Key</key>
+		<string>Loading %@...</string>
+		<key>SwedishValue</key>
+		<string>Laddar %@ ...</string>
+		<key>Value</key>
+		<string>Loading %@...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Launch Services gaf een fout terug tijdens het openen van URL %@: %@</string>
+		<key>GermanValue</key>
+		<string>Launch Services hat einen Fehler festgestellt, als die URL: %@: %@  geöffnet worden ist.</string>
+		<key>JapaneseValue</key>
+		<string>Launch Services は URL %@　を開く時エラーをリターンしました: %@</string>
+		<key>Key</key>
+		<string>Launch Services returned an error while opening URL %@: %@</string>
+		<key>SwedishValue</key>
+		<string>Launch Services returnerade tt fel vid öppning av %@: %@</string>
+		<key>Value</key>
+		<string>Launch Services returned an error while opening URL %@: %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0</string>
+		<key>GermanValue</key>
+		<string>#,##0</string>
+		<key>JapaneseValue</key>
+		<string>#,##0</string>
+		<key>Key</key>
+		<string>#,##0</string>
+		<key>SwedishValue</key>
+		<string>#,##0</string>
+		<key>Value</key>
+		<string>#,##0</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>#,##0.0 MB</string>
+		<key>GermanValue</key>
+		<string>#,##0.0 MB</string>
+		<key>JapaneseValue</key>
+		<string>#,##0.0 MB</string>
+		<key>Key</key>
+		<string>#,##0.0 MB</string>
+		<key>SwedishValue</key>
+		<string>#,##0.0 MB</string>
+		<key>Value</key>
+		<string>#,##0.0 MB</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Alles Opnieuw Instellen</string>
+		<key>GermanValue</key>
+		<string>Alle zurücksetzen</string>
+		<key>JapaneseValue</key>
+		<string>全てリセット</string>
+		<key>Key</key>
+		<string>Reset All</string>
+		<key>SwedishValue</key>
+		<string>Återställ allt</string>
+		<key>Value</key>
+		<string>Reset All</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaar Workspace...</string>
+		<key>GermanValue</key>
+		<string>Arbeitsplatz speichern...</string>
+		<key>JapaneseValue</key>
+		<string>ワークスペースを保存...</string>
+		<key>Key</key>
+		<string>Save Workspace...</string>
+		<key>SwedishValue</key>
+		<string>Spara arbetsyta ...</string>
+		<key>Value</key>
+		<string>Save Workspace...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hef Groep Op</string>
+		<key>GermanValue</key>
+		<string>Gruppierung rückgängig machen</string>
+		<key>JapaneseValue</key>
+		<string>アングループ</string>
+		<key>Key</key>
+		<string>Ungroup</string>
+		<key>SwedishValue</key>
+		<string>Avgruppera</string>
+		<key>Value</key>
+		<string>Ungroup</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@, %@ %@</string>
+		<key>GermanValue</key>
+		<string>%@, %@ %@</string>
+		<key>JapaneseValue</key>
+		<string>%@, %@ %@</string>
+		<key>Key</key>
+		<string>%@, %@ %@</string>
+		<key>SwedishValue</key>
+		<string>%@, %@ %@</string>
+		<key>Value</key>
+		<string>%@, %@ %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Unindent</string>
+		<key>GermanValue</key>
+		<string>ausrücken</string>
+		<key>JapaneseValue</key>
+		<string>逆インデント</string>
+		<key>Key</key>
+		<string>Unindent</string>
+		<key>SwedishValue</key>
+		<string>Avintendera</string>
+		<key>Value</key>
+		<string>Unindent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Indent</string>
+		<key>GermanValue</key>
+		<string>Einrücken</string>
+		<key>JapaneseValue</key>
+		<string>インデント</string>
+		<key>Key</key>
+		<string>Indent</string>
+		<key>SwedishValue</key>
+		<string>Indentera</string>
+		<key>Value</key>
+		<string>Indent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groep</string>
+		<key>GermanValue</key>
+		<string>Gruppierung</string>
+		<key>JapaneseValue</key>
+		<string>グループ</string>
+		<key>Key</key>
+		<string>Group</string>
+		<key>SwedishValue</key>
+		<string>Gruppera</string>
+		<key>Value</key>
+		<string>Group</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw Instellen</string>
+		<key>GermanValue</key>
+		<string>Zurücksetzen</string>
+		<key>JapaneseValue</key>
+		<string>リセット</string>
+		<key>Key</key>
+		<string>Reset</string>
+		<key>SwedishValue</key>
+		<string>Återställ</string>
+		<key>Value</key>
+		<string>Reset</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Diep</string>
+		<key>GermanValue</key>
+		<string>satt</string>
+		<key>JapaneseValue</key>
+		<string>深</string>
+		<key>Key</key>
+		<string>Deep</string>
+		<key>SwedishValue</key>
+		<string>Djup</string>
+		<key>Value</key>
+		<string>Deep</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ %@</string>
+		<key>GermanValue</key>
+		<string>%@ %@</string>
+		<key>JapaneseValue</key>
+		<string>%@ %@</string>
+		<key>Key</key>
+		<string>%@ %@</string>
+		<key>SwedishValue</key>
+		<string>%@ %@</string>
+		<key>Value</key>
+		<string>%@ %@</string>
+	</dict>
+</array>
+</plist>

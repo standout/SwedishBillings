@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Identiteit</string>
+		<key>GermanValue</key>
+		<string>Identität</string>
+		<key>JapaneseValue</key>
+		<string>事業者情報</string>
+		<key>Key</key>
+		<string>Identity</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>Value</key>
+		<string>Identity</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Labels</string>
+		<key>GermanValue</key>
+		<string>Etiketten</string>
+		<key>JapaneseValue</key>
+		<string>ラベル</string>
+		<key>Key</key>
+		<string>Labels</string>
+		<key>Value</key>
+		<string>Labels</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sjablonen</string>
+		<key>GermanValue</key>
+		<string>Entwürfe</string>
+		<key>JapaneseValue</key>
+		<string>ブループリント</string>
+		<key>Key</key>
+		<string>Blueprints</string>
+		<key>Value</key>
+		<string>Blueprints</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Algemeen</string>
+		<key>GermanValue</key>
+		<string>Allgemeines</string>
+		<key>JapaneseValue</key>
+		<string>一般</string>
+		<key>Key</key>
+		<string>General</string>
+		<key>Value</key>
+		<string>General</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Belastingen</string>
+		<key>GermanValue</key>
+		<string>Steuern</string>
+		<key>JapaneseValue</key>
+		<string>税金</string>
+		<key>Key</key>
+		<string>Taxes</string>
+		<key>Value</key>
+		<string>Taxes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nummering</string>
+		<key>GermanValue</key>
+		<string>Nummerierung</string>
+		<key>JapaneseValue</key>
+		<string>番号</string>
+		<key>Key</key>
+		<string>Numbering</string>
+		<key>Value</key>
+		<string>Numbering</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tijdsregistraties</string>
+		<key>GermanValue</key>
+		<string>Timer</string>
+		<key>JapaneseValue</key>
+		<string>タイマー</string>
+		<key>Key</key>
+		<string>Timers</string>
+		<key>Value</key>
+		<string>Timers</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Velden</string>
+		<key>GermanValue</key>
+		<string>Zusatzfelder</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド</string>
+		<key>Key</key>
+		<string>Extra Fields</string>
+		<key>Value</key>
+		<string>Extra Fields</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toetscombinaties</string>
+		<key>GermanValue</key>
+		<string>Kurzbefehle</string>
+		<key>JapaneseValue</key>
+		<string>ホットキー</string>
+		<key>Key</key>
+		<string>Hot Keys</string>
+		<key>Value</key>
+		<string>Hot Keys</string>
+	</dict>
+</array>
+</plist>

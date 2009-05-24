@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Factureerbaar</string>
+		<key>GermanValue</key>
+		<string>Abrechnungsfähig</string>
+		<key>JapaneseValue</key>
+		<string>支払請求可</string>
+		<key>Key</key>
+		<string>billableNatureLabel</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>Value</key>
+		<string>Billable</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Factuur nummer</string>
+		<key>JapaneseValue</key>
+		<string>請求書番号</string>
+		<key>Key</key>
+		<string>invoiceNumber</string>
+		<key>Value</key>
+		<string>Invoice Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aantal</string>
+		<key>GermanValue</key>
+		<string>Menge</string>
+		<key>JapaneseValue</key>
+		<string>数量</string>
+		<key>Key</key>
+		<string>quantitySlipKindName</string>
+		<key>Value</key>
+		<string>Quantity</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kilometervergoedingen</string>
+		<key>JapaneseValue</key>
+		<string>走行距離</string>
+		<key>Key</key>
+		<string>MILEAGE SLIPS</string>
+		<key>Value</key>
+		<string>Mileage</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Manueel</string>
+		<key>GermanValue</key>
+		<string>Manuell</string>
+		<key>JapaneseValue</key>
+		<string>手入力</string>
+		<key>Key</key>
+		<string>manualSlipKindName</string>
+		<key>Value</key>
+		<string>Manual</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Contant</string>
+		<key>GermanValue</key>
+		<string>Bar</string>
+		<key>JapaneseValue</key>
+		<string>現金</string>
+		<key>Key</key>
+		<string>CashPaymentLabel</string>
+		<key>Value</key>
+		<string>Cash</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%d offerte fiche.</string>
+		<key>GermanValue</key>
+		<string>%d Angebot</string>
+		<key>JapaneseValue</key>
+		<string>%dの見積伝票があります。</string>
+		<key>Key</key>
+		<string>singleEstimatedSlipLabel</string>
+		<key>Value</key>
+		<string>%d estimated slip.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 8</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 8</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　８</string>
+		<key>Key</key>
+		<string>extraField8DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 8</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Werd nog niet verstuurd in een Offerte.</string>
+		<key>GermanValue</key>
+		<string>Die Rechnungsposition wurde noch mit keinem Angebot versendet.</string>
+		<key>JapaneseValue</key>
+		<string>見積書はまだ送信されていません。</string>
+		<key>Key</key>
+		<string>slipNotSentInEstimateString</string>
+		<key>Value</key>
+		<string>Has not been sent in an Estimate.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voorwerpen</string>
+		<key>JapaneseValue</key>
+		<string>品名目</string>
+		<key>Key</key>
+		<string>QUANTITY SLIPS</string>
+		<key>Value</key>
+		<string>Items</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Algemeen</string>
+		<key>JapaneseValue</key>
+		<string>一般</string>
+		<key>Key</key>
+		<string>GENERAL CATEGORY</string>
+		<key>Value</key>
+		<string>General</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naam</string>
+		<key>JapaneseValue</key>
+		<string>姓名</string>
+		<key>Key</key>
+		<string>name</string>
+		<key>Value</key>
+		<string>Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamloos Project</string>
+		<key>GermanValue</key>
+		<string>Unbenanntes Projekt</string>
+		<key>JapaneseValue</key>
+		<string>名称未設定のプロジェクト</string>
+		<key>Key</key>
+		<string>untitledProjectLabel</string>
+		<key>Value</key>
+		<string>Untitled Project</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>/ u</string>
+		<key>GermanValue</key>
+		<string>/ Std</string>
+		<key>JapaneseValue</key>
+		<string>/ 一時間</string>
+		<key>Key</key>
+		<string>perHourLabel</string>
+		<key>Value</key>
+		<string>/ hr</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Offerte</string>
+		<key>GermanValue</key>
+		<string>Angebot</string>
+		<key>JapaneseValue</key>
+		<string>見積書</string>
+		<key>Key</key>
+		<string>Estimate</string>
+		<key>Value</key>
+		<string>Estimate</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Provisie</string>
+		<key>GermanValue</key>
+		<string>Anzahlung</string>
+		<key>JapaneseValue</key>
+		<string>着手金</string>
+		<key>Key</key>
+		<string>RetainerPaymentLabel</string>
+		<key>Value</key>
+		<string>Retainer</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Factuur</string>
+		<key>JapaneseValue</key>
+		<string>請求書</string>
+		<key>Key</key>
+		<string>INVOICE_SHORTFORM</string>
+		<key>Value</key>
+		<string>Invoice</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gefactureerde Fiche</string>
+		<key>JapaneseValue</key>
+		<string>請求済伝票</string>
+		<key>Key</key>
+		<string>invoicedSlipLabel</string>
+		<key>Value</key>
+		<string>Invoiced Slip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onbekende bestandsnaam</string>
+		<key>GermanValue</key>
+		<string>Unbekannter Dateiname</string>
+		<key>JapaneseValue</key>
+		<string>ファイルネーム不明</string>
+		<key>Key</key>
+		<string>UnknownFilename</string>
+		<key>Value</key>
+		<string>Unknown Filename</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Categorie</string>
+		<key>GermanValue</key>
+		<string>Neue Kategorie</string>
+		<key>JapaneseValue</key>
+		<string>新規カテゴリー</string>
+		<key>Key</key>
+		<string>newCategoryLabel</string>
+		<key>Value</key>
+		<string>New Category</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Nieuwe Fiche</string>
+		<key>GermanValue</key>
+		<string>Neue Position</string>
+		<key>JapaneseValue</key>
+		<string>新規伝票</string>
+		<key>Key</key>
+		<string>newSlipLabel</string>
+		<key>Value</key>
+		<string>New Slip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verstuurd</string>
+		<key>GermanValue</key>
+		<string>Gesendet</string>
+		<key>JapaneseValue</key>
+		<string>送信済み</string>
+		<key>Key</key>
+		<string>invoiceSentStateName</string>
+		<key>Value</key>
+		<string>Sent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vast Tarief</string>
+		<key>JapaneseValue</key>
+		<string>定額費用</string>
+		<key>Key</key>
+		<string>FLAT SLIPS</string>
+		<key>Value</key>
+		<string>Fixed fees</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Werk Fiche</string>
+		<key>GermanValue</key>
+		<string>Rechnungsposition</string>
+		<key>JapaneseValue</key>
+		<string>売上伝票</string>
+		<key>Key</key>
+		<string>workingSlipLabel</string>
+		<key>Value</key>
+		<string>Working Slip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Electronish</string>
+		<key>GermanValue</key>
+		<string>elektronisch</string>
+		<key>JapaneseValue</key>
+		<string>電子マネー</string>
+		<key>Key</key>
+		<string>ElectronicPaymentLabel</string>
+		<key>Value</key>
+		<string>Electronic</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Klant naam</string>
+		<key>JapaneseValue</key>
+		<string>顧客名</string>
+		<key>Key</key>
+		<string>client.name</string>
+		<key>Value</key>
+		<string>Client Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Werd nog niet gefactureerd.</string>
+		<key>GermanValue</key>
+		<string>Wurde nicht berechnet.</string>
+		<key>JapaneseValue</key>
+		<string>請求書はまだ発行されていません。</string>
+		<key>Key</key>
+		<string>slipNotInvoicedString</string>
+		<key>Value</key>
+		<string>Has not been invoiced.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamloos</string>
+		<key>GermanValue</key>
+		<string>Unbenannt</string>
+		<key>JapaneseValue</key>
+		<string>Untitled　名称未設定</string>
+		<key>Key</key>
+		<string>untitledLabel</string>
+		<key>Value</key>
+		<string>Untitled</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Betaling</string>
+		<key>GermanValue</key>
+		<string>Zahlung</string>
+		<key>JapaneseValue</key>
+		<string>支払</string>
+		<key>Key</key>
+		<string>paymentKindLabel</string>
+		<key>Value</key>
+		<string>Payment</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 5</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 5</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　５</string>
+		<key>Key</key>
+		<string>extraField5DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 5</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldig aantal.  Aantallen moeten van het volgende formaat zijn : ##.##</string>
+		<key>GermanValue</key>
+		<string>Ungültige Mengeneingabe. Die Mengenangaben müssen im folgenden Format , z.B.: ##.## eingegeben werden.</string>
+		<key>JapaneseValue</key>
+		<string>入力された数量が無効です。  数量の入力は＃＃．＃＃のフォーマットでしてください。</string>
+		<key>Key</key>
+		<string>TimeslipQuantityInputError</string>
+		<key>Value</key>
+		<string>Invalid Quantity Input.  Quantities must be of the format ie. ##.##</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 6</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 6</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　６</string>
+		<key>Key</key>
+		<string>extraField6DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 6</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout bij ophalen van de soort</string>
+		<key>GermanValue</key>
+		<string>Fehler der Art-Identifizierung</string>
+		<key>JapaneseValue</key>
+		<string>種類の確保エラー</string>
+		<key>Key</key>
+		<string>ErrorGettingKind</string>
+		<key>Value</key>
+		<string>Error getting Kind</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 7</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 7</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　７</string>
+		<key>Key</key>
+		<string>extraField7DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 7</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Uurtarief</string>
+		<key>JapaneseValue</key>
+		<string>時間報酬</string>
+		<key>Key</key>
+		<string>TIMED SLIPS</string>
+		<key>Value</key>
+		<string>Hourly fees</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verstuurd in Offerte op %@.</string>
+		<key>GermanValue</key>
+		<string>Wurde einem Angebot beigefügt und versendet am: %@</string>
+		<key>JapaneseValue</key>
+		<string>見積書は%@に送信されました。</string>
+		<key>Key</key>
+		<string>slipSentInEstimateOnDateString</string>
+		<key>Value</key>
+		<string>Sent in Estimate on %@.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 1</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 1</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　１</string>
+		<key>Key</key>
+		<string>extraField1DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 1</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>De startdatum moet voor de einddatum vallen</string>
+		<key>GermanValue</key>
+		<string>Das Beginndatum muss vor dem Endedatum sein</string>
+		<key>JapaneseValue</key>
+		<string>「開始日」は「終了日」以前にしてください。</string>
+		<key>Key</key>
+		<string>START_DATE_MUST_BE_BEFORE_END</string>
+		<key>Value</key>
+		<string>The start date must be before the end date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kilometervergoeding</string>
+		<key>GermanValue</key>
+		<string>Fahrleistung</string>
+		<key>JapaneseValue</key>
+		<string>走行距離</string>
+		<key>Key</key>
+		<string>mileageSlipKindName</string>
+		<key>Value</key>
+		<string>Mileage</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niet Verstuurd</string>
+		<key>GermanValue</key>
+		<string>Nicht gesendet</string>
+		<key>JapaneseValue</key>
+		<string>未送信</string>
+		<key>Key</key>
+		<string>invoiceNotSentStateName</string>
+		<key>Value</key>
+		<string>Not Sent</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Losse Fiches</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクトに属していない伝票</string>
+		<key>Key</key>
+		<string>looseSlipsLabelOld</string>
+		<key>Value</key>
+		<string>Loose Slips</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Samengesteld</string>
+		<key>GermanValue</key>
+		<string>Zusammensetzung</string>
+		<key>JapaneseValue</key>
+		<string>総合</string>
+		<key>Key</key>
+		<string>compoundLabel</string>
+		<key>Value</key>
+		<string>Compound</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fout, ongeldig aantal offerte fiches.</string>
+		<key>GermanValue</key>
+		<string>Fehler! Ungültige Anzahl der Angebote</string>
+		<key>JapaneseValue</key>
+		<string>エラー。見積伝票数が無効です。</string>
+		<key>Key</key>
+		<string>invalidEstimatedSlipsCountLabel</string>
+		<key>Value</key>
+		<string>Error, invalid estimated slips count.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 3</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 3</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　３</string>
+		<key>Key</key>
+		<string>extraField3DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 3</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opmerking</string>
+		<key>JapaneseValue</key>
+		<string>コメント</string>
+		<key>Key</key>
+		<string>comment</string>
+		<key>Value</key>
+		<string>Comment</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Uurtarief</string>
+		<key>GermanValue</key>
+		<string>Auf Stundenbasis</string>
+		<key>JapaneseValue</key>
+		<string>時間額</string>
+		<key>Key</key>
+		<string>timedSlipKindName</string>
+		<key>Value</key>
+		<string>Timed</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Billings</string>
+		<key>GermanValue</key>
+		<string>Billings</string>
+		<key>JapaneseValue</key>
+		<string>Billings</string>
+		<key>Key</key>
+		<string>billings</string>
+		<key>Value</key>
+		<string>Billings</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Amex</string>
+		<key>GermanValue</key>
+		<string>Amex</string>
+		<key>JapaneseValue</key>
+		<string>Amex</string>
+		<key>Key</key>
+		<string>AmexPaymentLabel</string>
+		<key>Value</key>
+		<string>Amex</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Email</string>
+		<key>JapaneseValue</key>
+		<string>電子メール</string>
+		<key>Key</key>
+		<string>email</string>
+		<key>Value</key>
+		<string>Email</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen</string>
+		<key>GermanValue</key>
+		<string>Keine</string>
+		<key>JapaneseValue</key>
+		<string>未設定</string>
+		<key>Key</key>
+		<string>invoiceNoStateName</string>
+		<key>Value</key>
+		<string>None</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Fiches zonder Project</string>
+		<key>GermanValue</key>
+		<string>Lose Positionen</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクトに属していない伝票</string>
+		<key>Key</key>
+		<string>looseSlipsLabel</string>
+		<key>Value</key>
+		<string>Slips Without a Project</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldige tijdsingave.  Tijdsregistraties moeten van het volgende formaat zijn : HH:MM</string>
+		<key>GermanValue</key>
+		<string>Ungültige Zeiteingabe. Die Zeitangaben muss im folgenden Format, z.B: Std:Min eingetragen werden.</string>
+		<key>JapaneseValue</key>
+		<string>入力された時間は無効です。  時間の入力は時:分のフォーマットでしてください。</string>
+		<key>Key</key>
+		<string>TimeslipTimeInputError</string>
+		<key>Value</key>
+		<string>Invalid Time Input.  Time Entries must be of the format ie. HH:MM</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Subtotaal</string>
+		<key>GermanValue</key>
+		<string>Netto</string>
+		<key>JapaneseValue</key>
+		<string>小計</string>
+		<key>Key</key>
+		<string>subtotalName</string>
+		<key>Value</key>
+		<string>Subtotal</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldig aantal.  Het aantal minuten is kleiner dan 0 of groter dan 59, wat ongeldig is</string>
+		<key>GermanValue</key>
+		<string>Ungültige Mengeneingabe. Die Zahl der Minuten ist weniger als 0 oder größer als 59.</string>
+		<key>JapaneseValue</key>
+		<string>入力された時間は無効です。  「分」の単位はゼロ以上か、５９以下にしてください。</string>
+		<key>Key</key>
+		<string>TimeslipQuantityInvalidMinutesInputError</string>
+		<key>Value</key>
+		<string>Invalid Quantity Input.  The number of minutes is less than 0 or greater than 59 which is invalid</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>mi</string>
+		<key>GermanValue</key>
+		<string>mi</string>
+		<key>JapaneseValue</key>
+		<string>マイル</string>
+		<key>Key</key>
+		<string>mi</string>
+		<key>Value</key>
+		<string>mi</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Main</string>
+		<key>GermanValue</key>
+		<string>hauptsächlich</string>
+		<key>JapaneseValue</key>
+		<string>メイン</string>
+		<key>Key</key>
+		<string>main</string>
+		<key>Value</key>
+		<string>Main</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aanmaning nummer</string>
+		<key>JapaneseValue</key>
+		<string>計算書番号</string>
+		<key>Key</key>
+		<string>statementNumber</string>
+		<key>Value</key>
+		<string>Statement Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@, belasting = %@, naam belasting = %@, totaal = %@</string>
+		<key>GermanValue</key>
+		<string>%@, Steuer = %@, Steuerbezeichnung = %@, Gesamtsumme = %@</string>
+		<key>JapaneseValue</key>
+		<string>%@, 税 = %@, 税金名称 = %@, 合計 = %@</string>
+		<key>Key</key>
+		<string>percentAtCommaTaxEqualPercentAtCommaTaxNameEqualPercentAtCommaTotalEqualPercentAt</string>
+		<key>Value</key>
+		<string>%@, tax = %@, tax name = %@, total = %@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Web</string>
+		<key>GermanValue</key>
+		<string>Web</string>
+		<key>JapaneseValue</key>
+		<string>ウェブ</string>
+		<key>Key</key>
+		<string>Web</string>
+		<key>Value</key>
+		<string>Web</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gefactureerd op %@.</string>
+		<key>GermanValue</key>
+		<string>In Rechnung gestellt am %@</string>
+		<key>JapaneseValue</key>
+		<string>請求書は%@に発行されました。</string>
+		<key>Key</key>
+		<string>slipInvoicedOnDateString</string>
+		<key>Value</key>
+		<string>Invoiced on %@.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%d offerte fiches.</string>
+		<key>GermanValue</key>
+		<string>%d Angebote</string>
+		<key>JapaneseValue</key>
+		<string>%dの見積伝票があります。</string>
+		<key>Key</key>
+		<string>multipleEstimatedSlipsLabel</string>
+		<key>Value</key>
+		<string>%d estimated slips.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kost</string>
+		<key>GermanValue</key>
+		<string>Ausgabe</string>
+		<key>JapaneseValue</key>
+		<string>経費</string>
+		<key>Key</key>
+		<string>expenseSlipKindName</string>
+		<key>Value</key>
+		<string>Expense</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ Kopie</string>
+		<key>GermanValue</key>
+		<string>%@ Kopie</string>
+		<key>JapaneseValue</key>
+		<string>%@ コピー</string>
+		<key>Key</key>
+		<string>percentAtCopy</string>
+		<key>Value</key>
+		<string>%@ Copy</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Personeel</string>
+		<key>JapaneseValue</key>
+		<string>スタッフ</string>
+		<key>Key</key>
+		<string>GENERAL USER</string>
+		<key>Value</key>
+		<string>Staff</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamlozen terugkerende Factuur</string>
+		<key>JapaneseValue</key>
+		<string>名称未設定の自動更新伝票</string>
+		<key>Key</key>
+		<string>untitledRecurringInvoiceLabel</string>
+		<key>Value</key>
+		<string>Untitled Recurring Invoice</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naamloze Klanten Groep</string>
+		<key>JapaneseValue</key>
+		<string>名称未設定の顧客グループ</string>
+		<key>Key</key>
+		<string>UNTITLED_CLIENT_CATEGORY</string>
+		<key>Value</key>
+		<string>Untitled Client Group</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Provisie Toegepast</string>
+		<key>GermanValue</key>
+		<string>Anzahlung geleistet</string>
+		<key>JapaneseValue</key>
+		<string>着手金が適用されました</string>
+		<key>Key</key>
+		<string>UseRetainerOnInvoiceValueIfNone</string>
+		<key>Value</key>
+		<string>Retainer Applied</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Mastercard</string>
+		<key>GermanValue</key>
+		<string>Mastercard</string>
+		<key>JapaneseValue</key>
+		<string>Mastercard</string>
+		<key>Key</key>
+		<string>MastercardPaymentLabel</string>
+		<key>Value</key>
+		<string>Mastercard</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Klant nummer</string>
+		<key>JapaneseValue</key>
+		<string>顧客番号</string>
+		<key>Key</key>
+		<string>clientNumber</string>
+		<key>Value</key>
+		<string>Client Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Visa</string>
+		<key>GermanValue</key>
+		<string>Visa</string>
+		<key>JapaneseValue</key>
+		<string>Visa</string>
+		<key>Key</key>
+		<string>VisaPaymentLabel</string>
+		<key>Value</key>
+		<string>Visa</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Factuur</string>
+		<key>GermanValue</key>
+		<string>Rechnung</string>
+		<key>JapaneseValue</key>
+		<string>請求</string>
+		<key>Key</key>
+		<string>invoiceKindLabel</string>
+		<key>Value</key>
+		<string>Invoice</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Type tijdsfiche bestaat niet</string>
+		<key>GermanValue</key>
+		<string>Es ist keine Art von stundenorientiertex Rechnungspositionen vorhanden.</string>
+		<key>JapaneseValue</key>
+		<string>時間伝票が存在しません。</string>
+		<key>Key</key>
+		<string>TimeSlipTypeDoesNotExistError</string>
+		<key>Value</key>
+		<string>No Timed Slip type exists</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ Totaal</string>
+		<key>GermanValue</key>
+		<string>%@ Gesamtsumme</string>
+		<key>JapaneseValue</key>
+		<string>合計%@</string>
+		<key>Key</key>
+		<string>percentAtTotal</string>
+		<key>Value</key>
+		<string>%@ Total</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Cheque</string>
+		<key>GermanValue</key>
+		<string>Scheck</string>
+		<key>JapaneseValue</key>
+		<string>小切手</string>
+		<key>Key</key>
+		<string>ChequePaymentLabel</string>
+		<key>Value</key>
+		<string>Cheque</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bedrijf</string>
+		<key>JapaneseValue</key>
+		<string>会社名</string>
+		<key>Key</key>
+		<string>company</string>
+		<key>Value</key>
+		<string>Company</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Aankooporder</string>
+		<key>JapaneseValue</key>
+		<string>発注書</string>
+		<key>Key</key>
+		<string>poNumber</string>
+		<key>Value</key>
+		<string>Purchase Order</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Offerte Fiche</string>
+		<key>GermanValue</key>
+		<string>Angebot</string>
+		<key>JapaneseValue</key>
+		<string>見積伝票</string>
+		<key>Key</key>
+		<string>estimateSlipLabel</string>
+		<key>Value</key>
+		<string>Estimate Slip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Offerte nummer</string>
+		<key>JapaneseValue</key>
+		<string>見積書番号</string>
+		<key>Key</key>
+		<string>estimateNumber</string>
+		<key>Value</key>
+		<string>Estimate Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldig fiche type</string>
+		<key>GermanValue</key>
+		<string>Ungültige Art der Position</string>
+		<key>JapaneseValue</key>
+		<string>伝票の形式が無効です。</string>
+		<key>Key</key>
+		<string>TimeslipTypeInvalidError</string>
+		<key>Value</key>
+		<string>Invalid Slip Type</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 4</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld 4</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　４</string>
+		<key>Key</key>
+		<string>extraField4DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 4</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onbekend</string>
+		<key>GermanValue</key>
+		<string>Unbekannt</string>
+		<key>JapaneseValue</key>
+		<string>不明</string>
+		<key>Key</key>
+		<string>Unknown</string>
+		<key>Value</key>
+		<string>Unknown</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Inhoud</string>
+		<key>JapaneseValue</key>
+		<string>内容</string>
+		<key>Key</key>
+		<string>plainContents</string>
+		<key>Value</key>
+		<string>Contents</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>0123456789:</string>
+		<key>GermanValue</key>
+		<string>0123456789:</string>
+		<key>JapaneseValue</key>
+		<string>0123456789:</string>
+		<key>Key</key>
+		<string>TimeCharacterSet</string>
+		<key>Value</key>
+		<string>0123456789:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Vast tarief</string>
+		<key>GermanValue</key>
+		<string>Pauschal</string>
+		<key>JapaneseValue</key>
+		<string>定額</string>
+		<key>Key</key>
+		<string>flatSlipKindName</string>
+		<key>Value</key>
+		<string>Flat</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>De einddatum moet na de startdatum vallen</string>
+		<key>GermanValue</key>
+		<string>Das Endedatum muss nach dem Beginndatum sein</string>
+		<key>JapaneseValue</key>
+		<string>「終了日」は「開始日」以降にしてください。</string>
+		<key>Key</key>
+		<string>END_DATE_MUST_BE_AFTER_START</string>
+		<key>Value</key>
+		<string>The end date must be after the start date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>0123456789.</string>
+		<key>GermanValue</key>
+		<string>0123456789.</string>
+		<key>JapaneseValue</key>
+		<string>0123456789.</string>
+		<key>Key</key>
+		<string>QuantityCharacterSet</string>
+		<key>Value</key>
+		<string>0123456789.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Enkel voor mijn ogen</string>
+		<key>GermanValue</key>
+		<string>Nur für mich sichtbar</string>
+		<key>JapaneseValue</key>
+		<string>部外秘</string>
+		<key>Key</key>
+		<string>myEyesOnlyNatureLabel</string>
+		<key>Value</key>
+		<string>My Eyes Only</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Betaling</string>
+		<key>JapaneseValue</key>
+		<string>支払</string>
+		<key>Key</key>
+		<string>PAYMENT_SHORTFORM</string>
+		<key>Value</key>
+		<string>Payment</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kosten</string>
+		<key>JapaneseValue</key>
+		<string>経費</string>
+		<key>Key</key>
+		<string>EXPENSE SLIPS</string>
+		<key>Value</key>
+		<string>Expenses</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen offerte fiches.</string>
+		<key>GermanValue</key>
+		<string>Keine Angebote</string>
+		<key>JapaneseValue</key>
+		<string>見積伝票がありません。</string>
+		<key>Key</key>
+		<string>noEstimatedSlipsLabel</string>
+		<key>Value</key>
+		<string>No estimated slips.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Duurtijd verhoogd</string>
+		<key>GermanValue</key>
+		<string>Aufgerundete Zeit</string>
+		<key>JapaneseValue</key>
+		<string>時間切り上げ</string>
+		<key>Key</key>
+		<string>bumpTimeEntryCommentLabel</string>
+		<key>Value</key>
+		<string>Bumped Timed</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Extra Veld 2</string>
+		<key>GermanValue</key>
+		<string>Zusatzfeld2</string>
+		<key>JapaneseValue</key>
+		<string>追加フィールド　２</string>
+		<key>Key</key>
+		<string>extraField2DefaultLabel</string>
+		<key>Value</key>
+		<string>Extra Field 2</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>km</string>
+		<key>GermanValue</key>
+		<string>km</string>
+		<key>JapaneseValue</key>
+		<string>km</string>
+		<key>Key</key>
+		<string>km</string>
+		<key>Value</key>
+		<string>km</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bijnaam</string>
+		<key>JapaneseValue</key>
+		<string>ニックネーム</string>
+		<key>Key</key>
+		<string>nickname</string>
+		<key>Value</key>
+		<string>Nickname</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Project Code</string>
+		<key>JapaneseValue</key>
+		<string>プロジェクトコード</string>
+		<key>Key</key>
+		<string>projectCode</string>
+		<key>Value</key>
+		<string>Project Code</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opmerking tijdsregistratie</string>
+		<key>JapaneseValue</key>
+		<string>時間入力のコメント</string>
+		<key>Key</key>
+		<string>timeEntries.comment</string>
+		<key>Value</key>
+		<string>Time Entry Comment</string>
+	</dict>
+</array>
+</plist>

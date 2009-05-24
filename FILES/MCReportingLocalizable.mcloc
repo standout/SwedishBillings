@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw</string>
+		<key>GermanValue</key>
+		<string>Wiederherstellen</string>
+		<key>JapaneseValue</key>
+		<string>やり直す（リドゥ）</string>
+		<key>Key</key>
+		<string>REDO_MENU</string>
+		<key>LastLanguageImportTitle</key>
+		<string>German</string>
+		<key>Value</key>
+		<string>Redo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Print layout is running over 500 pages. It seems unreasonable, stopping...</string>
+		<key>JapaneseValue</key>
+		<string>　プリントレイアウトが５００ページを越えています。不当なのでは？停止します。</string>
+		<key>Key</key>
+		<string>LAYOUT_WITH_MORE_THAN_500_PAGES_SEEMS_ODD_STOPPING</string>
+		<key>Value</key>
+		<string>Print layout is running over 500 pages. It seems unreasonable, stopping...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga Verder</string>
+		<key>GermanValue</key>
+		<string>Fortfahren</string>
+		<key>JapaneseValue</key>
+		<string>続ける</string>
+		<key>Key</key>
+		<string>CONTINUE</string>
+		<key>Value</key>
+		<string>Continue</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Scripts</string>
+		<key>GermanValue</key>
+		<string>Skripte</string>
+		<key>JapaneseValue</key>
+		<string>スクリプト</string>
+		<key>Key</key>
+		<string>INSPECTOR SCRIPTS</string>
+		<key>Value</key>
+		<string>Scripts</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hoofding Rij</string>
+		<key>GermanValue</key>
+		<string>Titelreihe</string>
+		<key>JapaneseValue</key>
+		<string>ヘッダー列</string>
+		<key>Key</key>
+		<string>ELEMENT HEADER ROW</string>
+		<key>Value</key>
+		<string>Header Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een einddatum keypath op te geven</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen Sie einen Schlüssel für das Enddatum aus</string>
+		<key>JapaneseValue</key>
+		<string>終了日のキーパスを提供してください</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE A END DATE KEY</string>
+		<key>Value</key>
+		<string>Please provide an end date keypath</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Huidige Gebruiker</string>
+		<key>GermanValue</key>
+		<string>Aktueller Benutzer</string>
+		<key>JapaneseValue</key>
+		<string>現在のユーザー</string>
+		<key>Key</key>
+		<string>CURRENT_USER</string>
+		<key>Value</key>
+		<string>Current User</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>2nd Sam. Rij</string>
+		<key>JapaneseValue</key>
+		<string>2nd Sum. Row</string>
+		<key>Key</key>
+		<string>ELEMENT 2ND SUMMARY ROW</string>
+		<key>Value</key>
+		<string>2nd Sum. Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ga Verder</string>
+		<key>GermanValue</key>
+		<string>Fortfahren</string>
+		<key>JapaneseValue</key>
+		<string>続ける</string>
+		<key>Key</key>
+		<string>ALERT BUTTON CONTNUE</string>
+		<key>Value</key>
+		<string>Continue</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dit rapport vereist invoer van de gebruiker, gelieve na te kijken en het Rapporten paneel</string>
+		<key>GermanValue</key>
+		<string>Dieser Bericht benötigt eine Benutzereingabe. Bitte überprüfen Sie es im Meldungsfenster.</string>
+		<key>JapaneseValue</key>
+		<string>このレポートはユーザーの入力が必須です。レポート枠でプレビューしてください。</string>
+		<key>Key</key>
+		<string>ALERT SIMULATE IN PREVIEW PANE</string>
+		<key>Value</key>
+		<string>This report requires user input, please preview it in the Reports pane</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldige selectie, gelieve een attibuut (leaf) op te geven</string>
+		<key>GermanValue</key>
+		<string>Ungültige Auswahl. Bitte wählen Sie eine Eigenschaft aus. (Blatt)</string>
+		<key>JapaneseValue</key>
+		<string>不正な選択です。アトリビュートを選択してください。(leaf選択が無効です。アトリビュートleafを選択してください。</string>
+		<key>Key</key>
+		<string>ALERT SELECT ATTRIBUTE LEAF</string>
+		<key>Value</key>
+		<string>Invalid selection, please select an attribute (leaf)</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Bewaren Verplicht</string>
+		<key>GermanValue</key>
+		<string>Sichern erforderlich</string>
+		<key>JapaneseValue</key>
+		<string>保存必須</string>
+		<key>Key</key>
+		<string>ALERT SAVE REQUIRED</string>
+		<key>Value</key>
+		<string>Save Required</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%.0f pt. B x %.0f pt. H</string>
+		<key>GermanValue</key>
+		<string>%.0f pt. Br x %.0f pt. H</string>
+		<key>JapaneseValue</key>
+		<string>%.0f pt. 幅 x %.0f pt. 高</string>
+		<key>Key</key>
+		<string>PAPER_SIZE_FORMAT</string>
+		<key>Value</key>
+		<string>%.0f pt. W x %.0f pt. H</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Standaard Filter</string>
+		<key>GermanValue</key>
+		<string>Standardfilter</string>
+		<key>JapaneseValue</key>
+		<string>標準フィルター</string>
+		<key>Key</key>
+		<string>MCReportDataInfoQueryPlugin</string>
+		<key>Value</key>
+		<string>Standard Filter</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tabel</string>
+		<key>GermanValue</key>
+		<string>Tabelle</string>
+		<key>JapaneseValue</key>
+		<string>表</string>
+		<key>Key</key>
+		<string>ELEMENT TABLE</string>
+		<key>Value</key>
+		<string>Table</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Randen</string>
+		<key>GermanValue</key>
+		<string>Einlage</string>
+		<key>JapaneseValue</key>
+		<string>パディング</string>
+		<key>Key</key>
+		<string>INSPECTOR PADDING</string>
+		<key>Value</key>
+		<string>Padding</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een waarde op te geven voor de vergelijking</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen Sie einen Vergleichswert aus</string>
+		<key>JapaneseValue</key>
+		<string>比較値を提供してください</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE COMPARISON</string>
+		<key>Value</key>
+		<string>Please provide a comparison value</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kon het bestand niet bewaren.</string>
+		<key>GermanValue</key>
+		<string>Die Datei konnte nicht gespeichert werden.</string>
+		<key>JapaneseValue</key>
+		<string>ファイルが保存できませんでした。</string>
+		<key>Key</key>
+		<string>COULD_NOT_WRITE_FILE</string>
+		<key>Value</key>
+		<string>Could not save the file.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Herstel</string>
+		<key>GermanValue</key>
+		<string>Widerrufen</string>
+		<key>JapaneseValue</key>
+		<string>取り消し（アンドゥ）</string>
+		<key>Key</key>
+		<string>UNDO_MENU</string>
+		<key>Value</key>
+		<string>Undo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Huidige Datum</string>
+		<key>GermanValue</key>
+		<string>Aktuelles Datum</string>
+		<key>JapaneseValue</key>
+		<string>現在の日付</string>
+		<key>Key</key>
+		<string>CURRENT_DATE</string>
+		<key>Value</key>
+		<string>Current Date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina Nummer</string>
+		<key>GermanValue</key>
+		<string>Seitenzahl</string>
+		<key>JapaneseValue</key>
+		<string>ページ番号</string>
+		<key>Key</key>
+		<string>ELEMENT PAGE NUMBER</string>
+		<key>Value</key>
+		<string>Page Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve eerst de brond data van de tabel te specifiëren</string>
+		<key>GermanValue</key>
+		<string>Bitte stellen Sie zunächst die Bezugsquelle für die Datentabelle ein</string>
+		<key>JapaneseValue</key>
+		<string>表のデータソースを指定してください。</string>
+		<key>Key</key>
+		<string>ALERT SELECT DATA SOURCE FIRST</string>
+		<key>Value</key>
+		<string>Please set the table data source first</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen Selectie</string>
+		<key>GermanValue</key>
+		<string>Keine Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>選択されていません</string>
+		<key>Key</key>
+		<string>NO SELECTION IN PATH BAR</string>
+		<key>Value</key>
+		<string>No Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kon het bewaarde bestand niet openen.</string>
+		<key>GermanValue</key>
+		<string>Die gespeicherte Datei konnte nicht geöffnet werden.</string>
+		<key>JapaneseValue</key>
+		<string>保存されたファイルが開けませんでした。</string>
+		<key>Key</key>
+		<string>COULD_NOT_OPEN_FILE</string>
+		<key>Value</key>
+		<string>Could not open the saved file.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kleur</string>
+		<key>GermanValue</key>
+		<string>Farbe</string>
+		<key>JapaneseValue</key>
+		<string>色</string>
+		<key>Key</key>
+		<string>ELEMENT COLOR</string>
+		<key>Value</key>
+		<string>Color</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket Blad</string>
+		<key>GermanValue</key>
+		<string>Blatt benennen</string>
+		<key>JapaneseValue</key>
+		<string>シートにラベルを張る</string>
+		<key>Key</key>
+		<string>ELEMENT LABEL SHEET</string>
+		<key>Value</key>
+		<string>Label Sheet</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afbeelding</string>
+		<key>GermanValue</key>
+		<string>Bild</string>
+		<key>JapaneseValue</key>
+		<string>画像</string>
+		<key>Key</key>
+		<string>ELEMENT IMAGE</string>
+		<key>Value</key>
+		<string>Image</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Genereerde geen HTML, niets te bewaren.</string>
+		<key>GermanValue</key>
+		<string>HTML konnte nicht aufgerufen werden. Es ist nichts zum sichern vohanden.</string>
+		<key>JapaneseValue</key>
+		<string>HTMLが生成されませんでした。セーブするものがありません。</string>
+		<key>Key</key>
+		<string>NO_GENERATED_HTML</string>
+		<key>Value</key>
+		<string>Did not generate HTML, nothing to save.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Door:</string>
+		<key>GermanValue</key>
+		<string>Von:</string>
+		<key>JapaneseValue</key>
+		<string>印刷者:</string>
+		<key>Key</key>
+		<string>PRINTED_BY:</string>
+		<key>Value</key>
+		<string>By:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>De tabel heeft reeds elementen.  Deze actie zal de bestaande elementen vervangen</string>
+		<key>GermanValue</key>
+		<string>Die Tabelle beinhaltet bereits Elemente. Dieser Vorgang wird diese Elemente austauschen.</string>
+		<key>JapaneseValue</key>
+		<string>表にはすでにエレメントがあります。エレメントが置換されます</string>
+		<key>Key</key>
+		<string>ALERT TABLE ALREADY HAS ELEMENTS</string>
+		<key>Value</key>
+		<string>The table already has elements. This action will replace those elements</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn</string>
+		<key>GermanValue</key>
+		<string>Linie</string>
+		<key>JapaneseValue</key>
+		<string>ライン</string>
+		<key>Key</key>
+		<string>ELEMENT LINE</string>
+		<key>Value</key>
+		<string>Line</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Validatie Fout</string>
+		<key>GermanValue</key>
+		<string>Validierungsfehler</string>
+		<key>JapaneseValue</key>
+		<string>確認エラー</string>
+		<key>Key</key>
+		<string>ALERT VALIDATION</string>
+		<key>Value</key>
+		<string>Validation Error</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Sortering</string>
+		<key>GermanValue</key>
+		<string>Sortierung</string>
+		<key>JapaneseValue</key>
+		<string>並べ替え</string>
+		<key>Key</key>
+		<string>INSPECTOR SORTING</string>
+		<key>Value</key>
+		<string>Sorting</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dictionaries van SQL</string>
+		<key>GermanValue</key>
+		<string>Wörterbücher aus SQL</string>
+		<key>JapaneseValue</key>
+		<string>SQLからの辞書</string>
+		<key>Key</key>
+		<string>MCReportDataInfoSQLPlugin</string>
+		<key>Value</key>
+		<string>Dictionaries from SQL</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een geldige afbeeldingsnaam op te geven</string>
+		<key>GermanValue</key>
+		<string>Biite wählen Sie einen gültigen Namen für das Bild aus</string>
+		<key>JapaneseValue</key>
+		<string>有効なイメージネームを提供してください</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE VALID IMAGE NAME</string>
+		<key>Value</key>
+		<string>Please provide a valid image name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>ALERT BUTTON CANCEL</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst Vak</string>
+		<key>GermanValue</key>
+		<string>Textbereich</string>
+		<key>JapaneseValue</key>
+		<string>テキストエリア</string>
+		<key>Key</key>
+		<string>ELEMENT TEXT AREA</string>
+		<key>Value</key>
+		<string>Text Area</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niet genoeg ruimte voor de laatste kolom</string>
+		<key>GermanValue</key>
+		<string>Es ist kein Platz für die letzte Spalte vorhanden</string>
+		<key>JapaneseValue</key>
+		<string>最後の縦列を入れるスペースが足りません。</string>
+		<key>Key</key>
+		<string>NO_ROOM_FOR_LAST_COLUMN</string>
+		<key>Value</key>
+		<string>No room for the last column</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een Label op te geven</string>
+		<key>GermanValue</key>
+		<string>Bitte geben Sie ein Etikett an</string>
+		<key>JapaneseValue</key>
+		<string>ラベルを提供してください。</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE A LABEL</string>
+		<key>Value</key>
+		<string>Please provide a label</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Overgebleven Breedte: %.0f</string>
+		<key>GermanValue</key>
+		<string>Restliche Schriftbreite: %.0f</string>
+		<key>JapaneseValue</key>
+		<string>残り幅：%.0f</string>
+		<key>Key</key>
+		<string>REMAINING_WIDTH_IS_FORMAT</string>
+		<key>Value</key>
+		<string>Remaining width: %.0f</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er is niet genoeg ruimte voor een aantal geselecteerde kolommen.  Die kolomment worden niet opgenomen.</string>
+		<key>GermanValue</key>
+		<string>Es sind keine Plätze für einige ausgewählten Spalten vorhanden. Diese Spalten werden nicht miteinbezogen.</string>
+		<key>JapaneseValue</key>
+		<string>選択された縦列を入れるスペースが無いため、含まれません。 この縦列は含まれません。</string>
+		<key>Key</key>
+		<string>NO_ROOM_FOR_SOME_COLUMNS_ALERT</string>
+		<key>Value</key>
+		<string>There is no room for some of the columns you selected. Those columns will not be included.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ja</string>
+		<key>GermanValue</key>
+		<string>Ja</string>
+		<key>JapaneseValue</key>
+		<string>はい</string>
+		<key>Key</key>
+		<string>Yes</string>
+		<key>Value</key>
+		<string>Yes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Visueel</string>
+		<key>GermanValue</key>
+		<string>Erscheinungsbild</string>
+		<key>JapaneseValue</key>
+		<string>外見</string>
+		<key>Key</key>
+		<string>INSPECTOR APPEARANCE</string>
+		<key>Value</key>
+		<string>Appearance</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>ASC</string>
+		<key>GermanValue</key>
+		<string>ASC</string>
+		<key>JapaneseValue</key>
+		<string>昇順ソート</string>
+		<key>Key</key>
+		<string>SORT ASCENDING</string>
+		<key>Value</key>
+		<string>ASC</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Check</string>
+		<key>GermanValue</key>
+		<string>Überprüfung</string>
+		<key>JapaneseValue</key>
+		<string>チェック</string>
+		<key>Key</key>
+		<string>ELEMENT CHECK</string>
+		<key>Value</key>
+		<string>Check</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er is momenteel geen voorgrond.  Wenst u een voorgrong aan te maken?</string>
+		<key>GermanValue</key>
+		<string>Zurzeit ist kein Vordergrund vorhanden. Möchten Sie einen Vordergrund erstellen?</string>
+		<key>JapaneseValue</key>
+		<string>現在フォアグラウンドがありません。 フォアグラウンドを作成しますか。</string>
+		<key>Key</key>
+		<string>NO_FOREGROUND_SHOULD_ADD</string>
+		<key>Value</key>
+		<string>There currently is no foreground. Would you like to create a foreground?</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Niet genoeg ruimte voor de laatste %d kolommen</string>
+		<key>GermanValue</key>
+		<string>Es sind keine Plätze für die letzten %d Spalten vorhanden</string>
+		<key>JapaneseValue</key>
+		<string>最後％ｄ縦列を入れるスペースが足りません。</string>
+		<key>Key</key>
+		<string>NUMBER_OF_OVERAGE_COLUMNS_FORMAT</string>
+		<key>Value</key>
+		<string>No room for the last %d columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepeer op</string>
+		<key>GermanValue</key>
+		<string>Sortieren nach</string>
+		<key>JapaneseValue</key>
+		<string>分類</string>
+		<key>Key</key>
+		<string>GROUP BY PULLDOWN TITLE</string>
+		<key>Value</key>
+		<string>Group By</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Automatisch Passen</string>
+		<key>GermanValue</key>
+		<string>Automatisch anpassen</string>
+		<key>JapaneseValue</key>
+		<string>オートフィット</string>
+		<key>Key</key>
+		<string>AUTO_FIT</string>
+		<key>Value</key>
+		<string>Auto-Fit</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>3rd Sam. Rij</string>
+		<key>JapaneseValue</key>
+		<string>3rd Sum. Row</string>
+		<key>Key</key>
+		<string>ELEMENT 3RD SUMMARY ROW</string>
+		<key>Value</key>
+		<string>3rd Sum. Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Objecten van Relaties</string>
+		<key>GermanValue</key>
+		<string>Objekte von der Beziehung</string>
+		<key>JapaneseValue</key>
+		<string>リレーションからのオブジェクト</string>
+		<key>Key</key>
+		<string>MCReportDataInfoKeyPathPlugin</string>
+		<key>Value</key>
+		<string>Objects from Relationship</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rechthoek</string>
+		<key>GermanValue</key>
+		<string>Box</string>
+		<key>JapaneseValue</key>
+		<string>ボックス</string>
+		<key>Key</key>
+		<string>ELEMENT BOX</string>
+		<key>Value</key>
+		<string>Box</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket Matrix</string>
+		<key>GermanValue</key>
+		<string>Rastermuster benennen</string>
+		<key>JapaneseValue</key>
+		<string>マトリックスにラベルを張る</string>
+		<key>Key</key>
+		<string>ELEMENT LABEL MATRIX</string>
+		<key>Value</key>
+		<string>Label Matrix</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een keypath op te geven</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen Sie einen Schlüssel aus</string>
+		<key>JapaneseValue</key>
+		<string>を提供してください</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE A KEY</string>
+		<key>Value</key>
+		<string>Please provide a keypath</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina</string>
+		<key>GermanValue</key>
+		<string>Seite</string>
+		<key>JapaneseValue</key>
+		<string>ページ</string>
+		<key>Key</key>
+		<string>ELEMENT PAGE</string>
+		<key>Value</key>
+		<string>Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Samenvatting Rij</string>
+		<key>GermanValue</key>
+		<string>Übersichtsreihe</string>
+		<key>JapaneseValue</key>
+		<string>要約列</string>
+		<key>Key</key>
+		<string>ELEMENT SUMMARY ROW</string>
+		<key>Value</key>
+		<string>Summary Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ is verplicht, gelieve een start en eind datum in te voeren</string>
+		<key>GermanValue</key>
+		<string>%@ ist erforderlich. Bitte geben Sie ein Start-und Enddatum ein.</string>
+		<key>JapaneseValue</key>
+		<string>％ｄは必須です。開始日と終了日を入力してください。</string>
+		<key>Key</key>
+		<string>ALERT DATES REQUIRED FORMAT</string>
+		<key>Value</key>
+		<string>%@ is mandatory, please enter a start and end date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Boomstructuur</string>
+		<key>GermanValue</key>
+		<string>Outline</string>
+		<key>JapaneseValue</key>
+		<string>アウトライン</string>
+		<key>Key</key>
+		<string>OUTLINE_IN_LAYOUT</string>
+		<key>Value</key>
+		<string>Outline</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Staand</string>
+		<key>GermanValue</key>
+		<string>Portrait</string>
+		<key>JapaneseValue</key>
+		<string>ポートレート（縦向き）</string>
+		<key>Key</key>
+		<string>PORTRAIT</string>
+		<key>Value</key>
+		<string>Portrait</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Ongeldige datums voor %@, gelieve een start datum in te voeren die voor de eind datum valt</string>
+		<key>GermanValue</key>
+		<string>Ungültiges Datum für %@. Bitte geben Sie ein Startdatum ein, das vor dem Enddatum ist.</string>
+		<key>JapaneseValue</key>
+		<string>％ｄの日付けは不正です。終了日以前の開始日を入力してください。</string>
+		<key>Key</key>
+		<string>ALERT INVALID DATES FORMAT</string>
+		<key>Value</key>
+		<string>Invalid dates for %@, please enter a start date that is before the end date</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Body</string>
+		<key>GermanValue</key>
+		<string>Aufbau</string>
+		<key>JapaneseValue</key>
+		<string>本体</string>
+		<key>Key</key>
+		<string>ELEMENT BODY</string>
+		<key>Value</key>
+		<string>Body</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Grootte</string>
+		<key>GermanValue</key>
+		<string>Größeneinstellung</string>
+		<key>JapaneseValue</key>
+		<string>サイジング</string>
+		<key>Key</key>
+		<string>INSPECTOR SIZING</string>
+		<key>Value</key>
+		<string>Sizing</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een startdatum keypath op te geven</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen Sie einen Schlüssel für das Startdatum aus</string>
+		<key>JapaneseValue</key>
+		<string>開始日のキーパスを提供してください</string>
+		<key>Key</key>
+		<string>ALERT PROVIDE A START DATE KEY</string>
+		<key>Value</key>
+		<string>Please provide a start date keypath</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er deed zich een fout voor.  Gelieve de layout na te kijken op ongeldige script commandos, instellingen of sleutelvelden</string>
+		<key>GermanValue</key>
+		<string>Ein Fehler ist aufgetreten. Bitte überprüfen Sie das Layout nach ungültigen Skriptanordnungen, Einstellungen oder Feldtasten.</string>
+		<key>JapaneseValue</key>
+		<string>エラー発生。 レイアウトの不正のスクリプトコマンド、環境設定、またはフィールドキーを点検してください。</string>
+		<key>Key</key>
+		<string>ALERT INVALID SCRIPT</string>
+		<key>Value</key>
+		<string>An error has occurred. Please check the layout for invalid script commands or settings or field keys</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voorbeeld</string>
+		<key>GermanValue</key>
+		<string>Beispiel</string>
+		<key>JapaneseValue</key>
+		<string>例</string>
+		<key>Key</key>
+		<string>EXAMPLE CODE</string>
+		<key>Value</key>
+		<string>Example</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve het rapport/de layout te bewaren alvorens een proef te genereren</string>
+		<key>GermanValue</key>
+		<string>Bitte sichern Sie den Bericht/das Layout bevor Sie eine Simulation starten.</string>
+		<key>JapaneseValue</key>
+		<string>シミュレーションを実行する前にレポート、またはレイアウトをセーブしてください。</string>
+		<key>Key</key>
+		<string>ALERT SAVE FIRST</string>
+		<key>Value</key>
+		<string>Please save the report/layout before running a simulation</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepeer Op Band</string>
+		<key>GermanValue</key>
+		<string>Gruppieren nach Auflistung</string>
+		<key>JapaneseValue</key>
+		<string>伝票別に分類</string>
+		<key>Key</key>
+		<string>ELEMENT GROUP BY STRIP</string>
+		<key>Value</key>
+		<string>Group By Strip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>%@ is een verplicht veld, gelieve een waarde in te voeren</string>
+		<key>GermanValue</key>
+		<string>%@ ist ein Pflichtfeld. Bitte geben Sie einen Wert ein</string>
+		<key>JapaneseValue</key>
+		<string>％ｄは入力必須フィールドです。</string>
+		<key>Key</key>
+		<string>ALERT MANDATORY FIELD FORMAT</string>
+		<key>Value</key>
+		<string>%@ is a mandatory field, please enter a value</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Het rapport omvat meer dan 500 paginas. Dat lijkt onwaarschijnlijk, stoppen...</string>
+		<key>JapaneseValue</key>
+		<string>レポートが５００ページを越えています。不当なのでは？停止します。</string>
+		<key>Key</key>
+		<string>REPORT_WITH_MORE_THAN_500_PAGES_SEEMS_ODD_STOPPING</string>
+		<key>Value</key>
+		<string>Report is running over 500 pages. It seems unreasonable, stopping...</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Invoer Verplicht</string>
+		<key>GermanValue</key>
+		<string>Eingabe erforderlich</string>
+		<key>JapaneseValue</key>
+		<string>入力必須</string>
+		<key>Key</key>
+		<string>ALERT INPUT REQUIRED</string>
+		<key>Value</key>
+		<string>Input Required</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Geen</string>
+		<key>GermanValue</key>
+		<string>Keine</string>
+		<key>JapaneseValue</key>
+		<string>なし</string>
+		<key>Key</key>
+		<string>NO ENTITY</string>
+		<key>Value</key>
+		<string>None</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Liggend</string>
+		<key>GermanValue</key>
+		<string>Landschaft</string>
+		<key>JapaneseValue</key>
+		<string>ランドスケープ（横向き）</string>
+		<key>Key</key>
+		<string>LANDSCAPE</string>
+		<key>Value</key>
+		<string>Landscape</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Band</string>
+		<key>GermanValue</key>
+		<string>Leiste</string>
+		<key>JapaneseValue</key>
+		<string>バンド</string>
+		<key>Key</key>
+		<string>ELEMENT STRIP</string>
+		<key>Value</key>
+		<string>Strip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rapport</string>
+		<key>GermanValue</key>
+		<string>Bericht</string>
+		<key>JapaneseValue</key>
+		<string>レポート</string>
+		<key>Key</key>
+		<string>ELEMENT REPORT</string>
+		<key>Value</key>
+		<string>Report</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data</string>
+		<key>GermanValue</key>
+		<string>Data</string>
+		<key>JapaneseValue</key>
+		<string>データ</string>
+		<key>Key</key>
+		<string>CELL DATA</string>
+		<key>Value</key>
+		<string>Data</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Samenvatting</string>
+		<key>GermanValue</key>
+		<string>Übersicht</string>
+		<key>JapaneseValue</key>
+		<string>要約</string>
+		<key>Key</key>
+		<string>CELL SUMMARY</string>
+		<key>Value</key>
+		<string>Summary</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Standaard</string>
+		<key>GermanValue</key>
+		<string>Standard</string>
+		<key>JapaneseValue</key>
+		<string>標準</string>
+		<key>Key</key>
+		<string>STANDARD FILTER</string>
+		<key>Value</key>
+		<string>Standard</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Er trad zich een fout op  tijdens het genereren van de afdruk templates.  Gelieve opnieuw te proberen met een andere template.
+
+%@</string>
+		<key>GermanValue</key>
+		<string>Es wurde ein Fehler gefunden, als die Druckvorlagen geöffnet werden sollten. Bitte versuchen Sie es mit einer anderen Vorlage 
+
+%@ erneut.</string>
+		<key>JapaneseValue</key>
+		<string>プリントテンプレート作成中にエラーが生じました。 別のテンプレートを試みてください。
+
+%@</string>
+		<key>Key</key>
+		<string>ENCOUNTERED_PRINT_TEMPL_ERROR_FORMAT</string>
+		<key>Value</key>
+		<string>Encountered an error while generating the print templates. Please try again with another template.
+
+%@</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Logo</string>
+		<key>GermanValue</key>
+		<string>Logo</string>
+		<key>JapaneseValue</key>
+		<string>ロゴ</string>
+		<key>Key</key>
+		<string>ELEMENT LOGO</string>
+		<key>Value</key>
+		<string>Logo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Etiket Cel</string>
+		<key>GermanValue</key>
+		<string>Zelle benennen</string>
+		<key>JapaneseValue</key>
+		<string>セルにラベルを張る</string>
+		<key>Key</key>
+		<string>ELEMENT LABEL CELL</string>
+		<key>Value</key>
+		<string>Label Cell</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Een %@ hier toevoegen is niet toegestaan.  Gelieve na te kijken of het correct Parent element werd geplaatst</string>
+		<key>GermanValue</key>
+		<string>Sie dürfen %@ in dieser Situation nicht hinzufügen. Stellen sIe sicher, dass das korrekte Ausgangselement eingerichtet ist.</string>
+		<key>JapaneseValue</key>
+		<string>この時点で％ｄを追加することはできません。 正しいペアレントエレメントの存在を確認してください。</string>
+		<key>Key</key>
+		<string>ALERT ADDING AT THIS JUNCTURE IS NOT ALLOWED FORMAT</string>
+		<key>Value</key>
+		<string>Adding %@ at this juncture is not allowed. Please ensure the correct parent element is in place</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Onderdelen</string>
+		<key>GermanValue</key>
+		<string>Parts</string>
+		<key>JapaneseValue</key>
+		<string>局部</string>
+		<key>Key</key>
+		<string>PARTS_IN_LAYOUT</string>
+		<key>Value</key>
+		<string>Parts</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Hoofding</string>
+		<key>GermanValue</key>
+		<string>Titel</string>
+		<key>JapaneseValue</key>
+		<string>ヘッダー</string>
+		<key>Key</key>
+		<string>CELL HEADER</string>
+		<key>Value</key>
+		<string>Header</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Attributen</string>
+		<key>GermanValue</key>
+		<string>Eigenschaften</string>
+		<key>JapaneseValue</key>
+		<string>属性</string>
+		<key>Key</key>
+		<string>INSPECTOR ATTRIBUTES</string>
+		<key>Value</key>
+		<string>Attributes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Groepeer Op</string>
+		<key>GermanValue</key>
+		<string>Sortieren nach</string>
+		<key>JapaneseValue</key>
+		<string>分類</string>
+		<key>Key</key>
+		<string>ELEMENT GROUP BY</string>
+		<key>Value</key>
+		<string>Group By</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afgedrukt:</string>
+		<key>GermanValue</key>
+		<string>Gedruckt:</string>
+		<key>JapaneseValue</key>
+		<string>印刷</string>
+		<key>Key</key>
+		<string>PRINTED:</string>
+		<key>Value</key>
+		<string>Printed:</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Neen</string>
+		<key>GermanValue</key>
+		<string>Nein</string>
+		<key>JapaneseValue</key>
+		<string>いいえ</string>
+		<key>Key</key>
+		<string>No</string>
+		<key>Value</key>
+		<string>No</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naam</string>
+		<key>GermanValue</key>
+		<string>Name</string>
+		<key>JapaneseValue</key>
+		<string>名前</string>
+		<key>Key</key>
+		<string>INSPECTOR NAME</string>
+		<key>Value</key>
+		<string>Name</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve een soort op te geven</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen Sie eine Art aus</string>
+		<key>JapaneseValue</key>
+		<string>種類を選択してください。</string>
+		<key>Key</key>
+		<string>ALERT SELECT KIND</string>
+		<key>Value</key>
+		<string>Please select a Kind</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gelieve eerst een template te selecteren.</string>
+		<key>GermanValue</key>
+		<string>Bitte wählen zunächst eine Vorlage aus.</string>
+		<key>JapaneseValue</key>
+		<string>テンプレートを選択してください。</string>
+		<key>Key</key>
+		<string>PLEASE_SELECT_A_TEMPLATE</string>
+		<key>Value</key>
+		<string>Please select a template first.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Meerdere Geselecteerd</string>
+		<key>GermanValue</key>
+		<string>Mehrfache Auswahl</string>
+		<key>JapaneseValue</key>
+		<string>複数選択されています</string>
+		<key>Key</key>
+		<string>MULTI SELECTION IN PATH BAR</string>
+		<key>Value</key>
+		<string>Multiple Selection</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Unable to write the generated report to the tmp folder, please check permissions on the /tmp folder.</string>
+		<key>JapaneseValue</key>
+		<string>作成されたレポートがテンポラリフォルダーに書き込みできません。/tmpへの書き込み権を確認してください。</string>
+		<key>Key</key>
+		<string>UNABLE_TO_WRITE_REPORT_TO_TMP</string>
+		<key>Value</key>
+		<string>Unable to write the generated report to the tmp folder, please check permissions on the /tmp folder.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Info</string>
+		<key>GermanValue</key>
+		<string>Info</string>
+		<key>JapaneseValue</key>
+		<string>情報</string>
+		<key>Key</key>
+		<string>INFO_IN_LAYOUT</string>
+		<key>Value</key>
+		<string>Info</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data Rij</string>
+		<key>GermanValue</key>
+		<string>Datenreihe</string>
+		<key>JapaneseValue</key>
+		<string>データ列</string>
+		<key>Key</key>
+		<string>ELEMENT DATA ROW</string>
+		<key>Value</key>
+		<string>Data Row</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Gebruikers Invoer</string>
+		<key>GermanValue</key>
+		<string>Benutzereingabe</string>
+		<key>JapaneseValue</key>
+		<string>ユーザーインプット</string>
+		<key>Key</key>
+		<string>INSPECTOR USER INPUT</string>
+		<key>Value</key>
+		<string>User Input</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kan niet schrijven in de map, selecteer een map waarin geschreven kan worden.</string>
+		<key>GermanValue</key>
+		<string>Dieser Ordner kann nicht überschrieben werden. Bitte wählen Sie einen überschreibbaren Ordner aus.</string>
+		<key>JapaneseValue</key>
+		<string>このフォルダーは書き込み不可能です。書き込み可能のフォルダーを選択してください。</string>
+		<key>Key</key>
+		<string>FOLDER_NOT_WRITABLE</string>
+		<key>Value</key>
+		<string>Folder is not writable, please select a writable folder.</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Objects van Script</string>
+		<key>GermanValue</key>
+		<string>Objekte von dem Skript</string>
+		<key>JapaneseValue</key>
+		<string>スクリプトからのオブジェクト</string>
+		<key>Key</key>
+		<string>MCReportDataInfoScriptPlugin</string>
+		<key>Value</key>
+		<string>Objects from Script</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Annuleer</string>
+		<key>GermanValue</key>
+		<string>Abbrechen</string>
+		<key>JapaneseValue</key>
+		<string>キャンセル</string>
+		<key>Key</key>
+		<string>CANCEL</string>
+		<key>Value</key>
+		<string>Cancel</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen passen perfect</string>
+		<key>GermanValue</key>
+		<string>Die Spalten passen perfekt hinein</string>
+		<key>JapaneseValue</key>
+		<string>縦列は適合です。　</string>
+		<key>Key</key>
+		<string>NO_REMAINING_WIDTH</string>
+		<key>Value</key>
+		<string>Columns fit perfectly</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Beschikbaar</string>
+		<key>GermanValue</key>
+		<string>verfügbar</string>
+		<key>JapaneseValue</key>
+		<string>利用可能</string>
+		<key>Key</key>
+		<string>COLUMNS FOR KEY BROWSER</string>
+		<key>Value</key>
+		<string>Available</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Data</string>
+		<key>GermanValue</key>
+		<string>Data</string>
+		<key>JapaneseValue</key>
+		<string>データ</string>
+		<key>Key</key>
+		<string>INSPECTOR DATA</string>
+		<key>Value</key>
+		<string>Data</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Invoegen</string>
+		<key>GermanValue</key>
+		<string>Einsatz</string>
+		<key>JapaneseValue</key>
+		<string>挿入</string>
+		<key>Key</key>
+		<string>Insert</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Converteer</string>
+		<key>GermanValue</key>
+		<string>Convert</string>
+		<key>JapaneseValue</key>
+		<string>変換</string>
+		<key>Key</key>
+		<string>Convert</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Onder Uit</string>
+		<key>GermanValue</key>
+		<string>Align Bottom Edges</string>
+		<key>JapaneseValue</key>
+		<string>下端をそろえる</string>
+		<key>Key</key>
+		<string>Align Bottom Edges</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tekst Vak</string>
+		<key>GermanValue</key>
+		<string>Textbereich</string>
+		<key>JapaneseValue</key>
+		<string>テキスト領域</string>
+		<key>Key</key>
+		<string>Text Area</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen Rechts</string>
+		<key>GermanValue</key>
+		<string>Tabellensäule nach rechts</string>
+		<key>JapaneseValue</key>
+		<string>表の縦列を右に</string>
+		<key>Key</key>
+		<string>Table Column to the Right</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Checkmark</string>
+		<key>GermanValue</key>
+		<string>To Checkmark</string>
+		<key>JapaneseValue</key>
+		<string>チェックマークへ</string>
+		<key>Key</key>
+		<string>To Checkmark</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toggle Layout Rechthoeken</string>
+		<key>GermanValue</key>
+		<string>Toggle Layout Rectangles</string>
+		<key>JapaneseValue</key>
+		<string>レイアウト長方形をトグル</string>
+		<key>Key</key>
+		<string>Toggle Layout Rectangles</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Rechthoek</string>
+		<key>GermanValue</key>
+		<string>To Box</string>
+		<key>JapaneseValue</key>
+		<string>ボックスへ</string>
+		<key>Key</key>
+		<string>To Box</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Element Converteren</string>
+		<key>GermanValue</key>
+		<string>Convert Element</string>
+		<key>JapaneseValue</key>
+		<string>エレメントを変換</string>
+		<key>Key</key>
+		<string>Convert Element</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Afbeelding</string>
+		<key>GermanValue</key>
+		<string>To Image</string>
+		<key>JapaneseValue</key>
+		<string>イメージへ</string>
+		<key>Key</key>
+		<string>To Image</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Element Invoegen</string>
+		<key>GermanValue</key>
+		<string>Insert Element</string>
+		<key>JapaneseValue</key>
+		<string>エレメントを挿入</string>
+		<key>Key</key>
+		<string>Insert Element</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tabel</string>
+		<key>GermanValue</key>
+		<string>Tabelle</string>
+		<key>JapaneseValue</key>
+		<string>表</string>
+		<key>Key</key>
+		<string>Table</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Checkmark</string>
+		<key>GermanValue</key>
+		<string>Überprüfung</string>
+		<key>JapaneseValue</key>
+		<string>チェックマーク</string>
+		<key>Key</key>
+		<string>Checkmark</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Achteren</string>
+		<key>GermanValue</key>
+		<string>Send Backwards</string>
+		<key>JapaneseValue</key>
+		<string>後ろへ</string>
+		<key>Key</key>
+		<string>Send Backwards</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Links Uit</string>
+		<key>GermanValue</key>
+		<string>Align Left Edges</string>
+		<key>JapaneseValue</key>
+		<string>左端をそろえる</string>
+		<key>Key</key>
+		<string>Align Left Edges</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Voorvertoning</string>
+		<key>GermanValue</key>
+		<string>Vorschau</string>
+		<key>JapaneseValue</key>
+		<string>プレビュー</string>
+		<key>Key</key>
+		<string>Preview</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Master Page Tools</string>
+		<key>GermanValue</key>
+		<string>Master Page Tools</string>
+		<key>JapaneseValue</key>
+		<string>マスターページツール</string>
+		<key>Key</key>
+		<string>Master Page Tools</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toggle Randen</string>
+		<key>GermanValue</key>
+		<string>Toggle-Taste Grenzen</string>
+		<key>JapaneseValue</key>
+		<string>境界線をトグルする</string>
+		<key>Key</key>
+		<string>Toggle Boundaries</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Kolommen Links</string>
+		<key>GermanValue</key>
+		<string>Tabellensäule nach links</string>
+		<key>JapaneseValue</key>
+		<string>表の縦列を左に</string>
+		<key>Key</key>
+		<string>Table Column to the Left</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Pagina Nummer</string>
+		<key>GermanValue</key>
+		<string>Seitenzahl</string>
+		<key>JapaneseValue</key>
+		<string>ページ番号</string>
+		<key>Key</key>
+		<string>Page Number</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Band</string>
+		<key>GermanValue</key>
+		<string>Leiste</string>
+		<key>JapaneseValue</key>
+		<string>バンド</string>
+		<key>Key</key>
+		<string>Strip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak even hoog</string>
+		<key>GermanValue</key>
+		<string>Match Heights</string>
+		<key>JapaneseValue</key>
+		<string>高さを合わせる</string>
+		<key>Key</key>
+		<string>Match Heights</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak even Breed</string>
+		<key>GermanValue</key>
+		<string>Match Widths</string>
+		<key>JapaneseValue</key>
+		<string>幅を合わせる</string>
+		<key>Key</key>
+		<string>Match Widths</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Horizontale Lijn</string>
+		<key>GermanValue</key>
+		<string>Horizontale Linie</string>
+		<key>JapaneseValue</key>
+		<string>横線</string>
+		<key>Key</key>
+		<string>Horizontal Line</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Master Pagina Verwijderen</string>
+		<key>GermanValue</key>
+		<string>Entfernen Sie Master-Seite</string>
+		<key>JapaneseValue</key>
+		<string>マスターページを削除</string>
+		<key>Key</key>
+		<string>Remove Master Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Rechts Uit</string>
+		<key>GermanValue</key>
+		<string>Align Right Edges</string>
+		<key>JapaneseValue</key>
+		<string>右端をそろえる</string>
+		<key>Key</key>
+		<string>Align Right Edges</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Maak passend aan tekst</string>
+		<key>GermanValue</key>
+		<string>Size to Fit Text</string>
+		<key>JapaneseValue</key>
+		<string>テキストのサイズに合わせる</string>
+		<key>Key</key>
+		<string>Size to Fit Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Voren</string>
+		<key>GermanValue</key>
+		<string>Bring Forward</string>
+		<key>JapaneseValue</key>
+		<string>前へ</string>
+		<key>Key</key>
+		<string>Bring Forward</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Schikken</string>
+		<key>GermanValue</key>
+		<string>Einigen</string>
+		<key>JapaneseValue</key>
+		<string>配列</string>
+		<key>Key</key>
+		<string>Arrange</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Rechthoek</string>
+		<key>GermanValue</key>
+		<string>Box</string>
+		<key>JapaneseValue</key>
+		<string>ボックス</string>
+		<key>Key</key>
+		<string>Box</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Herstel</string>
+		<key>GermanValue</key>
+		<string>Widerrufen</string>
+		<key>JapaneseValue</key>
+		<string>取り消し（アンドゥ）</string>
+		<key>Key</key>
+		<string>Undo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Dynamische Tekst</string>
+		<key>GermanValue</key>
+		<string>Dynamic Text</string>
+		<key>JapaneseValue</key>
+		<string>動的テキスト</string>
+		<key>Key</key>
+		<string>Dynamic Text</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Verticale Lijn</string>
+		<key>GermanValue</key>
+		<string>Vertikale Linie</string>
+		<key>JapaneseValue</key>
+		<string>縦線</string>
+		<key>Key</key>
+		<string>Vertical Line</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Toggle Voorgrond</string>
+		<key>GermanValue</key>
+		<string>Toggle-Taste Vordergrund</string>
+		<key>JapaneseValue</key>
+		<string>フォアグラウンドをトグルする</string>
+		<key>Key</key>
+		<string>Toggle Foreground</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Tekst Vak</string>
+		<key>GermanValue</key>
+		<string>To Text Area</string>
+		<key>JapaneseValue</key>
+		<string>テキストエリアへ</string>
+		<key>Key</key>
+		<string>To Text Area</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Master Pagina Toevoegen</string>
+		<key>GermanValue</key>
+		<string>Fügen Sie Master-Seite hinzu</string>
+		<key>JapaneseValue</key>
+		<string>マスターページを追加</string>
+		<key>Key</key>
+		<string>Add Master Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Stel Tekst Attributen in als Standaard Attributen</string>
+		<key>GermanValue</key>
+		<string>Set Text Attributes as Default Attributes</string>
+		<key>JapaneseValue</key>
+		<string>テキストアトリビュートをデフォルトアトリビュートにする</string>
+		<key>Key</key>
+		<string>Set Text Attributes as Default Attributes</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Elementen Schikken</string>
+		<key>GermanValue</key>
+		<string>Ordnen Sie Elemente ein</string>
+		<key>JapaneseValue</key>
+		<string>エレメントを配列</string>
+		<key>Key</key>
+		<string>Arrange Elements</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>&lt;TO TRANSLATE&gt;Color Chip</string>
+		<key>GermanValue</key>
+		<string>Farbe</string>
+		<key>JapaneseValue</key>
+		<string>カラーチップ</string>
+		<key>Key</key>
+		<string>Color Chip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Naar Color Chip</string>
+		<key>GermanValue</key>
+		<string>To Color Chip</string>
+		<key>JapaneseValue</key>
+		<string>カラーチップへ</string>
+		<key>Key</key>
+		<string>To Color Chip</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Afbeelding</string>
+		<key>GermanValue</key>
+		<string>Bild</string>
+		<key>JapaneseValue</key>
+		<string>イメージ</string>
+		<key>Key</key>
+		<string>Image</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Opnieuw</string>
+		<key>GermanValue</key>
+		<string>Wiederherstellen</string>
+		<key>JapaneseValue</key>
+		<string>やり直す（リドゥ）</string>
+		<key>Key</key>
+		<string>Redo</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Master Page</string>
+		<key>GermanValue</key>
+		<string>Master Page</string>
+		<key>JapaneseValue</key>
+		<string>マスターページ</string>
+		<key>Key</key>
+		<string>Master Page</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Tabel Kolommen</string>
+		<key>GermanValue</key>
+		<string>Tabellensäulen</string>
+		<key>JapaneseValue</key>
+		<string>表の縦列</string>
+		<key>Key</key>
+		<string>Table Columns</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Genereer &amp; Voorvertoning</string>
+		<key>GermanValue</key>
+		<string>Erzeugen Sie und Vorher ansehen</string>
+		<key>JapaneseValue</key>
+		<string>作成＆プレビュー</string>
+		<key>Key</key>
+		<string>Generate &amp; Preview</string>
+	</dict>
+	<dict>
+		<key>DutchValue</key>
+		<string>Lijn Boven Uit</string>
+		<key>GermanValue</key>
+		<string>Align Top Edges</string>
+		<key>JapaneseValue</key>
+		<string>上端をそろえる</string>
+		<key>Key</key>
+		<string>Align Top Edges</string>
+	</dict>
+	<dict>
+		<key>JapaneseValue</key>
+		<string>基本</string>
+		<key>Key</key>
+		<string>Basic</string>
+	</dict>
+	<dict>
+		<key>JapaneseValue</key>
+		<string>マスター</string>
+		<key>Key</key>
+		<string>Master</string>
+	</dict>
+</array>
+</plist>
